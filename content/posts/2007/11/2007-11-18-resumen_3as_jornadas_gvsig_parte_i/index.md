@@ -1,0 +1,31 @@
+---
+title: "Resumen de las 3as Jornadas gvSIG Parte I"
+date: "2007-11-18"
+categories: 
+  - "gis"
+---
+
+¡Hola a todos! Siguiendo con el compromiso que tenemos con nosotros mismos de ser geo-curiosos..., vale, y algunos por motivos laborales, dos miembros del geomaticblog han asistido, y uno además ha sido ponente , a las 3as Jornadas de gvSIG que han tenido lugar en Valencia el 14, 15 y 16 de Noviembre de 2007. Aquí el pequeño resumen que os trae Vehrka: Las jornadas comenzaron con 5 talleres que se desarrollaron a lo largo del miercoles. **Primer taller "Novedades gvSIG"** El primer taller era sobre novedades y nos enseñaron las cosas que se han estado desarrollando últimamente y que aún no están incorporadas totalmente a la aplicación, aunque todos dijeron que estarían disponibles en pocos meses.
+
+- Ignacio Brodín (Jefe de proyecto gvSIG raster. Iver) y Diego Guerrero (IDR. Universidad Castilla-La-Mancha) hablaron sobre la nueva implementación raster. Va a permitir incorporar nueva simbología, recortes on-the-fly, filtros, calculadora raster y clasificación supervisada. Los desarrollos son independientes del trabajo de Victor Olaya.
+- Jaume Dominguez (Iver) nos enseño la simbología avanzada, se podrá aplicar simbología estadística, niveles de visualización (en la demo un cruce de carreteras que se auto-enmascaraba), etiquetado avanzado, juegos de simbología no cerrados, bibliotecas de símbolos.
+- Fran Peñarrubia (Freelance) Estuvo hablándonos sobre el mejorado modulo de análisis de redes que permitirá la creación de topología de red (grafos) y su análisis pudiendo calcular el camino mínimo, áreas de influencia, la matriz de distancias, el árbol de recubrimiento mínimo.
+- Javi Carrasco (Prodevelop) nos enseñó el nuevo piloto de gvSIG mobile, la implementación de gvSIG sobre PDA, como no tenía mucho tiempo solo enseño la sincronización de datos con la aplicación desktop y un poco el manejo básico (zooms, gestión de capas) y un poco del GPS. A más de uno nos dejó con la boca abierta y a la espera de poder trastear con él.
+- Salvador Bayarri (Iver) fue el responsable de enseñarnos el piloto de gvSIG 3D, desarrollado empleando una librería OS en C++ llamada Open Scene Graph. Permite "tirar" sobre una bola del mundo capas raster, vectoriales servicios WMS, usar servicios de nomenclator, importar capas de vistas 2D, todo rulando muy fino y con una pinta impresionante. Otro "must see".
+
+**Segundo taller "Geonetwork y Metadatos gvSIG"** El segundo taller versaba sobre la parte más complicada de las IDEs, los metadatos. Las promesas al respecto en cuanto a gvSIG son de facilitarnos la creación y mantenimiento de estos, incluso jugando entre estándares.
+
+- Michael Gould (del CeVI de la UJI de Castellón) nos hablo de la importancia de implementar la integración de metadatos en las mismas operaciones, de forma que estos prácticamente se auto rellenen. Sobre la extracción y el descubrimiento de metadatos dijo que debería seguirse [el modelo de Google](http://www.geoinfo.uji.es/pubs/2007-jidee_poster.pdf), esto es a través de los contextos.
+- Jeroen Ticheler (FAO-ONU) nos habló sobre la nueva versión de Geonetwork la 2.1, presentando como principales novedades su facilidad de instlación y mantenimiento (hizo una instalación completa en el taller y le llevo cosa de 4 minutos). Su nuevo motor de búsqueda interno basado en [Lucene](http://es.wikipedia.org/wiki/Lucene). La implantación de un servicio CSW según OGC siguiendo perfiles ISO. Y al haber embebido geoserver en el programa a partir de ahora se puede ver la representación de las capas en un mapa interactivo y guardarlo como composición de mapa o enviarlo por correo. Incluso han creado un formato nuevo de metadatos llamado MEF que permite integrar datos y metadatos e impedir que se disgregen. Cabe destacar en especial la creación de [un GUID](http://en.wikipedia.org/wiki/Globally_Unique_Identifier) para cada capa catalogada de forma que sea más fácil mantener el catálogo y hacer referencias cruzadas.
+- Michael Gould y Arturo Beltrán (UJI de Castellón) presentaron las novedades futuras en cuanto a tratamiento de metadatos desde gvSIG incluyendo la extracción automática de metadatos, catalogación de geoprocesos (en estudio todavía), generación de varios formatos de metadatos (ISO, NEM, Dublin Core...) y la publicación automática en catálogos como Geonetwork
+
+**Cuarto taller "gvSIG y SEXTANTE para desarolladores"** El tercer y cuarto taller eran simultaneos, así que como no tengo el don de la ubicuidad elegí acercarme al taller que daban Fran y Victor sobre cómo hacer extensiones para gvSIG. Espero que alguien que asistiera al tercer taller se anime y escriba sobre él, aunque sea en portuñol ;)
+
+- Fran Peñarubia empezó explicando un poco cuál es la estructura interna de gvSIG. Que yo sepa (aunque sé muy poco) es la primera vez que alguien ha explicado en unas jornadas cosas sobre Andami, Fmap, Cresques... El taller se completó con un rápido repaso a cómo hacer extensiones en gvSIG
+- Victor Olaya (Proyecto SEXTANTE. Universidad de Extremadura) habló sobre como emplear la Standard Extension de SEXTANTE para generar nuevas extensiones dentro del famoso plugin de gvSIG. La idea principal parte de separar el algoritmo de todo lo demás de forma que el programador solo se tenga que preocupar de solicitar a SEXTANTE los datos de entrada y devolver los de salida. Toda la interacción con la GUI corre por parte de SEXTANTE
+
+**Clausura de talleres** Corria a cargo de Ralph Mueller (Eclipse foundation) pero inexplicablemente no encontré la entrada a la sala y sí la entrada a la cafetería de enfrente del palacio donde en un principio iba a mantenerse una pre-reunión de autores del [Libro libre del SIG](http://wiki.osgeo.org/index.php/Libro_SIG) del que hablaré un poco más adelante. La reunión acabó en cena y copita, pero nos fuimos pronto a la cama que al día siguiente había que trabajar duro. **Por la boca muere el pez** Cuando estás tanto rato atento a lo que te van contando en unas jornadas así, los lapsus linguae suelen ser como un rayito de sol... Que nadie se ofenda ni se moleste, son simplemente cosas que en un determinado contexto te levantan una sonrisa.
+
+Diego:
+
+Las áreas de supervisión se definen como diversos tipos de geometrías, como por ejemplo áreas, líneas y puntos.

@@ -1,0 +1,457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+
+<head profile="http://gmpg.org/xfn/11">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>CartoSiG | GIS, Cartography and GeoSpatial Content</title>
+    <link rel="stylesheet" href="http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/style.css" type="text/css" media="screen" />
+    <!--[if IE]> 
+        <link rel="stylesheet" href="http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/css/ie.css" type="text/css" media="screen, projection" /> 
+    <![endif]-->
+    <!--[if IE 7]>                
+        <link rel="stylesheet" href="http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/css/ie7.css" type="text/css" media="screen" />
+    <![endif]-->
+    <link rel="pingback" href="http://cartosig.webs.upv.es/xmlrpc.php" />
+    
+             
+
+    <!-- [favicon] begin -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://cartosig.webs.upv.es/favicon.ico" />
+    <!-- [favicon] end -->   
+    
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cartosig.webs.upv.es' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CartoSiG &raquo; Feed" href="https://cartosig.webs.upv.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CartoSiG &raquo; Feed de los comentarios" href="https://cartosig.webs.upv.es/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cartosig.webs.upv.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='prettyPhoto-css'  href='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/css/prettyPhoto.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-jCarousel-css'  href='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/css/jCarousel.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://cartosig.webs.upv.es/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/cufon-yui.js?ver=5.9' id='cufon-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/halo.cufon.js?ver=5.9' id='cufon-halo-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/fonts/champagne.font.js?ver=5.9' id='cufon-champagne-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/cufon-replaces.js?ver=5.9' id='cufon-champagne-replace-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.cycle.min.js?ver=2.88' id='jquery-cycle-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.easing.1.3.js?ver=1.3' id='jquery-easing-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.prettyPhoto.js?ver=3.0' id='jquery-prettyPhoto-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.tipsy.js?ver=5.9' id='jquery-tipsy-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.tweetable.js?ver=5.9' id='jquery-tweetable-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jqFancyTransitions.min.js?ver=5.9' id='jqFancyTransitions-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.jcarousel.min.js?ver=5.9' id='jquery-carousel-js'></script>
+<link rel="https://api.w.org/" href="https://cartosig.webs.upv.es/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cartosig.webs.upv.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cartosig.webs.upv.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/images/bg.jpg"); background-position: center top; background-size: auto; background-repeat: no-repeat; background-attachment: scroll; }
+</style>
+	</head>
+
+<body class="home blog custom-background no_js font_champagne">              
+        
+    <!-- START WRAPSHADOW -->
+    <div id="wrapShadow">       
+                             
+		<!-- START WRAPPER -->
+		<div id="wrapper">          
+		    
+		    <!-- START HEADER -->
+		    <div id="header">            
+		        
+		        <!-- START LOGO -->
+		        <div id="logo">
+		            
+		            <a href="https://cartosig.webs.upv.es" title="CartoSiG"> 
+		                
+		                		                <span class="name">CartoSiG</span>
+		                <span class="description">GIS, Cartography and GeoSpatial Content</span>
+		                		            
+		            </a>              
+		        
+		        </div>
+		        <!-- END LOGO -->  
+		    
+		        <!-- START NAV -->
+		        <div id="nav" class="group">
+		            <ul id="menu-menu-1" class="level-1"><li id="menu-item-718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-718"><a href="http://cartosig.webs.upv.es">Blog</a></li>
+<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="https://cartosig.webs.upv.es/acerca-de/">Contacto</a></li>
+<li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="https://cartosig.webs.upv.es/cursos/">Cursos UPV</a></li>
+<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://cartosig.webs.upv.es/recursos/">Recursos</a></li>
+<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="https://cartosig.webs.upv.es/tweets/">Noticias</a></li>
+<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a href="https://cartosig.webs.upv.es/jaspa-the-spatial-extension-for-postgresql-h2-and-oracle/">Jaspa</a></li>
+</ul>    
+		        </div>
+		        <!-- END NAV -->     
+		    
+		    </div>   
+		    <!-- END HEADER -->
+		    
+		    <!-- START SLOGAN -->
+		    			
+		
+		    <div class="line clear"></div>
+            
+                                
+             
+            
+            <div class="space"></div>
+            
+                                
+            
+            <div class="clear"></div>		    <!-- END SLOGAN -->                     
+        
+                <!-- START HEADER IMAGE-->
+        <div id="slideshow">
+            <div id="images">
+	            <img src="http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/images/slideshow/001.jpg" width="864" height="319" alt="" />  
+			</div>
+		</div>
+        <!-- END HEADER IMAGE --> 
+             
+        
+        <div class="clear"></div>
+        
+                        
+        <!-- START CONTENT -->
+        <div id="content">   
+                   				<div class="clear"></div>
+                    
+                    					
+                            
+                    
+                    <div id="post-1264" class="hentry-post group post-1264 post type-post status-publish format-standard hentry category-blog">                
+                              
+                        <div class="date">    
+								
+								<h2 class="title-blog"><a href="https://cartosig.webs.upv.es/2021/07/27/geodesic-intersection-proposed-algorithm-and-error-assessment-of-current-software/" title="Permalink to Geodesic intersection: proposed algorithm and error assessment of current software" rel="bookmark">Geodesic intersection: proposed algorithm and error assessment of current software</a></h2> 
+                                                        
+                            <div class="mon-year">
+                                <span>Jul</span><br />2021                            </div>
+                            
+                            <div class="day">
+                                27                            </div>
+                            
+                            <div class="clear"></div>
+                        </div>
+                        
+                        <div class="clear line"></div>
+                        <p class="meta left">posted by <a href="https://cartosig.webs.upv.es/author/jomarlla/" title="Entradas de jomarlla" rel="author">jomarlla</a> on <a href="https://cartosig.webs.upv.es/category/blog/" rel="category tag">Blog</a></p>
+                                                	<p class="meta right"><a href="https://cartosig.webs.upv.es/2021/07/27/geodesic-intersection-proposed-algorithm-and-error-assessment-of-current-software/#respond">No comments</a></p>
+                                                <div class="clear line space-content"></div>  
+                            
+                                            
+                                             
+                        <p><a title="Intersección de geodésicas: algoritmo propuesto y cálculo de errores de los aplicativos actuales" href="https://cartosig.webs.upv.es/2021/07/27/interseccion-de-geodesicas-algoritmo-propuesto-y-calculo-de-errores-de-los-aplicativos-actuales/">Haz clic aquí para ver la versión en español.</a></p>
+<p>I want to show you the summary of a research that we have recently published. We will only focus on the results, for the methodology details you can check the two published articles [1] [2].</p>
+<p>As we know to perform any geospatial analysis it is necessary to use a projected coordinate reference system (CRS). The current available geospatial software implements certain operations on the ellipsoid, without using a projected SRS, such as the direct and inverse problems of geodesy, and in this way allows to calculate distances on the ellipsoid, or to calculate a point from an azimuth and a distance. But, these operations are not enough to carry out a full spatial analysis on the ellipsoid, and to address a simple intersection of two segments, or the minimum distance from a point to a line is still solved using a projected CRS, and thereforem any more complex operation such as a full geometric intersection, a buffer, etc. is calculated in the same way.</p>
+<p><strong><span style="color: #0000ff;">This way several issues appear:</span></strong></p>
+<ul>
+<li>What projected CRS do I use to perform the calculations? This will undoubtedly limit the geographic zone of the analysis.</li>
+<li>And worst of all, what error am I making when using a projected CRS? And I go further, these <strong>unknown</strong> errors <strong>could be greater than the cartographic precision</strong> of my geo data?</li>
+</ul>
+<p>In the articles [1] [2] two cases are studied: an intersection of two linear segments, and the minimum distance from a point to a line, but that is, considering that these lines are geodesic. Based on these two cases, it would be possible to build or improve a computational geometry library (e.g. JTS) to perform the full geo spatial analysis on the ellipsoid.</p>
+<p><strong><span style="color: #0000ff;">Problem to solve:</span></strong></p>
+<p>Suppose we want to obtain the intersection point of two segments AB and CD each one defined by their two initial and final points (figure 1). Thus, we consider the following table with the coordinates of four different examples:</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5.png"><img loading="lazy" class="alignnone size-full wp-image-1254" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5.png" alt="blog_gi5" width="949" height="189" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5.png 949w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5-300x59.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5-100x19.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5-280x55.png 280w" sizes="(max-width: 949px) 100vw, 949px" /></a></p>
+<p>The distance AX and CX gives us an idea of the length of these segments, from less than 10 km in case 1, up to more than 10,000 km in case 4.</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2.png"><img loading="lazy" class="alignnone wp-image-1255 size-medium aligncenter" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-300x228.png" alt="blog_gi2" width="300" height="228" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-300x228.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-100x76.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-195x149.png 195w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2.png 357w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Table 1 shows the intersection point (point X) calculated by some of the best-known geo spatial software on the market, some software mention that they work directly on the ellipsoid (supposedly) and others use a projected CRS for the calculation.</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1.png"><img loading="lazy" class="alignnone size-full wp-image-1257" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1.png" alt="blog_gi1" width="889" height="569" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1.png 889w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1-300x192.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1-100x64.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1-232x149.png 232w" sizes="(max-width: 889px) 100vw, 889px" /></a></p>
+<p><strong><span style="color: #ff6600;">It is scary at first to see how each software obtains different results (point X)</span></strong>. So what software gives the most correct results? And, what&#8217;s more, do any of them give the exact result? And if not, <strong>what error does each software make?</strong></p>
+<p>Table 3 shows the point X calculated by the algorithm proposed by the authors of this article. Specifically with the implementation made in PostGIS (<strong>STX_GeodesicIntersection</strong> function), although any other implementation should give the same results.</p>
+<p>As you can see, it is a fast convergence algorithm (see number of iterations). Furthermore, Test B (see article [1] for its definition) calculates the distance from the exact point X to the calculated point. An error of less than 100nm indicates that computational precision has been achieved (calculations with 64-bit floating types).</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4.png"><img loading="lazy" class="alignnone size-full wp-image-1258" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4.png" alt="blog_gi4" width="1075" height="387" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4.png 1075w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-300x108.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-1024x368.png 1024w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-100x36.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-280x100.png 280w" sizes="(max-width: 1075px) 100vw, 1075px" /></a></p>
+<p>And as a final result, we present the table with the errors made by the different software.</p>
+<p><span style="color: #ff6600;">See as in case 2 with geodesics of only a few tens of km in length, applications such as PostGIS, ArcGIS, etc. make about 3m of error</span>.</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3.png"><img loading="lazy" class="alignnone size-full wp-image-1259" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3.png" alt="blog_gi3" width="994" height="296" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3.png 994w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3-300x89.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3-100x29.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3-280x83.png 280w" sizes="(max-width: 994px) 100vw, 994px" /></a></p>
+<p>The PostGIS and Java test implementation can be downloaded from [3].</p>
+<p>Finally, mention that, in a normal computer, about 20,000 intersections per second have been obtained. <span style="color: #ff6600;">Perhaps, now is the time to migrate certain geospatial libraries such as JTS (GEOS), GDAL, etc. so that they carry out the calculations in full on the ellipsoid and thus be able to forget about the projected CRS, and leave them purely for aesthetic purposes</span>.</p>
+<p><span style="color: #0000ff;">[1] <a title="Spheroid in a Spatial Database Management System" href="https://www.mdpi.com/2076-3417/11/11/5129" target="_blank">https://www.mdpi.com/2076-3417/11/11/5129</a></span></p>
+<p><span style="color: #0000ff;"><em>Martínez-Llario JC, Baselga S, Coll E. Accurate Algorithms for Spatial Operations on the Spheroid in a Spatial Database Management System. Applied Sciences. 2021; 11(11):5129. https://doi.org/10.3390/app11115129</em></span></p>
+<p><span style="color: #0000ff;">[2] <a title="Intersection and point-to-line solutions for geodesics on the ellipsoid" href="https://link.springer.com/article/10.1007/s11200-017-1020-z" target="_blank">https://link.springer.com/article/10.1007/s11200-017-1020-z</a></span></p>
+<p><span style="color: #0000ff;"><em>Baselga, S., Martínez-Llario, J.C. Intersection and point-to-line solutions for geodesics on the ellipsoid. Stud Geophys Geod <b>62, </b>353–363 (2018). https://doi.org/10.1007/s11200-017-1020-z</em></span></p>
+<p><span style="color: #0000ff;">[3] <a title="Repositorio open source" href="https://github.com/jomarlla/geodesicSpatialOperators" target="_blank">https://github.com/jomarlla/geodesicSpatialOperators</a></span></p>
+     
+                        
+                        <div class="clear"></div>
+                        
+                                                
+						                    
+                        <div class="clear space"></div>                 
+					
+						    
+                    
+                    </div>        
+                    
+                            
+                    
+                    <div id="post-1253" class="hentry-post group post-1253 post type-post status-publish format-standard hentry category-blog">                
+                              
+                        <div class="date">    
+								
+								<h2 class="title-blog"><a href="https://cartosig.webs.upv.es/2021/07/27/interseccion-de-geodesicas-algoritmo-propuesto-y-calculo-de-errores-de-los-aplicativos-actuales/" title="Permalink to Intersección de geodésicas: algoritmo propuesto y cálculo de errores de los aplicativos actuales" rel="bookmark">Intersección de geodésicas: algoritmo propuesto y cálculo de errores de los aplicativos actuales</a></h2> 
+                                                        
+                            <div class="mon-year">
+                                <span>Jul</span><br />2021                            </div>
+                            
+                            <div class="day">
+                                27                            </div>
+                            
+                            <div class="clear"></div>
+                        </div>
+                        
+                        <div class="clear line"></div>
+                        <p class="meta left">posted by <a href="https://cartosig.webs.upv.es/author/jomarlla/" title="Entradas de jomarlla" rel="author">jomarlla</a> on <a href="https://cartosig.webs.upv.es/category/blog/" rel="category tag">Blog</a></p>
+                                                	<p class="meta right"><a href="https://cartosig.webs.upv.es/2021/07/27/interseccion-de-geodesicas-algoritmo-propuesto-y-calculo-de-errores-de-los-aplicativos-actuales/#respond">No comments</a></p>
+                                                <div class="clear line space-content"></div>  
+                            
+                                            
+                                             
+                        <p><a title="Geodesic intersection: proposed algorithm and error assessment of current software" href="https://cartosig.webs.upv.es/2021/07/27/geodesic-intersection-proposed-algorithm-and-error-assessment-of-current-software/">English versión here</a></p>
+<p>Quiero mostraros el resumen de una investigación que hemos publicado recientemente. Solo nos centraremos en los resultados, para las explicaciones de la metodología podéis consultar los dos artículos publicados por nosotros <span style="color: #0000ff;">[1] [2]</span>.</p>
+<p>Como sabemos para realizar un análisis espacial completo es necesario utilizar un sistema de referencia de coordenadas (SRC) proyectado. El panorama del software actual implementa ciertas operaciones sobre el elipsoide, sin utilizar un SRS proyectado, como los problemas directo e inverso de la geodesia, y permite de esta manera calcular distancias sobre el elipsoide, o calcular un punto a partir de un azimut y una distancia. Pero, es que estas operaciones no son suficientes para realizar un análisis espacial completo sobre el elipsoide, y un problema tan sencillo como la intersección de dos segmentos lineales, o la distancia mínima de un punto a una recta se siguen resolviendo utilizando SRC proyectados, y por ende cualquier operación más compleja como una superposición de polígonos, intersección de capas lineales, un área de influencia, etc. se calcula de la misma manera.</p>
+<p><strong><span style="color: #0000ff;">Aparecen así varios problemas:</span></strong></p>
+<ul>
+<li>¿Qué SRC proyectado utilizo para realizar los cálculos?, lo cual sin duda limitará la extensión geográfica del análisis.</li>
+<li>Y lo peor, ¿qué errores estoy cometiendo al utilizar un SRC proyectado? Y voy más allá, ¿estos errores (<strong>que no los conozco</strong>) podrían ser <strong>superior a la precisión cartográfica</strong> de mis datos?</li>
+</ul>
+<p>En los artículos [1] [2] se estudian dos casos: una intersección de dos segmentos lineales, y la mínima distancia de un punto a una línea, pero eso sí considerando que esas líneas son geodésicas. Apoyándose en estos dos casos sería posible construir o mejorar una biblioteca de geometría computacional (e. g. JTS) para que fuera capaz de calcular un análisis espacial completo sobre el elipsoide.</p>
+<p><strong><span style="color: #0000ff;">Problema a resolver</span>:</strong></p>
+<p>Supongamos que queremos obtener el punto de intersección de dos segmentos AB y CD definidos cada uno por sus dos puntos inicial y final (figura 1). Así, consideramos el siguiente cuadro con las coordenadas de cuatro ejemplos diferentes:</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5.png"><img loading="lazy" class="alignnone size-full wp-image-1254" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5.png" alt="blog_gi5" width="949" height="189" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5.png 949w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5-300x59.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5-100x19.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi5-280x55.png 280w" sizes="(max-width: 949px) 100vw, 949px" /></a></p>
+<p>La distancia AX y CX nos da una idea de la longitud de dichos segmentos, de menos de 10 km en el ejemplo 1, hasta más de 10000 km en el ejemplo 4.</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2.png"><img loading="lazy" class="alignnone wp-image-1255 size-medium aligncenter" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-300x228.png" alt="blog_gi2" width="300" height="228" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-300x228.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-100x76.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2-195x149.png 195w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi2.png 357w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>La tabla 1, muestra el punto de intersección (punto X) calculado por algunos de los aplicativos y bases de datos espaciales más conocidas del mercado, algunos softwares mencionan que trabajan directamente en el elipsoide (supuestamente) y otros utilizan un SRC proyectado para el cálculo.</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1.png"><img loading="lazy" class="alignnone size-full wp-image-1257" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1.png" alt="blog_gi1" width="889" height="569" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1.png 889w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1-300x192.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1-100x64.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi1-232x149.png 232w" sizes="(max-width: 889px) 100vw, 889px" /></a></p>
+<p><span style="color: #ff6600;">Asusta en un primer momento ver como cada software obtiene diferentes resultados</span> (punto X). Entonces, qué ¿software da los resultados más correctos? Y, es más, ¿alguno de ellos da el resultado exacto?, y si no es así <span style="color: #0000ff;"><strong>¿qué error comete cada software?</strong></span></p>
+<p>La tabla 3, muestra el punto X calculado por el algoritmo propuesto por los autores de este artículo. En concreto con la implementación realizada en PostGIS (función <strong>STX_GeodesicIntersection</strong>), aunque cualquier otra implementación debe dar los mismos resultados.</p>
+<p>Como se puede ver es un algoritmo de rápida convergencia (ver número de iteraciones). Además, el Test B (ver artículo [1] para su definición) calcula la distancia del punto exacto X al punto calculado. El error inferior a 100nm indica que se ha llegado a alcanzar la precisión computacional (cálculos con tipos flotantes de 64 bits).</p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4.png"><img loading="lazy" class="alignnone size-full wp-image-1258" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4.png" alt="blog_gi4" width="1075" height="387" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4.png 1075w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-300x108.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-1024x368.png 1024w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-100x36.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi4-280x100.png 280w" sizes="(max-width: 1075px) 100vw, 1075px" /></a></p>
+<p>Y como resultado final, presentamos la tabla con los errores cometidos por los diferentes aplicativos.</p>
+<p><span style="color: #ff6600;">Ver como en el caso 2 con geodésicas de solo algunas decenas de km de longitud, aplicativos como PostGIS, ArcGIS, etc. comenten alrededor de 3m de error.</span></p>
+<p><a href="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3.png"><img loading="lazy" class="alignnone size-full wp-image-1259" src="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3.png" alt="blog_gi3" width="994" height="296" srcset="https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3.png 994w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3-300x89.png 300w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3-100x29.png 100w, https://cartosig.webs.upv.es/wp-content/uploads/blog_gi3-280x83.png 280w" sizes="(max-width: 994px) 100vw, 994px" /></a></p>
+<p>La implementación de prueba realizada en PostGIS y Java se puede descargar desde [3].</p>
+<p>Por último, mencionar que, en un ordenador normal, se han obtenido unas 20000 intersecciones por segundo. <span style="color: #ff6600;">Quizás, sea el momento ya, de migrar ciertas librerías geoespaciales como JTS (GEOS), GDAL, etc. para que realicen los cálculos de forma íntegra sobre el elipsoide y así poder olvidarnos de los SRC proyectados, y dejarlos meramente para fines estéticos</span>.</p>
+<p>&nbsp;</p>
+<p><span style="color: #0000ff;">[1] <a title="Spheroid in a Spatial Database Management System" href="https://www.mdpi.com/2076-3417/11/11/5129" target="_blank">https://www.mdpi.com/2076-3417/11/11/5129</a></span></p>
+<p><span style="color: #0000ff;"><em>Martínez-Llario JC, Baselga S, Coll E. Accurate Algorithms for Spatial Operations on the Spheroid in a Spatial Database Management System. Applied Sciences. 2021; 11(11):5129. https://doi.org/10.3390/app11115129</em></span></p>
+<p><span style="color: #0000ff;">[2] <a title="Intersection and point-to-line solutions for geodesics on the ellipsoid" href="https://link.springer.com/article/10.1007/s11200-017-1020-z" target="_blank">https://link.springer.com/article/10.1007/s11200-017-1020-z</a></span></p>
+<p><span style="color: #0000ff;"><em>Baselga, S., Martínez-Llario, J.C. Intersection and point-to-line solutions for geodesics on the ellipsoid. Stud Geophys Geod <b>62, </b>353–363 (2018). https://doi.org/10.1007/s11200-017-1020-z</em></span></p>
+<p><span style="color: #0000ff;">[3] <a title="Repositorio open source" href="https://github.com/jomarlla/geodesicSpatialOperators" target="_blank">https://github.com/jomarlla/geodesicSpatialOperators</a></span></p>
+     
+                        
+                        <div class="clear"></div>
+                        
+                                                
+						                    
+                        <div class="clear space"></div>                 
+					
+						    
+                    
+                    </div>        
+                    
+                              
+                
+                    <div class='general-pagination'><a href='https://cartosig.webs.upv.es/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' class='selected' >1</a><a href='https://cartosig.webs.upv.es/page/2/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >2</a><a href='https://cartosig.webs.upv.es/page/3/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >3</a><a href='https://cartosig.webs.upv.es/page/4/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >4</a><a href='https://cartosig.webs.upv.es/page/5/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >5</a><a href='https://cartosig.webs.upv.es/page/6/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >6</a><a href='https://cartosig.webs.upv.es/page/7/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >7</a><a href='https://cartosig.webs.upv.es/page/8/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >8</a><a href='https://cartosig.webs.upv.es/page/9/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >9</a><a href='https://cartosig.webs.upv.es/page/10/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >10</a><a href='https://cartosig.webs.upv.es/page/11/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg' >11</a><a href='https://cartosig.webs.upv.es/page/2/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg'>&rsaquo;</a><a href='https://cartosig.webs.upv.es/page/19/?q=es%2Fsystem%2Ffiles%2Fjomarlla%2Fportadalibropostgis.jpg'>&raquo;</a><div class="clear "></div></div>
+       
+        
+                                    
+                	<div class="clear space"></div>         </div>                       
+        <!-- END CONTENT -->
+        
+                                      
+			
+             
+				
+				<!-- START SIDEBAR -->
+				<div id="sidebar">   
+			
+					 
+					 
+					
+	                <div id="search-2" class="widget-1 widget-first widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://cartosig.webs.upv.es/">
+				<div>
+					<label class="screen-reader-text" for="s">Buscar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Buscar" />
+				</div>
+			</form></div><div id="text-18" class="widget-2 widget widget_text">			<div class="textwidget"><a href="https://twitter.com/cartosig" class="twitter-follow-button" data-show-count="false" data-lang="es" data-size="large">Seguir a @cartosig</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+		</div><div id="text-17" class="widget-3 widget widget_text"><h3>Cursos online de PostGIS, IDEs Web-Mapping (Geoportales), Sistemas Información Geográfica</h3>			<div class="textwidget"><!--
+<a href = ""> <img src="http://cartosig.upv.es/wp-content/uploads/cursopostgislogo.png" width="260" /> </a>
+-->
+<div class="cc-block">
+<p align="center">
+<a href = "https://www.cfp.upv.es"> <img src="/wp-content/uploads/CFP-marca-pantone.jpg" width="225" /> </a>
+<a href = "https://www.upv.es"> <img src="/wp-content/uploads/logoupv.jpg" width="150" /> </a>
+</p>
+
+<a href = "/cursos"><b>
+MATRÍCULA ABIERTA CURSOS ONLINE</b></a> <br>
+Fechas: 20 sept 2021 - 31 julio 2022
+
+</div>
+
+</div>
+		</div><div id="text-19" class="widget-4 widget widget_text">			<div class="textwidget"><style type="text/css"><!--
+
+.avisame {
+        display: block;
+	width: 200px;
+	
+	padding: 0.5em 1em 1em 0.5em;
+	margin-left: 0em;
+	border-radius: 0.5em;
+	background-color: #2090E0;	
+	box-shadow: 2px 2px 5px #000; 
+	color: #FFF;
+	text-align: center;
+        text-decoration: node;
+        font-size: 1.5em;
+}
+
+a.avisame:hover {
+    color: #8585A1;
+    background-color: #FFF;
+}
+
+--></style>
+<a class="avisame" href="/notificacion-de-nuevos-cursos/">Avísame de próximos cursos</a>
+</div>
+		</div><div id="text-4" class="widget-5 widget widget_text"><h3>Libro PostGIS</h3>			<div class="textwidget"><a href = "/postgis-analisis-espacial-avanzado-edicion-2-revision-4-agosto-2020"> <img src="/wp-content/uploads/cara_libro_postgis_ed2_rev4.jpg" width="175" /> </a>
+<div class="cc-block">
+PostGIS: Análisis Espacial Avanzado (edición segunda, act. 2020)
+<br>
+<a href = "/postgis-analisis-espacial-avanzado-edicion-2-revision-4-agosto-2020">
+más información</a> <br>
+</div>
+
+</div>
+		</div><div id="archives-2" class="widget-6 widget widget_archive"><h3>Archivos</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Archivos</label>
+		<select id="archives-dropdown-2" name="archive-dropdown">
+			
+			<option value="">Elegir el mes</option>
+				<option value='https://cartosig.webs.upv.es/2021/07/'> julio 2021 </option>
+	<option value='https://cartosig.webs.upv.es/2020/08/'> agosto 2020 </option>
+	<option value='https://cartosig.webs.upv.es/2019/09/'> septiembre 2019 </option>
+	<option value='https://cartosig.webs.upv.es/2019/06/'> junio 2019 </option>
+	<option value='https://cartosig.webs.upv.es/2018/11/'> noviembre 2018 </option>
+	<option value='https://cartosig.webs.upv.es/2018/09/'> septiembre 2018 </option>
+	<option value='https://cartosig.webs.upv.es/2018/07/'> julio 2018 </option>
+	<option value='https://cartosig.webs.upv.es/2018/01/'> enero 2018 </option>
+	<option value='https://cartosig.webs.upv.es/2017/06/'> junio 2017 </option>
+	<option value='https://cartosig.webs.upv.es/2016/10/'> octubre 2016 </option>
+	<option value='https://cartosig.webs.upv.es/2016/06/'> junio 2016 </option>
+	<option value='https://cartosig.webs.upv.es/2016/05/'> mayo 2016 </option>
+	<option value='https://cartosig.webs.upv.es/2016/03/'> marzo 2016 </option>
+	<option value='https://cartosig.webs.upv.es/2016/02/'> febrero 2016 </option>
+	<option value='https://cartosig.webs.upv.es/2015/12/'> diciembre 2015 </option>
+	<option value='https://cartosig.webs.upv.es/2015/09/'> septiembre 2015 </option>
+	<option value='https://cartosig.webs.upv.es/2015/03/'> marzo 2015 </option>
+	<option value='https://cartosig.webs.upv.es/2015/02/'> febrero 2015 </option>
+	<option value='https://cartosig.webs.upv.es/2014/10/'> octubre 2014 </option>
+	<option value='https://cartosig.webs.upv.es/2014/06/'> junio 2014 </option>
+	<option value='https://cartosig.webs.upv.es/2014/05/'> mayo 2014 </option>
+	<option value='https://cartosig.webs.upv.es/2013/10/'> octubre 2013 </option>
+	<option value='https://cartosig.webs.upv.es/2013/05/'> mayo 2013 </option>
+	<option value='https://cartosig.webs.upv.es/2013/04/'> abril 2013 </option>
+	<option value='https://cartosig.webs.upv.es/2013/02/'> febrero 2013 </option>
+	<option value='https://cartosig.webs.upv.es/2012/07/'> julio 2012 </option>
+	<option value='https://cartosig.webs.upv.es/2012/06/'> junio 2012 </option>
+	<option value='https://cartosig.webs.upv.es/2012/03/'> marzo 2012 </option>
+	<option value='https://cartosig.webs.upv.es/2012/02/'> febrero 2012 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div><div id="text-3" class="widget-7 widget widget_text"><h3>Licencia</h3>			<div class="textwidget"><!-- Creative Commons License -->
+<div class="cc-block"><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="cc-button" /></a><br />This site unless otherwise expressly stated, is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+<p><em>Las opiniones mostradas en este sitio son responsabilidad exclusiva de sus firmantes</em></div>
+<!-- /Creative Commons License --></div>
+		</div>			
+					       
+					 
+				
+				</div>
+				<!-- END SIDEBAR -->			
+					
+              
+    
+        <div class="line clear"></div>        
+        
+	        	        
+	        <!-- START FOOTER -->
+	        <div id="footer">
+	        
+	        	        
+	            <p class="left">
+	                <a href="https://www.upv.es/entidades/DICGF/index-en.html">Dept. of Cartographic Engineering, Geodesy and Photogrammetry</a>
+	            </p>
+	            
+	            <p class="right">
+	                Powered by <a href="https://www.upv.es/index-en.html"><strong>Universitat Politècnica de Valéncia</strong></a>  
+	            </p>
+	            
+	        	        
+	        </div>
+	        <!-- END FOOTER -->     
+	    
+	        <div class="clear"></div> 
+	    
+		</div>     
+	    <!-- END WRAPPER --> 
+	    
+	</div>
+	<!-- END WRAPSHADOW -->       
+    
+    	    
+    <script type="text/javascript">
+        jQuery(document).ready(function($){
+            $("a[rel^='prettyPhoto']").prettyPhoto({
+                theme: ''});
+        });
+    </script>              
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        Cufon.now();  //]]>
+    </script>      
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-includes/js/jquery/ui/tabs.min.js?ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-content/themes/beauty/beauty/js/jquery.custom.js?ver=1.0' id='jquery-custom-js'></script>
+<script type='text/javascript' src='http://cartosig.webs.upv.es/wp-includes/js/wp-embed.min.js?ver=5.9' id='wp-embed-js'></script>
+   
+</body>
+
+</html>
