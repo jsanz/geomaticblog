@@ -1,0 +1,9 @@
+{{ if and .IsPage .GitInfo }}
+<section class="github">
+    <p>
+        Updated: {{ dateFormat "2006-01-02" .Page.Lastmod }}, Version: 
+        <a href="{{ .Site.Params.github }}/commit/{{.GitInfo.Hash }}">
+            {{ .GitInfo.AbbreviatedHash }}</a>.
+    </p>
+</section>
+{{ end }}

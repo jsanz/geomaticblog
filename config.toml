@@ -1,8 +1,0 @@
-baseURL = 'https://geomaticblog.net/'
-languageCode = 'en-us'
-title = 'Geomaticblog'
-theme = "hugo-flex"
-
-
-[permalinks]
-  posts = '/:year/:month/:day/:title/'

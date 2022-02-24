@@ -1,0 +1,13 @@
+{{ if and ( eq .Type "posts") ( .Params.date.Before ( time "2022-01-10" ) ) }}
+
+<section class="old-posts">
+<p>
+    This blogpost was migrated from the previous content management system that hosted this blog. If you want to check for old comments or to find anything looking weird please follow this link to check the 
+    <a target="_blank" href="https://web.archive.org/web/{{ ((.Params.date).AddDate 0 6 0 ).Year }}*/https://geomaticblog.net{{ .RelPermalink }}">
+        Internet Wayback Machine</a>.
+</p>
+
+</section>
+
+
+{{ end }}

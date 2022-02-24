@@ -1,0 +1,23 @@
+/* Custom styles */
+
+.old-posts {
+    padding: 20px 10px;
+    background-color: rgb(226, 226, 226);
+    margin: 20px 0;
+}
+
+.old-posts p {
+    font-size: smaller;
+    padding: 0;
+    margin: 0;
+}
+
+.github p {
+    text-align: right;
+    font-size: smaller;
+    color: rgb(66, 66, 66);
+}
+
+.github p a {
+    text-decoration: none;
+}

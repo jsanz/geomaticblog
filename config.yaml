@@ -1,0 +1,54 @@
+baseURL: 'https://geomaticblog.net/'
+languageCode: 'en-us'
+title: 'Geomatic Blog'
+theme: "hugo-flex"
+enableGitInfo: true
+
+
+permalinks:
+  posts: '/:year/:month/:day/:title/'
+
+
+params:
+  github: https://github.com/jsanz/geomaticblog
+  color: steelblue           # Any color in CSS syntax
+  width: 42rem          # Any length in CSS syntax
+  footer: >-            # A hardcoded space is needed before each html element
+    This work (except some images) is released under a
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/es/">
+    Creative Commons BY-SA license </a>.
+  rss: To subscribe to this RSS feed, copy its address and paste it into your
+    favorite feed reader.
+  summaries: true      # Set to true to show summaries of posts on homepage
+  divider: \a0          # Set to false to remove divider below posts on homepage
+  schema: true         # Set to true to add Schema.org metadata
+  opengraph: true      # Set to true to add Open Graph metadata
+  twittercards: true   # Set to true to add Twitter Cards metadata
+  utterances:
+    repo: jsanz/geomaticblog  # Set to Utterances repo URL to add Utterances comments
+    issueterm: pathname
+    theme: github-light
+  netlify:
+    honeypot: true     # Set to true to add honeypot field in contact form
+    recaptcha: true    # Set to true to add recaptcha challenge in contact form
+  css:                # Uncomment to add custom CSS from the assets directory
+    - css/styles.css
+  #   - bar.css
+  # js:                 # Uncomment to add custom JS from the assets directory
+  #   - js/foo.js
+  #   - bar.js
+
+menu:
+  nav:
+  - name: About
+    url: about/
+    weight: 1
+  - name: Archive
+    url: archive/
+    weight: 2
+  - name: Categories
+    url: categories/
+    weight: 3
+  - name: RSS
+    url: index.xml
+    weight: 4

@@ -1,0 +1,15 @@
+{
+  "name": "geomaticblog",
+  "version": "3.0.0",
+  "description": "A blog about geospatial topics",
+  "main": "index.js",
+  "repository": "git@github.com:jsanz/geomaticblog.git",
+  "author": "Jorge Sanz <jorge@jorgesanz.net>",
+  "license": "CC-BY-SA",
+  "private": true,
+  "scripts": {
+    "hugo:prd": "hugo -e production -v --i18n-warnings --minify --gc --cleanDestinationDir",
+    "hugo:dev": "hugo -e development --config config.yaml,config.dev.yaml -v --i18n-warnings --gc --cleanDestinationDir --buildDrafts --buildFuture",
+    "hugo:srv": "hugo server -e development -p 8080 --config config.yaml,config.dev.yaml -v --i18n-warnings --buildDrafts --buildFuture --disableFastRender"
+  }
+}

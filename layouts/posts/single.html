@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+  <article>
+    {{ partial "heading.html" . }}
+    {{ partial "old-posts.html" .}}
+    {{ partial "cover-image.html" .}}
+    {{ .Content }}
+    {{ partial "github.html" . }}
+    {{ partial "tags.html" . }}
+    {{ partial "comments.html" . }}
+  </article>
+
+{{ end }}
