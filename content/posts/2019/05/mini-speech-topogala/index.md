@@ -1,5 +1,5 @@
 ---
-title: "Mini speech #TopoGala"
+title: "Mini speech TopoGala"
 date: "2019-05-05"
 categories: 
   - "education"
