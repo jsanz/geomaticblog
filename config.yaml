@@ -28,6 +28,7 @@ params:
     repo: jsanz/geomaticblog  # Set to Utterances repo URL to add Utterances comments
     issueterm: pathname
     theme: github-light
+    label: comment
   netlify:
     honeypot: true     # Set to true to add honeypot field in contact form
     recaptcha: true    # Set to true to add recaptcha challenge in contact form
