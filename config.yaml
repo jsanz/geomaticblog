@@ -45,7 +45,7 @@ menu:
     url: about/
     weight: 1
   - name: Archive
-    url: archive/
+    url: posts/
     weight: 2
   - name: Categories
     url: categories/
