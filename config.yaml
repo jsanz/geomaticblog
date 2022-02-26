@@ -4,7 +4,6 @@ title: 'Geomatic Blog'
 theme: "hugo-flex"
 enableGitInfo: true
 
-
 permalinks:
   posts: '/:year/:month/:day/:title/'
 
@@ -42,7 +41,7 @@ params:
 menu:
   nav:
   - name: About
-    url: about/
+    url: authors/
     weight: 1
   - name: Archive
     url: posts/
@@ -53,3 +52,7 @@ menu:
   - name: RSS
     url: index.xml
     weight: 4
+
+taxonomies:
+  category: categories
+  author: authors

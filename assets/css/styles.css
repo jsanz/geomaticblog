@@ -21,3 +21,47 @@
 .github p a {
     text-decoration: none;
 }
+
+
+.author-figure {
+    max-width: 200px;
+}
+
+.author-page .author-page-avatar {
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+
+.authors-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.authors-list .author-figure{
+    font-size: smaller;
+    display: block;
+    margin: 1em 2em;
+    width: 120px;
+    text-align: center;
+}
+
+.authors-list .author-figure img {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 100px;
+}
+
+.authors-list figcaption {
+    text-align: center;
+}
+
+.posts-single .author-figure {
+    max-width: 150px;
+}
+
+
+.posts-single .author-figure img {
+    margin: 0;
+}

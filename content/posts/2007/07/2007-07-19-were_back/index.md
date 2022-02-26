@@ -3,6 +3,7 @@ title: "We're back"
 date: "2007-07-19"
 categories: 
   - "meta"
+authors: [ "jorge-sanz", "pedro-juan-ferrer", "vicente-bayarri" ]
 ---
 
 Bien, volvemos al blog, tras tres de semanas. Primero porinactividady por _limpieza de bajos_después... Efectivamente, hemos tenido que renovar elsistema gestor de contenidos ([Drupal](http://www.drupal.org))debido a cambios en la versión de [PHP](http://www.php.net) (el lenguaje descripting que soporta todo esto) y la imposibilidad de actualizar laversión instalada.

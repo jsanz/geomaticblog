@@ -1,0 +1,17 @@
+<div>
+  <figure class="author-figure">
+    <a href="{{ .Permalink }}" class="block-link">
+      <img src="{{ .Params.avatar }}" alt="{{ .Params.name }}" />
+    </a>
+    <figcaption>
+      <p>
+        {{ .Summary }}
+      </p>
+      <p>
+        <a href="{{ .Permalink }}" class="block-link">
+          {{ .Params.name }}
+        </a>
+      </p>
+    </figcaption>
+  </figure>
+</div>

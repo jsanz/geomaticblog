@@ -1,0 +1,8 @@
+{{ range $i, $author := .Params.authors -}}
+    {{- if $i -}}, {{ end -}}
+    {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize $author )) }}
+    <a href='/authors/{{ .Params.name | urlize }}' title="{{.Params.name}}">
+        {{ delimit (  apply  (split .Params.name " ") "substr" "." "0" "1" ) ""}}   
+    </a>
+    {{ end }}
+{{- end -}}

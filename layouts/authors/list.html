@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<article class="author-page">
+  <h1>{{ .Params.name }}</h1>
+  <div class="author-page-avatar">
+    <img src="{{ .Params.avatar }}" alt="{{ .Params.short_name }}"/>
+  </div>
+  <!-- 
+  <h2>Bio</h2>
+  {{ .Content }} -->
+  {{ with .Params.twitter }}
+    <p>
+      <a href="https://twitter.com/{{ substr . 1 }}">
+        Follow {{ $.Params.short_name }} ({{ $.Params.twitter }}) on Twitter
+      </a>
+    </p>
+  {{ end }}
+  
+  <h2>Articles</h2>
+  <ul>
+  {{ range .Data.Pages }}
+      <li>{{ .PublishDate.Format "2006-01-02" }} – <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+</article>
+
+
+{{ end }}

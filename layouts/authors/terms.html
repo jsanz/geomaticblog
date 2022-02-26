@@ -1,0 +1,16 @@
+{{ define "main" }}
+    <article class="authors-terms">
+        {{ partial "heading.html" . }}
+    
+        {{ .Content }}
+        
+        <h3>Authors</h3>
+        <p>Visit each author's page to learn more about them and their contributions to this site.</p>
+
+        <section class="authors-list">
+            {{ range .Data.Pages }}
+                {{ partial "author-figure" . }}
+            {{ end }}
+        </section class="authors-list">
+    </article>
+{{ end }}

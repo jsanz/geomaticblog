@@ -3,6 +3,8 @@ title: "Quickbird y Chimpancés. La extraña pareja."
 date: "2007-07-25"
 categories: 
   - "remote-sensing"
+authors:
+  - vicente-bayarri
 ---
 
 Hace un tiempo que leí un articulo en [Digital Globe](http://www.digitalglobe.com),que hablaba del empleo de imágenes de alta resolución espacial para programas de conservación de la naturaleza. El texto completo lo podéis leer [aquí](http://media.digitalglobe.com/index.php?s=press_release_popup&item=126);el asunto es que el [Instituto Jane Goodall](http://www.janegoodall.org/), que se encuentra en _Arlington_ (EEUU) había empleado imágenes satelitales de [Quickbird](http://en.wikipedia.org/wiki/QuickBird) para la toma de decisiones efectivas en _Tanzania_, _Uganda_ y _Congo_. Las imágenes, que alcanzan teóricamente hasta 0,6 mde ancho de píxel cuando la plataforma pasa por el cénit de la zona de interés, se emplearon para obtener información acerca del estado de los hábitats de los chimpancés y de cómo y dónde la gente emplea su suelo.
