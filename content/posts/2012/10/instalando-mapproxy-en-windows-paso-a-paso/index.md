@@ -5,6 +5,7 @@ categories:
   - "foss"
   - "ogc"
   - "osgeo"
+authors: ["ivan-sanchez"]
 ---
 
 La semana pasada tuve el placer de formar parte de los formadores de los [voluntarios de EUROSHA](http://hot.openstreetmap.org/updates/2012-10-04_become_a_tutor_of_the_eurosha_volunteers), un grupo de 25 jóvenes destinados a levantar cartografía en diversos países de África, como parte de las actividades del [HOT](http://hot.openstreetmap.org/). Uno de los problemas a los que se enfrentan estos voluntarios es una conexión a internet no muy fiable.

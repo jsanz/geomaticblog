@@ -4,6 +4,7 @@ date: "2008-03-28"
 categories: 
   - "formats"
   - "foss"
+authors: ["eloi-ribeiro"]
 ---
 
 O crescimento da importância dos Sistemas de Informação Geográfica(SIG) levou a um incremento de programas capazes de lidar com este tipo dedados e também ao surgimento de uma variedade de formatos que ossuportam. Mais todavia quando a captura de dados por vezes provêem dereceptoresGPS e cada marca de navegador implementa o seu formato dearmazenamento de dados.

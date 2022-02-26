@@ -3,6 +3,7 @@ title: "The Null Island Algorithm"
 date: "2014-12-12"
 categories: 
   - "gis"
+authors: ["ivan-sanchez"]
 ---
 
 We geomaticians like to gather around a mythical place called [Null Island](http://www.nullisland.com/). This island has everything: airports, train stations, hotels, postcodes, all kinds of shops, a huge lot of geocoded addresses, and whatever geographical feature ends up with null coordinates due to whatever buggy geoprocessing pipeline and ends up in the (0,0) coordinates.

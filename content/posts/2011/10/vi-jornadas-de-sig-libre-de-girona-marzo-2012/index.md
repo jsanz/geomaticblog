@@ -5,6 +5,7 @@ categories:
   - "events"
   - "foss"
   - "gis"
+authors: ["lluis-vicens"]
 ---
 
 [![](images/banner-web4.png "VI Jornadas de SIG Libre")](http://www.sigte.udg.edu/jornadassiglibre)

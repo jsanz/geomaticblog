@@ -4,6 +4,7 @@ date: "2009-09-02"
 categories: 
   - "gps"
   - "hardware"
+authors: ["juan-guillermo-jordan"]
 ---
 
 \[caption id="attachment\_476" align="aligncenter" width="300" caption="Cualquier ayuda para encontrarlos será remunerada"\]![Cualquier ayuda para encontrarlos será remunerada](images/wanted_gps.jpg "Wanted_gps")\[/caption\]

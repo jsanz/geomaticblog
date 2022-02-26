@@ -7,6 +7,7 @@ categories:
   - "gis"
   - "osgeo"
   - "osgeo-es"
+authors: ["lluis-vicens"]
 ---
 
 Pues eso, que la aplicación de las inscripciones ya está operativa [aquí](http://2010.foss4g.org/registration.php "Aplicación de Registro"). A continuación, pego la nota de prensa oficial del evento:

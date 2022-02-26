@@ -3,6 +3,7 @@ title: "V Jornadas de SIG Libre de Girona, 23 a 25 de Marzo de 2011"
 date: "2010-10-07"
 categories: 
   - "gis"
+authors: ["lluis-vicens"]
 ---
 
 [](http://www.sigte.udg.edu/jornadassiglibre/)[![](images/banner.png "V Jornadas de SIG Libre 2011")](http://www.sigte.udg.edu/jornadassiglibre)
