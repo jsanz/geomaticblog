@@ -13,4 +13,4 @@ Some details:
 * To support multiple authors, a taxonomy has been implemented allowing to assign multiple authors to a single post, and group them altogether at the `/authors`  taxonomy page.
 * Deploy previews are enabled for Pull Requests, allowing to inspect new features, fixes, and even blog drafts and reviews.
 
-Check the [issues](/issues) for reported problems that are still to iron out after the migration from wordpress.
+Check the [issues](https://github.com/jsanz/geomaticblog/issues) for reported problems that are still to iron out after the migration from wordpress.
