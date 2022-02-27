@@ -4,6 +4,7 @@ date: "2011-04-07"
 categories: 
   - "geodata"
   - "opinion"
+authors: [ "micho-garcia" ]
 ---
 
 Ayer se realizó en el Ministerio de Economía y Hacienda una jornada para informar sobre el nuevo servicio que la Dirección General del Catastro (DGC) ha puesto a disposición de los ciudadanos, el Servicio de descarga masiva de información catastral. Este permite, a través de la Sede Electrónica del Catastro, descargarse la cartografía pública de este organismo en formato vectorial, así como la información alfanumérica (archivos cat). La idea como se comenta en el la presentación de la Jornada, es mediante el acceso a la información, promover la creación de empresas, empleo y avanzar en un uso mas transparente de la información por parte de los ciudadanos.
