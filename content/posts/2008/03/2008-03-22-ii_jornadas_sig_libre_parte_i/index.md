@@ -4,6 +4,7 @@ date: "2008-03-22"
 categories: 
   - "events"
   - "foss"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Bueno,aquí nuestro pequeño aporte al evento FOSS de finales de invierno enEspaña: las [IIJornadas de SIG Libre](http://www.sigte.udg.es/jornadassiglibre/) organizadas por el [Sigte](http://www.sigte.udg.es/sigteweb2-es/) en Girona entre el 3 y el 5 de Marzo de 2008.

@@ -5,6 +5,7 @@ categories:
   - "books"
   - "geodesy"
   - "opinion"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 \[caption id="" align="alignleft" width="200" caption="Portada del libro: Dirac La belleza matemática"\]![Portada del libro: Dirac La belleza matemática](images/art_SergioDirac.jpg "Portada del primer libro de Sergio Baselga  ")\[/caption\]

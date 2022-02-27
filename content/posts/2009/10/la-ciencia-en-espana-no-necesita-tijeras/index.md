@@ -4,6 +4,7 @@ date: "2009-10-07"
 categories: 
   - "education"
   - "opinion"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 \[caption id="" align="aligncenter" width="459" caption="La ciencia en España no necesita tijeras"\]![La ciencia en España no necesita tijeras](images/3973473121_e76fde787c_o.jpg "Nooorl, tijeras NO")\[/caption\]

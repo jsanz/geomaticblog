@@ -4,9 +4,10 @@ date: "2010-01-20"
 categories: 
   - "gis"
   - "gvsig"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
-Un pequeñó truco de gvSIG,  rápido y sucio ;)
+Un pequeño truco de gvSIG,  rápido y sucio ;)
 
 Si tenéis la instalación de Windows de gvSIG veréis que haciendo doble click en el .exe este arranca sin la conocida consola de comandos de fondo.
 

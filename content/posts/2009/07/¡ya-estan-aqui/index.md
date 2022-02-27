@@ -4,6 +4,7 @@ date: "2009-07-24"
 categories: 
   - "geodata"
   - "ide"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Me hago eco de lo [publicado en el Blog de la IDEE](http://blog-idee.blogspot.com/2009/07/el-consejo-de-ministros-opina-sobre-el.html) sobre uno de los trámites para la adopción de [INSPIRE](http://inspire.jrc.ec.europa.eu/) en el territorio español.

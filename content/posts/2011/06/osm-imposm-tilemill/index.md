@@ -5,6 +5,7 @@ categories:
   - "geodata"
   - "osm"
   - "postgis"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 # Hacía tiempo que no le dedicaba un ratillo a los temas geofrikis, no por falta de ganas, sino porque soy disperso, muy muy muy disperso, pero se cruzó la posibilidad de mezclar cartografía y juegos de rol y ...

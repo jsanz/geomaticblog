@@ -4,6 +4,7 @@ date: "2008-01-31"
 categories: 
   - "ogc"
   - "other"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Siguiendo [esta anotación](http://blogs.open.ac.uk/Maths/ajh59/012594.html) del blogOUsefulInfo, en sus propias palabras: "Rareza, extrañeza,encanto... en buscade OU2.0", he realizado un[pipe deYahoo](http://pipes.yahoo.com) que permite seguir en un mapa lalocalización de loseventos publicados [enel calendario geomático](http://geomaticblog.net/gb2/es/2008-01-05-vuelve_calendario).

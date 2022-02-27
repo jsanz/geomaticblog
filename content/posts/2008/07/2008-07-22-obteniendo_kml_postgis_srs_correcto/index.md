@@ -5,6 +5,7 @@ categories:
   - "foss"
   - "gis"
   - "ogc"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Hace poco que hemos empezado a hacer unas cuantas cosas con PostGIS en la oficina, y una de las que me ha llamado la atención es la posibilidad de generar KMLs directamente empleando la función askml().

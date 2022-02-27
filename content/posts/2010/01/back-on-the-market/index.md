@@ -4,6 +4,7 @@ date: "2010-01-04"
 categories: 
   - "gis"
   - "other"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 After several years working for the same company, working in the same project for a regional administration, it seems that all the money has gone with the crisis. Therefore  I'm back on the (labor) market.

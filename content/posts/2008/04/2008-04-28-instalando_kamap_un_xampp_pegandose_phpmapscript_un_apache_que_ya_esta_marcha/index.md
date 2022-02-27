@@ -5,6 +5,7 @@ categories:
   - "development"
   - "foss"
   - "gis"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Como [ya os conté en su momento](http://geomaticblog.net/gb2/es/2008-01-24-tilecache_windows), tengo instalado un mapserver y un tilecache en el ordenador, lo que no os conté es que está encima de un [XAMPP](http://www.apachefriends.org/en/xampp.html). Recientemente se me ha ocurrido probar [ka-Map](http://www.google.com/search?source=ig&hl=es&rlz=&q=php_mapscript+xampp&btnG=Buscar+con+Google&meta=&aq=f), a raíz del [taller de las IIas Jornadas de SIG Libre](http://www.sigte.udg.es/jornadassiglibre/index.php?page=talleres),y cuando lo instalé, siguiendo rigurosamente las instrucciones, me encontré con  un problemilla que me ha llevado un poco resolver, sobretodo porque pese a que hay bastante gente que le ha pasado, no he sido capaz de encontrar la solución [en San Google](http://www.google.com/search?source=ig&hl=es&rlz=&q=php_mapscript+xampp&btnG=Buscar+con+Google&meta=&aq=f). Se trata de un problema para instalar MapScript sobre un Apache ya existente (o sobre un XAMPP).

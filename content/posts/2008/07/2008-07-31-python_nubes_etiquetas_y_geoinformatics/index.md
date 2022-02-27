@@ -3,6 +3,7 @@ title: "Python, nubes de etiquetas y geoinformatics..."
 date: "2008-07-31"
 categories: 
   - "development"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 A lo largo de la semana pasada y la corriente he visto dosreferencias, en [Microsiervos](http://i.microsiervos.com/servicios/tagcrowd.html)y en [Genbeta](http://www.genbeta.com/2008/07/30-search-cloud-determina-la-relevancia-de-tus-resultados-de-busquedas),a dos servicios que  hacen cosas muy similares aunque noexactamente lo mismo: nubede etiquetas. Uno lo obtiene como resultado y el otrolo usa como herramienta.

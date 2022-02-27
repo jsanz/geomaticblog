@@ -3,6 +3,7 @@ title: "Sobre CC-Nc y el cuerpo del conocimiento libre"
 date: "2008-07-21"
 categories: 
   - "opinion"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Hoy ha salido publicado en el blog de la comunidad IDEE delIGN [unaentrada sobre el portal de metadatos de LatinGeo](http://blog-idee.blogspot.com/2008/07/portal-de-metadatos.html) dondeAntonio F Rodríguez hace una reseña sobre la reciente creación delportal.    
