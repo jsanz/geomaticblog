@@ -11,7 +11,7 @@
     <li>
       {{ .PublishDate.Format "2006-01-02" }} – <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ if .Params.authors }}
-      ({{ partial "authors-initials-list.html" .}})
+      ({{ partial "author/initials-list.html" .}})
       {{ end}}
     </li>
   {{ end }}
