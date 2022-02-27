@@ -4,6 +4,7 @@ date: "2012-06-21"
 categories: 
   - "astronomy"
   - "education"
+authors: [ "roberto-antolin" ]
 ---
 
 Este post está dedicado a [Perico](http://twitter.com/#!/vehrka), que siempre me anda dando collejas virtuales con las cosas de Astronomía. La última fue con el [Tránsito de Venus](https://www.google.es/search?sourceid=chrome&c lient=ubuntu&channel=cs&ie=UTF-8&q=transito+venus). Pasada ya una semana no tenía mucho sentido hablar sobre ello, pero como la vida siempre te da segundas oportunidades, ahora puedo escribir unas pocas líneas sobre el Solsticio de Verano y así lo tengo contento ;-)
