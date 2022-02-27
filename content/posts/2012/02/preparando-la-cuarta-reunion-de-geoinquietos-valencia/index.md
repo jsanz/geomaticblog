@@ -3,6 +3,7 @@ title: "Preparando la cuarta reunión de Geoinquietos Valencia"
 date: "2012-02-27"
 categories: 
   - "events"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/logo.png "logo")](http://geomaticblog.files.wordpress.com/2012/02/logo.png)Parece mentira, con lo que nos ha costado arrancar la iniciativa [Geoinquietos](http://geoinquetos.org) en [Valencia](http://valencia.geoinquietos.org), la inercia que está ganando. Ciertamente nos ha costado unos cuantos meses, quedando algún jueves que otro a tomar unas cervezas unos cuantos amigos, muchas discusiones sobre cómo arrancar el grupo, qué hacer, cómo organizarlo... pero al final se han juntado dos factores catalizadores del asunto: por un lado la llegada de dos geoinquietos madrileños, [Roberto](http://twitter.com/tolanss) e [Iván](http://twitter.com/realivansanchez) y por otro que la gente de la [escuela de Cartografía de la UPV](http://www.upv.es/entidades/ETSIGCT/) muy amablemente nos hayan cedido el espacio y lo que es mejor, **se han subido al carro de los geoinquietos** (lo que por otro lado me hace albergar todavía alguna esperanza para la universidad, aunque de eso ya hablaremos en otro artículo).

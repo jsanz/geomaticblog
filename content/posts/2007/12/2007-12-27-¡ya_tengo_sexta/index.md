@@ -3,6 +3,7 @@ title: "¡Ya tengo la Sexta!"
 date: "2007-12-27"
 categories: 
   - "gis"
+authors: [ "vicente-bayarri" ]
 ---
 
 ![La Sexta](images/lasexta.jpg)Enestosdías de paz y amor, en los que los centroscomerciales están a rebosar de gente buscando un regalo deúltima hora y esposible encontrar padres desesperados porque ya no quedan existenciasdeljuguete de moda… es posible comprobar que elespíritu de la Navidad sigue vigente

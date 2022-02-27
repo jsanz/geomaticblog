@@ -4,6 +4,7 @@ date: "2009-01-23"
 categories: 
   - "cartography"
   - "foss"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Después de 7 años me han vuelto a sacar a campo. Así comosuena. Llevo 7 años criando culo, encadenado a la mesa, picando código y desgastando la vista y de un día para otro me dejan encimade la mesa un marrón de esos que molan, porque en el fondo, hay un topógrafo en mi y me mola más el campo que a Geppetto una lijadora eléctrica. Bueno, que me pierdo.

@@ -3,6 +3,7 @@ title: "Laser scanner, our great unknown"
 date: "2007-07-21"
 categories: 
   - "photogrammetry"
+authors: ["jorge-sanz"]
 ---
 
 ![Qué será el láser escáner este](images/vehrkapregunta.jpg)Twoweeks ago, [Vehrka](http://www.geomaticblog.net/gb2/user/vehrka)and me went to have a delicious weekend at Cantabria to participate asteachers at a GIS postgraduate course where [Geochente](http://www.geomaticblog.net/gb2/user/geochente)and Elena, his colleage were teaching. By the way, whe had theoportunity to visit the headquarters (wow) of the business of Geochenteand Elena, [GIM-Geomatics](http://www.gim-geomatics.com/)and he shown us the toy they had bought to work. A laser scanner.

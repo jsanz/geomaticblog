@@ -6,6 +6,7 @@ categories:
   - "development"
   - "education"
   - "postgis"
+authors: ["jorge-sanz"]
 ---
 
 We've been pretty quiet over the last year but that doesn't mean we've been unoccupied. Last summer we ([Pedro](http://twitter.com/vehrka) and me) participated with [some friends](https://www.flickr.com/photos/xurxosanz/14983072199/in/set-72157647265852868) on a [hackathon](http://www.meetup.com/Hackathon-Lovers/events/196595462/) with a project to give to teachers from our region a tool to help them to relocate, precalculating travelling times with [OSRM](http://project-osrm.org/) and some open datasets, one of them a database of schools that our government [published](http://www.cece.gva.es/ocd/areacd/es/descargas.htm) as a spreadsheet. That gave us the chance to work and improve our knowledge on the [CartoDB](http://cartodb.com/) Platform, we used their [JavaScript API](http://docs.cartodb.com/cartodb-platform/cartodb-js.html) to place a Leaflet map with a parametrized map where the SQL that defined the layer changed depending on user selections. The project is [online](http://decasaalcole.com/) with some [slides](http://decasaalcole.github.io/talks/makingof/#/4/5) with further information, all in Spanish.

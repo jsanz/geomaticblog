@@ -4,6 +4,7 @@ date: "2009-12-07"
 categories: 
   - "cartography"
   - "geodesy"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/3890362170_698f4beece_m.jpg "Antena GPS")](http://www.flickr.com/photos/rsclarke/3890362170/)Pego la descripción de una [nueva lista de correo](http://groups.google.es/group/ing_geocarto) para que los Ingenieros en Geodesia y Cartografía (de España) puedan discutir y compartir experiencias sobre la titulación, el futuro de la misma, etc.

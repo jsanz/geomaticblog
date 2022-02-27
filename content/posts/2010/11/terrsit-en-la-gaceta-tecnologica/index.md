@@ -5,6 +5,7 @@ categories:
   - "geodata"
   - "ide"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 De vuelta de la [LSWC](http://www.libresoftwareworldconference.org/) me entretuve muy temprano en el aeropuerto de Málaga leyendo un ejemplar de la [Gaceta Tecnológica](http://www.gacetatecnologica.com) que había cogido en el congreso y que todavía no había podido leer. Andaba yo con mi café con leche y bizcocho cuando en el apartado dedicado a la geomática de esta estupenda publicación veo una noticia que me termina de despertar: "[La Comunidad Valenciana pone en marcha la primera cartografía digital en 3D de España](www.gacetatecnologica.com/sig/1436-la-comunidad-valenciana-pone-en-marcha-la-primera-cartografia-digital-en-3d-de-espana.html)".

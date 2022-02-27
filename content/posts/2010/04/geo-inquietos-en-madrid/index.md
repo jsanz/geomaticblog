@@ -4,6 +4,7 @@ date: "2010-04-19"
 categories: 
   - "events"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 [Micho](http://twitter.com/michogar) ha enviado un correo a las listas convocando a los geoinquietos que hay por Madrid a una reunión, pego su mensaje, seguro que la iniciativa es todo un éxito.

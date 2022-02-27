@@ -4,6 +4,7 @@ date: "2010-08-07"
 categories: 
   - "meta"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Desde tierras navarras escribo esta minientrada para celebrar **el cuarto cumpleaños** de este blog.

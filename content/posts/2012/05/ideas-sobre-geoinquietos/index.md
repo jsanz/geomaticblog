@@ -3,6 +3,7 @@ title: "Ideas sobre geoinquietos"
 date: "2012-05-27"
 categories: 
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Me llega esta tarde este correo desde el formulario de contacto de [geoinquietos.org](http://www.geoinquietos.org) que creo que vale la pena compartir por aquí por aquello de rentabilizar los ladrillos que mando. La idea es dar unas pinceladas sobre qué es geoinquietos, cómo se puede arrancar un grupo local, en fin, mover un poco el asunto. Estoy muy contento de ser parte de un ¿movimiento? que está consiguiendo fomentar las tecnologías de la información geográfica, la geomática, la cartografía colaborativa, los datos libres y tantos otros temas interesantes. Bueno, ahí va.

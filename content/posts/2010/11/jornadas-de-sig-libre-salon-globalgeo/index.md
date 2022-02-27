@@ -3,6 +3,7 @@ title: "Jornadas de SIG Libre & Salón GlobalGeo"
 date: "2010-11-29"
 categories: 
   - "events"
+authors: ["lluis-vicens"]
 ---
 
 ## Jornadas de SIG Libre & Salón GlobalGeo

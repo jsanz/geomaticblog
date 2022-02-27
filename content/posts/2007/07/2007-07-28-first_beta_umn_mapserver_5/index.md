@@ -4,6 +4,7 @@ date: "2007-07-28"
 categories: 
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 After some years with different releases of version 4, justappeared the first beta version (5.0) of the most spread FOSS4G webmap server: [UMNMapserver.](http://mapserver.gis.umn.edu/) This map server stands out because of its velocityand cartographic quality. But, of course, it's never enough,and it seems that there are news just in that issue ofperformance and quality of vectorial renderization. It seemsthat UMN Mapserver will use the [AAG](http://www.antigrain.com/)library for that (I didn't know that library).

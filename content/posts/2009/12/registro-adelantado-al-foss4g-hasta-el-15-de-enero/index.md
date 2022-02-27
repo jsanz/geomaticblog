@@ -4,6 +4,7 @@ date: "2009-12-30"
 categories: 
   - "events"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/logo_cuadrado_foss4g.png "FOSS4G2010")](http://2010.foss4g.org)En lugar de acabar mañana, la fecha límite para el registro adelantado al [FOSS4G](http://2010.foss4g.org "Sitio web del FOSS4G") del año que viene se ha desplazado al 15 de enero. El registro adelantado supone una buena rebaja sobre el precio y un aliciente para los que tienen claro que el FOSS4G va a ser el evento de obligada asistencia para la comunidad geomática internacional.

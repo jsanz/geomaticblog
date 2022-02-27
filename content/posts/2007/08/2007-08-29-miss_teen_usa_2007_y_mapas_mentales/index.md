@@ -4,6 +4,7 @@ date: "2007-08-29"
 categories: 
   - "cartography"
   - "education"
+authors: ["jorge-sanz"]
 ---
 
 Si lees geoblogs americanos, seguro que has visto [este vídeo](http://www.youtube.com/watch?v=lj3iNxZ8Dww)en el que en un concurso de belleza le preguntan a una participante porel hecho de que muchos norteamericanos no sean capaces ni de ubicar supais en un mapa. En cualquier caso no tiene desperdicio, pobrecica....

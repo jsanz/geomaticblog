@@ -3,6 +3,7 @@ title: "TileCache en Windows"
 date: "2008-01-24"
 categories: 
   - "foss"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Las últimas semanas he estado trasteando con MapServer y OpenLayers en el curro y llegué a la conclusión de que tenía que "cachear" algunas de las grandes imágenes que usamos.

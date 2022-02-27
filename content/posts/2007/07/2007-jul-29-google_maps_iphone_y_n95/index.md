@@ -4,6 +4,7 @@ date: "2007-07-29"
 categories: 
   - "cartography"
   - "hardware"
+authors: ["jorge-sanz"]
 ---
 
 Un vídeo bastante bueno mostrando la interfaz para GoogleMaps en dos de los dipositivos móviles másinteresantes del momento, el [iPhone](http://www.apple.com/iphone/)de Apple y el [N95](http://www.nokia.es/A4405825)de Nokia.

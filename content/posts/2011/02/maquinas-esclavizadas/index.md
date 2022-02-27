@@ -5,6 +5,7 @@ categories:
   - "foss"
   - "gvsig"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Acabo de llegar a un [documento](http://www.zaragoza.es/contenidos/azlinux/migracionescritoriosl.pdf) (PDF) elaborado por el Ayunamiento de Zaragoza, "[Migración Escritorio Software Libre](http://zaragozaciudad.net/azlinux/2011/022101-liberamos-migracion-escritorio-software-libre-.php)" y después de ver el índice (son 113 páginas, tiene muy buena pinta) me doy una vuelta buscando por el término CAD, directo a donde duele y leo (pág. 26):

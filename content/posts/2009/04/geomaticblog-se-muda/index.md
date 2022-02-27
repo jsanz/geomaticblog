@@ -3,6 +3,7 @@ title: "geomaticblog se muda"
 date: "2009-04-24"
 categories: 
   - "meta"
+authors: ["jorge-sanz"]
 ---
 
 Bueno, con la primavera ya bien entrada toca hacer algunos cambios en geomaticblog. Después de casi tres años utilizando un servicio de hosting con [Drupal](http://www.drupal.org) como gestor de contenidos, hemos decidido que queremos **dedicarnos más a escribir** y menos a mantener el blog. Si alguno de los lectores mantiene uno sabrá a qué me refiero: controlar las actualizaciones de tu CMS, configurarlo para que el spam no moleste demasiado, lidiar con tu servicio de hosting, configurar el blog para que tus compañeros tengan la tarea lo más fácil posible, etc. etc.

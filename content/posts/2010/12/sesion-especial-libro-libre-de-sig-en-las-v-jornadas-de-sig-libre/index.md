@@ -4,6 +4,7 @@ date: "2010-12-20"
 categories: 
   - "events"
   - "foss"
+authors: ["lluis-vicens"]
 ---
 
 [![V Jornadas de SIG Libre](images/banner1.png "V Jornadas de SIG Libre")](http://exploradoressig.files.wordpress.com/2010/12/banner1.png) Después de mucho esfuerzo, tenemos por fin disponible una primera versión del libro libre sobre SIG, un proyecto que comenzó a gestarse en la primera edición de estas Jornadas y que busca crear un texto de referencia libre sobre SIG escrito en castellano. Se trata de un proyecto abierto y libre, y por ello queremos aprovechar la labor de la comunidad para mejorar la calidad del texto. **Por esta razón, este año en las [Jornadas de SIG libre de Girona](http://www.sigte.udg.edu/jornadassiglibre/) llevaremos a cabo un pequeño evento de trabajo en el que intentaremos corregir y pulir el documento antes de sacar una versión definitiva, que será publicada en papel y distribuida de diversas formas**.

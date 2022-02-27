@@ -3,6 +3,7 @@ title: "Tres nuevos proyectos se gradúan en OSGeo"
 date: "2008-02-09"
 categories: 
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 ![Fundación OSGeo](images/OSGeo-logo.png "OSGeo")Finalmente han sido 3 los proyectos graduados en este principio de año,[GRASS GIS](http://grass.itc.it/), [GDAL](http://www.gdal.org) y [FDO](http://fdo.osgeo.org).

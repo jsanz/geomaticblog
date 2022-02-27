@@ -4,6 +4,7 @@ date: "2007-08-24"
 categories: 
   - "development"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 Pues sí, para volver de vacaciones, algo ligerito.

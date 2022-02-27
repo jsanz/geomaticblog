@@ -3,6 +3,7 @@ title: "Colabora en el testeo de gvSIG"
 date: "2009-06-18"
 categories: 
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG](images/logo-gvsig_150_14.gif "gvSIG")](http://gvsig.org)El área de testeo de gvSIG ha hecho [una llamada a la colaboración](http://listserv.gva.es/pipermail/gvsig_usuarios/2009-June/009280.html) para testear gvSIG 1.9. Esto es muy importante para conseguir en el menor tiempo posible una versión estable de gvSIG 1.9. Os dejo el mensaje, pero la colaboración se llevará a cabo a través de las listas de correo de gvSIG.

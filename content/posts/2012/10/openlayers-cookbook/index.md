@@ -5,6 +5,7 @@ categories:
   - "books"
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 [![OpenLayers CookBook](images/7942702164_3fbf1a5f12.jpg)](http://www.flickr.com/photos/xurxosanz/7942702164/ "OpenLayers CookBook by XuRxO, on Flickr")

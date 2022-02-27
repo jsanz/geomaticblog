@@ -1,6 +1,6 @@
 <div>
   <figure class="author-figure">
-    <a href="{{ .Permalink }}" class="block-link">
+    <a href="{{ .RelPermalink }}" class="block-link">
       <img src="{{ .Params.avatar }}" alt="{{ .Params.name }}" />
     </a>
     <figcaption>
@@ -8,7 +8,7 @@
         {{ .Summary }}
       </p>
       <p>
-        <a href="{{ .Permalink }}" class="block-link">
+        <a href="{{ .RelPermalink }}" class="block-link">
           {{ .Params.name }}
         </a>
       </p>

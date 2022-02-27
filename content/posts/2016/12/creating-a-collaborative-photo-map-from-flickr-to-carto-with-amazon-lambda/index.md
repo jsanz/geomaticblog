@@ -5,6 +5,7 @@ categories:
   - "carto"
   - "development"
 coverImage: "2016-12-25_222434-selection.png"
+authors: ["jorge-sanz"]
 ---
 
 Phew, it's been almost two years since my last [techie blog post](https://geomaticblog.net/2015/01/13/about-antipodes-map/). I know I know, blame on me, I should've been writing more here but at least I did some nice posts at [CARTO blog](https://carto.com/blog/author/jorge-sanz). Anyway, It's Christmas today and because _Internet is my playground and any piece of data I can put on a map can be a toy_ I spent a few hours having some geeky fun.

@@ -4,6 +4,7 @@ date: "2008-07-05"
 categories: 
   - "education"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 Hoy traemos al blog un libro que apenas lleva unas semanas enla calle. Se trata más bien de material para las clases que el autorimparte en la Universidad Politécnica de Valencia, en los estudios deltodavía llamado Ingeniero en Geodesia y Cartografía. José Carlos fueprofesor mío durante este segundo ciclo y luego junto con la profesoraEloína Coll mis directores del trabajo final de carrera y de beca depostgrado.

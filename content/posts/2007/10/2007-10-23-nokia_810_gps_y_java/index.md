@@ -5,6 +5,7 @@ categories:
   - "development"
   - "gps"
   - "hardware"
+authors: ["jorge-sanz"]
 ---
 
 Acabo de leer en el blog de [Ove](http://ovenordstrom.blogspot.com/2007/10/nokia-n810-internet-tablet-really-cool.html)que Nokia va a sacar una nueva Internet Tablet con GPS, teclado duro y,atención, soporte para Java ME/[CDC](http://java.sun.com/products/cdc/overview.html)!!! (ver nota)Y la mayoría diréis ¿eso qué es lo que es?... Pues justo la plataformaJava para la que estamos desarrollando en [Prodevelop](http://www.prodevelop.es) [gvSIGMobile](http://www.foss4g2007.org/presentations/view.php?abstract_id=124). Un cacharrín **SIN Windows Mobile**,con pantalla de **800 por 480**, **GPS**integrado,.... va a ser LA PLATAFORMA del mundo libre para desarrollaraplicaciones móviles, al menos la primera. Y si no, ¿cómo es que laprimera foto que vemos del bicho es justo **con un mapa**?

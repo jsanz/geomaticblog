@@ -5,6 +5,7 @@ categories:
   - "cartography"
   - "foss"
   - "gis"
+authors: [ "roberto-antolin" ]
 ---
 
 En los últimos años ha proliferado el uso del [LiDAR](http://es.wikipedia.org/wiki/LIDAR) como técnica topográfica. Básicamente, consiste en un telémetro láser que mide el tiempo que tarda una pulso láser en ir y volver después de haber rebotado en un objeto. De este modo consigue hallar la distancia entre el instrumento y el objeto. Es decir, es sencillamente un distanciómetro, pero con la particularidad de que puede llegar a medir unos 100000 puntos por segundo (100 MHz). Si, además, incorporamos a los equipos de medición un GPS que nos dé la posición y un sistema inercial que nos de la orientación si estamos en movimiento, podemos dar coordenadas globales, normalmente en el sistema WGS84, a todos los puntos medidos. Por tanto, tendremos lo que se denominan nubes de puntos de los cuales conoceremos su posición en un sistema de referencia global, además de otras características relativas al objeto, como la intensidad o diferentes ecos de retornos, o referentes a la medición como ángulo de emisión del pulso, tiempo o distancia relativa al sensor.

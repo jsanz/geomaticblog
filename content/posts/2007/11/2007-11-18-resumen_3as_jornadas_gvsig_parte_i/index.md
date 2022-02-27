@@ -3,6 +3,7 @@ title: "Resumen de las 3as Jornadas gvSIG Parte I"
 date: "2007-11-18"
 categories: 
   - "gis"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 ¡Hola a todos! Siguiendo con el compromiso que tenemos con nosotros mismos de ser geo-curiosos..., vale, y algunos por motivos laborales, dos miembros del geomaticblog han asistido, y uno además ha sido ponente , a las 3as Jornadas de gvSIG que han tenido lugar en Valencia el 14, 15 y 16 de Noviembre de 2007. Aquí el pequeño resumen que os trae Vehrka: Las jornadas comenzaron con 5 talleres que se desarrollaron a lo largo del miercoles. **Primer taller "Novedades gvSIG"** El primer taller era sobre novedades y nos enseñaron las cosas que se han estado desarrollando últimamente y que aún no están incorporadas totalmente a la aplicación, aunque todos dijeron que estarían disponibles en pocos meses.

@@ -4,6 +4,7 @@ date: "2012-04-17"
 categories: 
   - "events"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 Bien anteayer terminó mi participación en la [iParty 13](http://iparty.aditel.org/ "iParty 13"), la fiesta del software libre y la informática en general que organiza [Aditel](http://aditel.org/), la Asociaicón para el Desarrollo de la Informática y la Telemática de la [UJI](http://www.uji.es/) en Castellón de la Plana. Viene a ser como una Campus Party con gente quedando a dormir en un espacio donde pueden sobre todo jugar juntos a videojuegos pero que a la vez tiene un variado [programa](http://iparty.aditel.org/content/charlas-y-talleres) de talleres y charlas técnicas.

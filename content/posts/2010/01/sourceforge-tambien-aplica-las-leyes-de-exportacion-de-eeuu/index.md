@@ -4,6 +4,7 @@ date: "2010-01-26"
 categories: 
   - "foss"
   - "opinion"
+authors: ["jorge-batista", "jorge-sanz"]
 ---
 
 **Nota**: este artículo lo hemos escrito dos Jorges, un servidor y Jorge Batista (aka PB), compañero de armas de OSGeo-ES y como residente en Cuba desde que fue su madre lo trajo al mundo, sufridor de este sinsentido en el que vamos a ahondar a continuación.

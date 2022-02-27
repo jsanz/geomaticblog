@@ -9,6 +9,7 @@ tags:
   - "github-pages"
   - "jekyll"
 coverImage: "vlcsnap-2020-04-07-09h20m37s298.png"
+authors: ["jorge-sanz"]
 ---
 
 Hace tiempo que tenía ganas de tratar este tema, llevo usando [Jekyll](https://jekyllrb.com/) desde hace ya muchos años, y desde que [Github](https://pages.github.com/) incluyó en su portfolio la publicación de sitios web no he vuelto a pensar en usar un [CMS](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos). Curiosamente este blog sigue en [worddpress.com](https://wordpress.com/) por razones casi históricas, pero es la excepción a los diferentes proyectos web en los que he participado (todos muy humildes) como son la web de [geoinquietos](http://geoinquietos.org/), [postgisday.rocks](https://postgisday.rocks/), o la web de la [Geocamp de 2019](http://2019.geocamp.es).

@@ -4,6 +4,7 @@ date: "2008-11-09"
 categories: 
   - "gvsig"
   - "ogc"
+authors: ["jorge-sanz"]
 ---
 
 Hace ya [más deun año](/gb2/es/2007-08-15-georss_gvsig_%282a_parte%29) desde la última vez que le dediqué algo de tiempo a laextensión y tenía algunos errores y cosas que quería tocar. Por un ladohace ya algún tiempo [salióen las listas de gvSIG](http://runas.cap.gva.es/pipermail/gvsig_usuarios/2008-May/004954.html) el tema del bloqueo activo que Googlerealiza en Cuba cumpliendo las leyes del embargo. Esto fue bastantecriticado y en ese momento, como [SEXTANTE](http://www.sextantegis.com), ya meplateé que el servicio era bueno pero no se justificaba si había otrasopciones.

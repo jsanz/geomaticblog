@@ -3,6 +3,7 @@ title: "Happy Birthday"
 date: "2007-08-07"
 categories: 
   - "meta"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/561774059_c14c47fafd_m.jpg)](http://www.flickr.com/photos/ntr23/561774059/)

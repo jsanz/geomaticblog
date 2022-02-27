@@ -4,6 +4,7 @@ date: "2009-05-29"
 categories: 
   - "foss"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 En cosa de dos semanas he leído como tres barbaridades sobre el software libre en general. En lugar de hacer sangre, voy a ir a la vía constructiva, que ya está el mundo bastante negativo como para darle más cuerda.

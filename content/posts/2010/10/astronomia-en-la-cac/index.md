@@ -5,6 +5,7 @@ categories:
   - "astronomy"
   - "education"
   - "events"
+authors: ["jorge-sanz"]
 ---
 
 El año pasado [Aida](http://twitter.com/aidaivars) y yo nos quedamos con las ganas, pero este año hemos estado más atentos y en cuanto se abrió la inscripción nos apuntamos. Se trata del [curso de astronomía](http://www.cac.es/cursoastronomia10/) organizado por la [Ciudad de las Artes y las Ciencias de Valencia](http://www.cac.es/). Es un curso impartido por diferentes expertos de universidades, institutos de investigación y asociaciones en el que en cada sesión se irán tratando temas concretos como la vía láctea, los agujeros negros, etc. Este pasado jueves fue la primera sesión del curso, impartida en el [Hemisfèric](http://www.cac.es/hemisferic/) (perfecto planetario) donde pudimos ver de forma realmente impresionante cómo se producen los eclipses de sol y luna así como otros temas relacionados. Por cierto que coincidí en el curso con un compañero de [Prodevelop](http://www.prodevelop.es) ¡sin ninguno saber que iba el otro!

@@ -3,6 +3,7 @@ title: "Mesa redonda sobre software libre frente a software privativo"
 date: "2007-12-20"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 ![Meneame.net](images/logo02.png)El pasado martes la Asociación deIngenieros Geógrafos del IGN (no la conocía)organizó una mesa redonda en la que participaron:

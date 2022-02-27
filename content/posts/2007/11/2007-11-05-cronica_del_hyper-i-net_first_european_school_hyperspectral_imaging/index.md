@@ -3,6 +3,7 @@ title: "Crónica del HYPER-I-NET: First European School on Hyperspectral Imaging
 date: "2007-11-05"
 categories: 
   - "gis"
+authors: [ "vicente-bayarri" ]
 ---
 
 [![](images/HYPERINET.jpg)](http://www.hyperinet.eu/) Acomienzos de esta semana he estado en una escuelaorganizada por la Universidad deExtremadura dentro de la red de formación deinvestigadores Marie Curie ([MarieCurie Research Training Network, RTN](http://ec.europa.eu/research/fp6/mariecurie-actions/action/training_en.html)) enteledetección Hiperespectral, llamada [HYPER-I-NET](http://www.hyperinet.eu) que hasidofundada bajo el sexto programa marco de la comisión europea.

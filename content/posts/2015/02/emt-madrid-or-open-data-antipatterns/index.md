@@ -5,6 +5,7 @@ categories:
   - "formats"
   - "geodata"
   - "opinion"
+authors: ["ivan-sanchez"]
 ---
 
 Today, february 21st 2015, is the [Open Data Day](http://opendataday.org/). And given that I'm far asay from my favourite Open Data nerds down at the [Medialab Prado](http://medialab-prado.es/?lang=en), I decided to work on giving the old [¿Cuánto Tarda Mi Autobús?](http://www.cuantotardamiautobus.es) website a facelift.

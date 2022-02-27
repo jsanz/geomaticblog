@@ -4,6 +4,7 @@ date: "2008-10-06"
 categories: 
   - "events"
   - "osm"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 En la lista se [OpenStreet Map España](http://lists.openstreetmap.org/listinfo/talk-es), Iván publicó [el siguiente mensaje](http://lists.openstreetmap.org/pipermail/talk-es/2008-October/002015.html):

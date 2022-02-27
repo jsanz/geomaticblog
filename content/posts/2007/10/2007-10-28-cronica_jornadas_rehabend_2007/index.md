@@ -3,6 +3,7 @@ title: "Crónica de las jornadas REHABEND 2007"
 date: "2007-10-28"
 categories: 
   - "gis"
+authors: [ "vicente-bayarri" ]
 ---
 
 [![](images/Poster_REHABEND.jpg)](http://grupos.unican.es/GTED/images/Poster_REHABEND.jpg)Estosdos últimos días he asistido intermitentemente(yame hubiese gustado estar de continuo, por la pyme es la pyme...) a lassegundas [JornadasInternacionales sobre la Tecnología de laRehabilitación y la gestión del PatrimonioConstruido](http://grupos.unican.es/GTED/archivos/REHABEND_internacional.pdf) (REHABEND), organizadas por [GTED](http://grupos.unican.es/GTED/) dela [Universidad de Cantabria](http://www.unican.es).

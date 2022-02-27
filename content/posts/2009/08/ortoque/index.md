@@ -4,6 +4,7 @@ date: "2009-08-21"
 categories: 
   - "geodesy"
   - "gps"
+authors: ["juan-guillermo-jordan"]
 ---
 
 Sí, amigos, como delata el título de esta entrada soy bastante profano en el tema de la geodesia. En primer lugar presentarme, que soy nuevo por aquí y mis papás me enseñaron a ser educado, o lo intentaron. Soy Juangui Jordán, un teleco metido a informático metido a geoinformático. Un intruso dentro de un intruso.

@@ -3,6 +3,7 @@ title: "IV Jornadas de SIG Libre"
 date: "2009-10-21"
 categories: 
   - "events"
+authors: ["jorge-sanz"]
 ---
 
 > Lluis Vicens del [SIGTE](http://www.sigte.udg.es/) nos pasa esta pequeña nota sobre las próximas jornadas de SIG Libre de Girona.

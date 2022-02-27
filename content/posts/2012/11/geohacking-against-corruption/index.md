@@ -3,6 +3,7 @@ title: "Geohacking against corruption"
 date: "2012-11-18"
 categories: 
   - "events"
+authors: ["jorge-sanz"]
 ---
 
 Last week I was with three colleges of [Prodevelop](http://www.prodevelop.es "Prodevelop") and other 20 hackers at the [15th Anticorruption Conference](http://15iacc.org/ "15 IACC") in Brasilia. We participated in a four days [hackathon](http://15iacc.org/get-involved/iacc-hackathon/) working in groups to create web or mobile applications about transparency and corruption.

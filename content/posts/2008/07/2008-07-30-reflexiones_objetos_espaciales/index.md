@@ -4,6 +4,7 @@ date: "2008-07-30"
 categories: 
   - "gis"
   - "opinion"
+authors: [ "vicente-bayarri" ]
 ---
 
 El uso cada vez más expandido de lainformaciónespacial, hace que continúe creciendo la necesidadde intercambiar dichainformación (entre otras, las [IDEEs](http://www.blog-idee.blogspot.com/)).Paralelamente corre el desarrollo de las bases dedatos espaciales sirviendo a múltiples aplicaciones. Enambas se haresaltado la necesidad de una representación y uncomportamientoconsistente de los objetos espaciales  en las diferentes plataformas.

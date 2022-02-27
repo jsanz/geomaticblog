@@ -3,6 +3,7 @@ title: "De la selección de componentes en la geomática libre"
 date: "2010-01-07"
 categories: 
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Buscando materiales para empezar a preparar mi participación en la próxima [Barcamp](http://barcampvalencia.com), me he topado con una presentación del [FOSS4G2009](http://2009.foss4g.org) que ya había visto de refilón y que hoy me he dado un minuto en revisar. Se llama «[Comparing apples and oranges: Uncovering the mystery of component selection in WebGIS projects](http://2009.foss4g.org/presentations/#presentation_54)». Es un nombre interesante para la eterna pregunta de qué criterio seguir para elegir un producto libre (o no) con la miríada de soluciones y la cantidad de variables o dimensiones a tener en cuenta. Además justo estas últimas semanas he estado haciendo algo de este palo en el trabajo y estoy más que identificado con ese sentimiento.

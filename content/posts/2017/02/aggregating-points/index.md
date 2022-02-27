@@ -8,6 +8,7 @@ categories:
   - "sql"
   - "webmapping"
 coverImage: "2017-02-19_224931-selection.png"
+authors: ["jorge-sanz"]
 ---
 
 > NOTE: I'll use [CARTO](https://carto.com) but you can apply all this to any _webmapping_ technology backed by a modern database.

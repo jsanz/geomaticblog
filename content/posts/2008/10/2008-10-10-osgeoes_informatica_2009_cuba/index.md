@@ -4,6 +4,7 @@ date: "2008-10-10"
 categories: 
   - "events"
   - "osgeo-es"
+authors: ["jorge-sanz"]
 ---
 
 Dejo bajo (fuera de los RSS para no molestar mucho) la nota desde [la lista](http://lists.osgeo.org/mailman/listinfo/spanish) de [OSGeo-es](http://wiki.osgeo.org/wiki/Spanish)

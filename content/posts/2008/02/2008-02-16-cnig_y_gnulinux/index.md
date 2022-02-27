@@ -4,6 +4,7 @@ date: "2008-02-16"
 categories: 
   - "cartography"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 Veo [lanoticia de nosolosig](http://www.nosolosig.com/index.php?option=com_content&task=view&id=1832&Itemid=96) que dice que podemos ver en la webdel [CNIG](http://www.cnig.es) los mapasdel MTN50, acto seguido apunto mi Iceweasel (es elFirefox renombrado por el Proyecto Debian por temas de licencia) haciala web de dicha entidad y Oh!sorpresa, resulta que estánutilizando _Geomedia Web Map_ y que ésteno genera un visorque mi querida Debian **pueda ver**...

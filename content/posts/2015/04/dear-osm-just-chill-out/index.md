@@ -3,6 +3,7 @@ title: "Dear OSM, just chill out."
 date: "2015-04-27"
 categories: 
   - "opinion"
+authors: ["ivan-sanchez"]
 ---
 
 > _This is kinda a reply to Gary Gale's "[Dear OSM, it's time to get your finger out](http://geohipster.com/2015/04/27/gary-gale-dear-osm-its-time-to-get-your-finger-out/)". The more I read that, the less sense it makes to me._

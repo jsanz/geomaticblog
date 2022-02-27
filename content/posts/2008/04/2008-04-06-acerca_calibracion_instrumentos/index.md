@@ -3,6 +3,7 @@ title: "Acerca de la Calibración de Instrumentos"
 date: "2008-04-06"
 categories: 
   - "topography"
+authors: [ "vicente-bayarri" ]
 ---
 
 Releyendo las actas del [TOP-CART 2008](http://www.top-cart.com/htmlnuevo/),he visto que la primera lleva el título "Enseñanza de laHistoria de la IngenieríaCartográfica: Una iniciativa valenciana"firmada como primerosespadas por D. Manuel Chueca y D. Francisco García, en elque sehabla, entre otras cosas del famoso y polémico [LibroBlanco delTítulo de Grado de Ingeniero en Geomática yTopografía](http://www.uned.es/espacio-europeo/pdf/lb_geomatica.pdf). En él aparece un cuadro devaloraciónglobal de competencias profesionales (pag. 142 del libro), y existenvarias de"Calibración de instrumentos y sensores..." topográficos, geodésicos, de Sistemas deposicionamientoy Navegación, de Fotogrametría yteledetección, demediciones en aplicaciones industriales, geofísicos; y aligualque alguna que otra cosa que aparece, no creo que sea algo que, almenos mi quinta, hayamosestudiado con profundidad en la titulación, másalla delas pruebas de campo de "andar por casa" a niveles oestaciones.

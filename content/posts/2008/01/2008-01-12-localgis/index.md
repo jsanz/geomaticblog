@@ -4,6 +4,7 @@ date: "2008-01-12"
 categories: 
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Esto iba a ser un comentario en un [apunte](http://georeferencias.wordpress.com/2008/01/10/pistalocal-aterriza-en-sourceforge/) del estupendo blog [georreferencias](http://georeferencias.wordpress.com), pero he considerado mejor dejarlo aquí porque me estaba quedando largo y creo que puede ser de interés para todos aquellos que nos preocupamos por el FOSS4G y por el buen hacer de nuestras administraciones. En cualquier caso el motivo del apunte trataba sobre la utilización de SourceForge para gestionar el proyecto [PISTALocal +](http://www.pistalocal.es/).

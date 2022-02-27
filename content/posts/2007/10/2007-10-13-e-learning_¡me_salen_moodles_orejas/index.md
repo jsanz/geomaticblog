@@ -4,6 +4,7 @@ date: "2007-10-13"
 categories: 
   - "education"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 El [InstitutoGeográfico Nacional](http://www.ign.es/ign/es/IGN/home.jsp) de España ha inaugurado recientemente un [portal de e-learning](http://www.go-learning.net/IGN/). Se inaugura el curso escolar con un curso decartografía temática y otro de Infraestructurasde Datos Espaciales.

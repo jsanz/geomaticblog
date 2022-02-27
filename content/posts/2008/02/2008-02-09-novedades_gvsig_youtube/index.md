@@ -3,6 +3,7 @@ title: "Novedades gvSIG en youtube"
 date: "2008-02-09"
 categories: 
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 ![gvSIG](images/Logo-gvSIG_150_14.gif)Durante las 3as jornadas gvSIG se mostraron diversos vídeoscon demostraciones de lo que va a llegar en las próximos lanzamientosdel proyecto gvSIG. En Prodevelop preparamos las de gvSIG Mobile y enel resto de «_frentes_» hicieron lo mismo.

@@ -3,6 +3,7 @@ title: "Crónica del 3D Risk  Mapping (i)"
 date: "2008-01-02"
 categories: 
   - "gis"
+authors: [ "vicente-bayarri" ]
 ---
 
 [![3D Risk Mapping](images/3DRM.jpg)](http://geomaticblog.net/gb2/es/2008-01-02-3d_risk_mapping?size=_original)

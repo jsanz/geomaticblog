@@ -3,6 +3,7 @@ title: "Nuevo blog de la IDEE"
 date: "2008-07-14"
 categories: 
   - "ide"
+authors: ["jorge-sanz"]
 ---
 
 Antonio Rodríguez, del Instituto Geográfico Nacional ([IGN](http://www.ign.es)), y responsable de desarrollo laInfraestructura de Datos Espaciales de España ([IDEE](http://www.idee.es)) nos comenta quearrancan un nuevo proyecto de comunicación esta vez no entre Sistemasde Información Geográfica sino entre la administración pública y lacomunidad. Se trata de un [blog](http://www.blog-idee.blogspot.com/), unsencillo blog en el que están ya posteando noticias relativas a lasIDEs y la geomática en general.

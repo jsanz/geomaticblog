@@ -4,6 +4,7 @@ date: "2009-02-06"
 categories: 
   - "events"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 Este es el mapa con el quehemos repartido las zonas para la mappingparty que empieza en 45 minutos, ya os contaremos cómo ha ido

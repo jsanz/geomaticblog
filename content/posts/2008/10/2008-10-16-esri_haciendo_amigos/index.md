@@ -4,6 +4,7 @@ date: "2008-10-16"
 categories: 
   - "events"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 geomaticblog inmobiliaria presta sus servicios a sus amigos, así que ahí va el post  que me ha pasado Álvaro sobre una cosita que ocurrió ayer... sólo he colocado algunos enlaces y mis comentarios quedarán por ahí diseminados, que esta gente de ESRI _la ha liao parda_. Bueno, a disfrutar:

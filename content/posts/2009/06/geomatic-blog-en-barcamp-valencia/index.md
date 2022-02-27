@@ -4,6 +4,7 @@ date: "2009-06-27"
 categories: 
   - "osgeo"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 ![](http://barcampvalencia.files.wordpress.com/2009/04/logo1.png?w=350)

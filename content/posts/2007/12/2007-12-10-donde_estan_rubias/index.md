@@ -3,6 +3,7 @@ title: "Dónde estan las rubias"
 date: "2007-12-10"
 categories: 
   - "gis"
+authors: ["eloi-ribeiro"]
 ---
 
 Muchas gracias por la bienvenida lusa xurxo.

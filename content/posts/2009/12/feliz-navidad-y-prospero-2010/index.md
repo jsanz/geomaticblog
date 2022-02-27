@@ -3,6 +3,7 @@ title: "Feliz Navidad y Próspero 2010"
 date: "2009-12-24"
 categories: 
   - "gis"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Desde el equipo de redactores del geomaticblog.net queremos desear a todos nuestros lectores una muy feliz Navidad y un próspero 2010.

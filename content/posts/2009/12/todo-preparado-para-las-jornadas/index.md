@@ -4,6 +4,7 @@ date: "2009-12-01"
 categories: 
   - "gvsig"
   - "osgeo-es"
+authors: ["jorge-sanz"]
 ---
 
 Por aquí el ritmo ya es bastante acelerado, ahora mismo es el [MOSKitt Day](http://geomaticblog.net/2009/12/01/good-moskitt-day/) y muchos compañeros ya han ido a Feria Valencia. Este año mi participación en las jornadas es bastante alta así que seguramente iré loco de un sitio a otro.

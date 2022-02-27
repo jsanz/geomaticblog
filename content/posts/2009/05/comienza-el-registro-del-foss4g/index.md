@@ -4,6 +4,7 @@ date: "2009-05-05"
 categories: 
   - "events"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 Este año como parte de [OSGeo-ES](http://es.osgeo.org), estoy colaborando en la traducción de notas de prensa de la conferencia [FOSS4G2009](http://2009.foss4g.org) que tendrá lugar en Sydney, Australia. Así que, hasta que OSGeo-ES tenga una web propia (o algún otro compañero tome el relevo), geomaticblog cede su espacio para dar noticias de [OSGeo](http://www.osgeo.org) en Español.

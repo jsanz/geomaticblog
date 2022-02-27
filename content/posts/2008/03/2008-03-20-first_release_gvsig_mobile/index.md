@@ -3,6 +3,7 @@ title: "First release of gvSIG mobile"
 date: "2008-03-20"
 categories: 
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG](images/Logo-gvSIG_150_14.gif)](http://www.gvsig.org)I'mreally happyto post about the first release of gvSIG mobile. This is the port (moreor less) of the well known [gvSIG](http://www.gvsig.org)software to mobile devices. My coworkers Miguel (CTO of [Prodevelop](http://www.prodevelop.es)) andJavi (a really smart developer) [presented](http://www.foss4g2007.org/presentations/view.php?abstract_id=124)that project at [FOSS4G2007](http://www.foss4g2007.org)but at this time gvSIG mobile was a inner project of Prodevelop. Nowthis project has won the contest to get the contract with the [Valencian Gobernment](http://www.cit.gva.es),so we are now "official" and public.

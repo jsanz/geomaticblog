@@ -4,6 +4,7 @@ date: "2010-08-31"
 categories: 
   - "development"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 Probably some of you do a real engineering process to build your GIS projects, I mean, the classical _analyse-design-implement_ cycle. As a GIS is in fact an Information System with the (complex of course) spatial component, one should expect that the common tools and methodologies of «_normal Information Systems_» are available for GIS engineers but on the case of database modelling that's not so common.

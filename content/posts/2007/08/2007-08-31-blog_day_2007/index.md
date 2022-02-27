@@ -4,6 +4,7 @@ date: "2007-08-31"
 categories: 
   - "opinion"
   - "other"
+authors: ["jorge-sanz"]
 ---
 
 Mirando [Genbeta](http://www.genbeta.com/2007/08/31-seleccion-genbeta-para-el-blogday-2007) hoy, me entero que este último día de agosto es el [Blog Day 2007](http://www.blogday.org/). Algo así como "vamos a vernos el ombligo y regocijarnos en nuestra idiosincrasia bloguera".

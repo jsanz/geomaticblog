@@ -6,6 +6,7 @@ categories:
   - "cartography"
   - "gis"
 coverImage: "2017-02-14_215707-selection.png"
+authors: ["jorge-sanz"]
 ---
 
 **TL;DR** If you are interested on getting a daily digest of geospatial links subscribe to [this mailing list](https://lists.osgeo.org/mailman/listinfo/rafagas) or this [atom feed](http://geoinquiets.github.io/rafagas/atom.xml). Take «_daily»_ with a grain of salt.

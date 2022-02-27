@@ -6,6 +6,7 @@ categories:
   - "geodata"
   - "osm"
   - "postgis"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 Ostras como se ponen los jefes de vez en cuando y claro, cuando vas y estiras del hilo te enteras que sobre el supuesto mapa de España van a pintar con chorricientos colores y necesitan que se vea bien a cualquier escala y que tenga el entramado de las calles, pero también salgan las provincias y puedan hacer zoom y pintar sobre las provincias... ¿no os suena?, jopé que suerte, a mi me pasa a menudo...

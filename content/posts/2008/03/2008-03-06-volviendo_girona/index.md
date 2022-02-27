@@ -5,6 +5,7 @@ categories:
   - "events"
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 ![SIGTE](images/sigte.gif)Este post es sólo para felicitar al[SIGTE](http://www.sigte.udg.es) por su **grantrabajo** coordinando y organizando las [IIJornadas de SIG Libre](http://www.sigte.udg.es/jornadassiglibre/index.php?page=home) de Girona. Han sido 4 días(de domingo a miércoles) realmente intensos e interesantes,sin la presión de ser anfitrión (como enlas [3asJornadas gvSIG](http://www.jornadasgvsig.gva.es/)) la verdad es que me lo he pasado **francamentebien**.

@@ -4,6 +4,7 @@ date: "2012-02-12"
 categories: 
   - "events"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 \[caption id="" align="alignleft" width="240" caption="Cena previa"\][![Cena al estilo #osm #notlm](images/6837427689_6dde1cf76d_m.jpg)](http://www.flickr.com/photos/xurxosanz/6837427689/ "Cena al estilo #osm #notlm by XuRxO, on Flickr")\[/caption\]

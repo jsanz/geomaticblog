@@ -4,6 +4,7 @@ date: "2009-04-15"
 categories: 
   - "cartography"
   - "foss"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 La información proviniente de la [Shuttle Radar Topography Mission (SRTM) de la NASA](http://www2.jpl.nasa.gov/srtm/) puede ser utilizada para generar mapas de sombras o para generar mapas base "bonitos" de esos que nos gusta ver de vez en cuando. En este caso vamos a revisar cómo manejar esa información utilizando [GDAL](http://www.gdal.org/) la biblioteca de acceso a datos raster geoespaciales que está bajo OSGeo. En concreto usaremos la biblioteca desde las utilidades por línea de comandos incluidas en [FWTools](http://fwtools.maptools.org/).

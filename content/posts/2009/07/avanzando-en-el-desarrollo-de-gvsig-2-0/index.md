@@ -3,6 +3,7 @@ title: "Avanzando en el desarrollo de gvSIG 2.0"
 date: "2009-07-05"
 categories: 
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG](images/logo-gvsig_150_14.gif "gvSIG")](http://gvsig.org)Durante esta semana, en los cuarteles generales del proyecto [gvSIG](http://gvsig.org) se ha organizado un pequeño seminario orientado a los desarrolladores que están empezando a trabajar con gvSIG 2.0. La idea era dar a los desarrolladores el máximo de documentación e información sobre las novedades que se han introducido, que afectan de lleno al desarrollo del producto porque tocan (entre otras cosas) tres aspectos fundamentales: el modo de compilar los binarios, las bibliotecas de acceso a datos y la API de geometrías.

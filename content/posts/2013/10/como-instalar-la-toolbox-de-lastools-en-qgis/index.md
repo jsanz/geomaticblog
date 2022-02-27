@@ -4,6 +4,7 @@ date: "2013-10-17"
 categories: 
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 El conjunto de herramientas [LAStools](https://twitter.com/lastools) para procesar datos LiDAR están disponibles en el software propiertario ArcGIS desde abril de 2012, pero no ha sido hasta el [FOSS4G13](http://2013.foss4g.org/) de Nottingham que no han estado disponibles para [QGIS](http://www.qgis.org/). Las herramientas han sido testadas en QGIS 1.8.0-Lisboa y 2.0.1-Dufour. En esta entrada os enseñamos el modo de installar LAStools en QGIS y, básicamente, es la traducción y adaptación del [manual de instalación](http://rapidlasso.com/2013/09/29/how-to-install-lastools-toolbox-in-qgis/) que se encuentra en el blog de Martin Isenburg _aka_ [rapidlasso](https://twitter.com/rapidlasso).

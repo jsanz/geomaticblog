@@ -4,6 +4,7 @@ date: "2010-10-01"
 categories: 
   - "education"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Nice video by the University of Girona about what GI and GIS are.

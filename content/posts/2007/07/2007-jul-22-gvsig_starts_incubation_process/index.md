@@ -4,6 +4,7 @@ date: "2007-07-21"
 categories: 
   - "gvsig"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 It's almost official, gvSIG joins OSGeo incubation project,with Gabriel Carrión as project director and Jeroen Ticheler as OSGeoincubation mentor. But, what incubation means? It's about starting adeep revision of the project workflows, code reviews and many otheraspects to pass the quality tests that the Foundation establishes.

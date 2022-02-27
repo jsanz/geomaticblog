@@ -4,6 +4,7 @@ date: "2008-05-18"
 categories: 
   - "events"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG](images/Logo-gvSIG_150_14.gif)](http://www.gvsig.gva.es)Bueno, loprometido es deuda y aquí remato el [anterior post](http://geomaticblog.net/gb2/es/2008-05-14-vaya_semanita_primera_parte) hablando de misemanita movida. La verdad es que fueron cuatro días muyintensos ydefinitivamente valió la pena emplear un fin de semana.

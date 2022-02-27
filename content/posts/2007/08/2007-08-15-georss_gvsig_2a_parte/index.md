@@ -4,6 +4,7 @@ date: "2007-08-15"
 categories: 
   - "development"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 Bueno, ya han pasado unas semanas desde que publicamos laprimera versión del _plugin_ para gvSIGpara poder ver capas geoRSS.

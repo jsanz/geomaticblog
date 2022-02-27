@@ -4,6 +4,7 @@ date: "2008-03-17"
 categories: 
   - "meta"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 If you are reading that post from the [osgeo planet](http://planet.osgeo.org), let us introduce ourselves. If you are a regular reader of [geomaticblog.net](http://geomaticblog.net) you won't find this post interesting, but we encourage you to read the planet, there lots of smart guys there!!!

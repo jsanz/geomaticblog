@@ -3,6 +3,7 @@ title: "Geocamp"
 date: "2013-05-28"
 categories: 
   - "events"
+authors: ["jorge-sanz"]
 ---
 
 La semana pasada en [Óbidos](http://www.openstreetmap.org/?lat=39.361264&lon=-9.156748&zoom=18&layers=M) tuvo lugar el tercer [Geocamp](http://geocampers.com "Geocamp PT") de Portugal. Geocamp es un modelo de jornada en cierta manera similar a otras desconferencias como las [Barcamp](http://barcamp.org/w/page/402984/FrontPage) o las [Wherecamp](http://wherecamp.org/) donde la idea inicial es que la gente llegue y proponga sus charlas y el mismo día se organice todo el evento en función de lo que le apetezca a la asistencia.

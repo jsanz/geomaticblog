@@ -4,6 +4,7 @@ date: "2007-08-29"
 categories: 
   - "cartography"
   - "geodesy"
+authors: ["jorge-sanz"]
 ---
 
 Hoy ha sido [publicado](http://www.boe.es/g/es/bases_datos/doc.php?coleccion=iberlex&id=2007/15822&txtlen=1000 "ETRS89 en el BOE") (29 de agosto)en el Boletín Oficial del Estado de España (el BOE) la resoluciónoficial por la que se establece como sistema de referencia el EuropeanTerrestrial Reference System 1989 (ETRS89) para toda la cartografíaoficial.

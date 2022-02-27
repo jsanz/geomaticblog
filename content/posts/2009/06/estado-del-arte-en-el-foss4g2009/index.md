@@ -4,6 +4,7 @@ date: "2009-06-12"
 categories: 
   - "events"
   - "osgeo"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 He leído en [Map Butcher](http://mapbutcher.com/blog/), el blog de [Simon Hope](http://www.linkedin.com/in/mapbutcher),   un apunte bastante curioso sobre la próxima conferencia de la fundación OSGeo, [FOSS4G2009 que tendrá lugar en Sydney](http://2009.foss4g.org/).

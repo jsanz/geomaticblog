@@ -3,6 +3,7 @@ title: "Mapping Party en Poio, Pontevedra"
 date: "2015-03-16"
 categories: 
   - "gis"
+authors: [ "micho-garcia" ]
 ---
 
 El sábado 11 de abril en el Centro Xaime Illa de Raxó (Poio) llega la fiesta de las fiestas, la Mapping Party Poio’15 con el objetivo de pasarlo bien mientras aumentamos los datos geográficos de la costa de Poio con una licencia libre.

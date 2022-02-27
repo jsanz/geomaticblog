@@ -4,6 +4,7 @@ date: "2008-09-29"
 categories: 
   - "foss"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Después de leer esta mañana un [buen artículo](http://galvarezhn.cartesianos.com/2008/09/26/a-los-usuarios-de-arcview-3x-les-encanta-gvsig) en geofumadas sobre la conveniencia para unos usuarios de que gvSIG se parezca a ArcView y AutoCAD, no me he podido resistir a comentar uno de los argumentos del post, al respecto del carácter gratuito (o casi) de [gvSIG](http://www.gvsig.gva.es) frente a otras soluciones SIG privativas. Dejo aquí el comentario aunque realmente es mejor verlo en contexto leyendo [el artículo](http://galvarezhn.cartesianos.com/2008/09/26/a-los-usuarios-de-arcview-3x-les-encanta-gvsig) primero.

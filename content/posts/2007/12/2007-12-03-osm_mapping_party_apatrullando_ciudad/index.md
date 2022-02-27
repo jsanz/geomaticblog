@@ -3,6 +3,7 @@ title: "OSM mapping party: apatrullando la ciudad"
 date: "2007-12-03"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Buff, más de un mes sinpostear... primero por el maremágnumde las [jornadasgvSIG](http://www.jornadasgvsig.gva.es/index.php?id=gvsig&L=0) y después por la _frenada de ritmo_y una temporadita bastante **perra**, paraqué vamos a decir otra cosa... pero bueno, a ver si a partir de ahoravolvemos a un ritmo más o menos normal (un post por semana seríaideal), y si encima mis compañeros de blog se animan esto volvería albuen ritmo que llevamos en abril-mayo (pre megapetada del [geomaticblog1.0](http://geomaticblog.net/sitemap)).

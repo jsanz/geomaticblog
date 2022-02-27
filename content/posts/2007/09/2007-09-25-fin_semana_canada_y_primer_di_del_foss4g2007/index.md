@@ -3,6 +3,7 @@ title: "Fin de semana en Canadá y primer día del FOSS4G2007"
 date: "2007-09-25"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 [![China Town](images/1436355821_478eaa620e_m.jpg)](http://www.flickr.com/photos/xurxosanz/1436355821/ "Fisgard st")Tras un viaje terrible, casi 30 horas, llegamos a nuestro hotel en Victoria. ¿Cansados? bastante. Pero al día siguiente tras dormir algo y reponer fuerzas (pedazo de desayunos que se meten aquí entre pecho y espalda los victorianos) estuvimos de visita por la ciudad de la mano de Martín, nuestra avanzadilla en la expedición canadiense. Nos enseño el barrio chino, que es chino de verdad, no como en Valencia, y comimos cosas muy extrañas en el Don Mee que viene a ser como el Bar Manolo pero en chino, y fino.

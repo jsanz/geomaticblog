@@ -6,6 +6,7 @@ categories:
   - "gvsig"
   - "ogc"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 Durante bastante tiempo hemos tenido a [TileCache](http://tilecache.org) como «el producto» (libre por supuesto) a usar cuando queríamos montar un servidor de teselas que acelerara nuestros clientes web, usando [TMS](http://wiki.osgeo.org/wiki/Tile_Map_Service_Specification) o [WMS-C](http://wiki.osgeo.org/wiki/WMS_Tiling_Client_Recommendation) como protocolos de acceso. Desde hace un tiempo [GeoWebCache](http://geowebcache.org "GeoWebCache") ha ido tomando forma, lo que empezó como una beca para un [Google Summer of Code](http://google-opensource.blogspot.com/2008/05/accelerate-your-maps-with-geowebcache.html) se ha ido convirtiendo en un producto funcional. Pero desde hace tiempo ha llegado un nuevo chico al barrio, se llama **[MapProxy](http://mapproxy.org)** y tiene algunas características bastante interesantes.

@@ -4,6 +4,7 @@ date: "2019-05-17"
 categories: 
   - "events"
 coverImage: "old-valencia.png"
+authors: ["jorge-sanz"]
 ---
 
 Se abre la [inscripción](http://2019.geocamp.es/#inscripci%C3%B3n) a la [**GEOCAMP 2019**](http://geocamp.es/) que se celebrará el próximo **sábado 15 de junio** en el [Museu Comarcal de L’Horta Sud](http://2019.geocamp.es/museu/), Torrent (Valencia).  El aforo está limitado a **60 personas** por lo que recomendamos la inscripción a la actividad lo antes posible.

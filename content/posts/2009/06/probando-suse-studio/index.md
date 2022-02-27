@@ -4,6 +4,7 @@ date: "2009-06-13"
 categories: 
   - "development"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 [![SUSE studio](images/frontpage-splash-dister.png "SUSE studio")](http://susestudio.com)

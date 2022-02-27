@@ -3,6 +3,7 @@ title: "Vuelve el calendario"
 date: "2008-01-05"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Empezamos el año retomando una sección de la [primera versión](http://geomaticblog.net/sitemap)de GB que por aquel entonces [no me gustó](http://geomaticblog.net/node/77)mucho como [quedaba](http://geomaticblog.net/gcalendar).Mantengo desde hace ya bastante tiempo un calendario Google donde voyapuntando todos los eventos relacionados con la Geomática, gestión delterritorio, software libre y en definitva cualquier sarao que meresulta interesante.

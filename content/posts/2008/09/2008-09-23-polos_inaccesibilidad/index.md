@@ -3,6 +3,7 @@ title: "Polos de inaccesibilidad"
 date: "2008-09-23"
 categories: 
   - "gis"
+authors: [ "pedro-juan-ferrer" ]
 ---
 
 El otro día estuvimos en la Muela de Cortes hacíendo una visita de obra, de la que podeís ver [unas fotitos en mi flickr](http://flickr.com/photos/vehrka/sets/72157607214598195/). El caso es que conforme subíamos para allá, Juan Ramón, el compañero de trabajo que nos hacía de Cicerón,comentó que pese a estar a 50 Km escasos de Valencia; llegar hasta allí cuesta casi 2 horas y añadió que pensaba que ese debía ser el lugar más complicado de llegar de la  provincia de Valencia. Bueno, la expresión que usó hablaba de "tomar" y mencionaba una parte de la anatomía humana... Yo le comenté que ese concepto tiene un nombre: polo de inaccesibilidad. Bueno, en realidad el polo de inaccesibilidad no es exactamente que cueste llegar mucho a un sitio, más bien que ese punto está igual de lejos de todas partes. Se suele usar para definir un punto que está a la máxima distancia de la línea de costa. Por lo que a bote pronto nos viene a la cabeza que en el mundo habrán dos polos de inaccesibilidad, el [polo de inaccesibilidad en tierra](http://es.wikipedia.org/wiki/Polo_de_inaccesibilidad_de_Eurasia), o el lugar más alejado del mar,y [el polo de inaccesibilidad en el mar](http://es.wikipedia.org/wiki/Polo_de_inaccesibilidad_del_Pac%C3%ADfico) (conocido como Punto Nemo) o el lugar más alejado de tierra.

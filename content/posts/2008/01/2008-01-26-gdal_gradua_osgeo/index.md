@@ -3,6 +3,7 @@ title: "GDAL se gradúa en OSGeo"
 date: "2008-01-26"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Después de una largo período de incubación, ya [esoficial](http://www.nabble.com/Re%3A-Motion%3A-GDAL-to-Graduate-Incubation-p15096921s18127.html) que el proyecto [GDAL/OGR](http://www.gdal.org/)forma parte de los proyectos graduados de [OSGeo](http://www.osgeo.org). Es una esperadanoticia que confirma (aún más) la validez y calidad de uno de losproyectos de _software_ libre para geomática másutilizados tanto por otros proyectos libres como por proyectosprivativos, gracias a su licencia [X/MIT](http://www.gdal.org/faq.html#license).

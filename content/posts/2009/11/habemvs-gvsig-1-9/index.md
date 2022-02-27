@@ -3,6 +3,7 @@ title: "Habemvs gvSIG 1.9"
 date: "2009-11-12"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG](images/logo-gvsig_150_14.gif "gvSIG")](http://gvsig.org)Por fin, lentamente se va distribuyendo a lo largo de las listas de correo [el siguiente mensaje](http://listserv.gva.es/pipermail/gvsig_usuarios/2009-November/010910.html) de la oficina de comunicación de gvSIG:
