@@ -1,3 +1,4 @@
+/feed*                  /index.xml                       301
 /archive*               /posts                           301
 /about*                 /authors                         301
 
@@ -12,3 +13,4 @@
 /author/tolanss         /authors/roberto-antolin         301
 /author/elpbatista      /authors/jorge-batista           301
 /author/jguix           /authors/juan-guillermo-jordan   301
+
