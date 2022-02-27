@@ -3,6 +3,7 @@ title: "La primera \"piedra\" de la red AFREF"
 date: "2007-08-17"
 categories: 
   - "geodesy"
+authors: [ "roberto-antolin" ]
 ---
 
 Sin duda es algo digno de mención, si no ha sidouna mera estrategia de marketing de cara a la comunidad internacional;pero [Leica](http://www.leica-geosystems.com)está prestando su apoyo al [AFREF](http://geoinfo.uneca.org/afref/)(African Geodetic Reference Frame Project) donando la primeraestación de referencia (en el pack iba incluido el receptor,la antena, el software de procesado y el de control de calidad yanálisis de datos). Esperemos que no se quede en la "primerapiedra" y lleguen a "cortar la cinta" no dentro de mucho.

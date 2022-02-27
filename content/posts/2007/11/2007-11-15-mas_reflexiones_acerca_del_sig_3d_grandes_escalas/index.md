@@ -3,6 +3,7 @@ title: "Más reflexiones acerca del SIG 3D para grandes escalas"
 date: "2007-11-15"
 categories: 
   - "gis"
+authors: [ "vicente-bayarri" ]
 ---
 
 Las limitaciones de los sistemasactuales de SIG 2D y devisualización 2.5D - 3D, pueden llevar a plantearnos lapregunta de cómo usarlas tecnologías SIG para gestionar la informaciónen edificios urbanos y suentorno; sobre todo en el caso en que se quiera actuar de alguna manerasobreel mismo, tal y como sucede en la rehabilitación delpatrimonio en general.

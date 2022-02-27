@@ -4,6 +4,7 @@ date: "2007-11-02"
 categories: 
   - "events"
   - "gis"
+authors: [ "vicente-bayarri" ]
 ---
 
 En el anterior post os hice unos comentarios, acerca de las jornadas [REHABEND](http://grupos.unican.es/GTED/rehabend07.html);pero me gustaría hacer unas profundizaciones al respecto.

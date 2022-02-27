@@ -3,7 +3,7 @@ title: "Otra alternativa para las escalas medias a partir de pares estereoscópi
 date: "2007-09-17"
 categories: 
   - "photogrammetry"
-authors: [ "roberto-antolin" ]
+authors: [ "vicente-bayarri" ]
 ---
 
 El satélite indio [CartoSat-1](http://www.isro.org/Cartosat/Page3.htm)está equipado con un sistema óptico formado pordos cámaras en el rando del visible, las cuales permiten lacreación de pares estereoscópicos de maneradirecta para un área de 29 kilómetros con unaresolución espacial de 2,5 m.

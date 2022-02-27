@@ -4,6 +4,7 @@ date: "2008-11-06"
 categories: 
   - "opinion"
   - "photogrammetry"
+authors: [ "vicente-bayarri" ]
 ---
 
 \[caption id="attachment\_318" align="alignleft" width="240" caption="A vision of flight"\]![A vision of flight](images/book.jpg "A vision of flight")\[/caption\]
