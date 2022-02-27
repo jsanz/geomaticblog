@@ -5,6 +5,7 @@ categories:
   - "cartography"
   - "opinion"
   - "osm"
+authors: [ "vicent-sanjaime" ]
 ---
 
 Hace unos meses conocí el proyecto [OpenStreetMap](http://www.openstreetmap.org/) y desde ese momento he dedicado algunos ratos libres a realizar mi aportación a la generación de cartografía. Creo que casi  todos comenzamos por cartografiar nuestro barrio, municipio o ciudad, principalmente por que es la zona que mejor conocemos. En mi caso, me he dedicado a cartografiar el municipio de [Moncada](http://www.openstreetmap.org/?lat=39.5528&lon=-0.3954&zoom=14&layers=B00FT) (Valencia) y sus alrededores. En estos momentos estoy realizando los últimos retoques a la cartografía de Moncada, por eso me he planteado empezar a cartografiar nuevas regiones.
