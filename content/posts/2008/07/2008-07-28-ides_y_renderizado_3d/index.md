@@ -4,6 +4,7 @@ date: "2008-07-28"
 categories: 
   - "gvsig"
   - "ide"
+authors: ["jorge-sanz"]
 ---
 
 A veces lo que a uno le parece evidente a otros lespuedesuponer un cambio de planteamiento brutal en ciertos tipos detrabajos.Es el típico «hostia, pues si llego a saber que esto era taninteresante para ti ¡¡**te lo cuento antes**!!».El caso es que uno de mismejores amigos es arqueólogo en proceso de reconversión a opositor yespecialista en modelado yanimación 3D, que diréis «qué leches tiene que ver la arqueología conel 3D» pues algo pero no viene a cuento :-)

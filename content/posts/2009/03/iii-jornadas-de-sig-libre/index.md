@@ -5,6 +5,7 @@ categories:
   - "events"
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 [![III Jornadas de SIG Libre](images/3jornadas.png)](http://www.sigte.udg.es/jornadassiglibre/)Bueno, ha pasado ya una semana de las [III Jornadas de SIG Libre](http://www.sigte.udg.es/jornadassiglibre/) de Girona y o posteamos ahora algo o no dejamos pasar el tren. A lo largo del artículo comentaré cómo nos fue por el congreso tanto desde el punto de vista de Prodevelop como de OSGeo-ES y del mío propio. Espero que al menos os sirva para que aquellos que no pudisteis asistir os animéis a bajaros los artículos y presentaciones del programa. Puedes ver más comentarios sobre las jornadas en el blog de [Nacho](http://libresig.blogspot.com/2009/03/comentarios-sobre-las-iii-jornadas-sig.html) y sus compañeros del [CartoLab](http://cartolab.udc.es/). Si sabéis de más gente que comente las jornadas, por favor, dejad un link en los comentarios. 

@@ -3,6 +3,7 @@ title: "Aniversario"
 date: "2008-08-11"
 categories: 
   - "meta"
+authors: ["jorge-sanz"]
 ---
 
 [![IMG_1622](images/2692450454_ee5bf2c7d7.jpg)](http://www.flickr.com/photos/nkwc/2692450454/ "IMG_1622 por n|kwc, en Flickr")

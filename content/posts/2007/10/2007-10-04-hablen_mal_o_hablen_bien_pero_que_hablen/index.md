@@ -4,6 +4,7 @@ date: "2007-10-04"
 categories: 
   - "foss"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Esta frase que mi padre suele decir, me viene a la cabeza al recordar un pequeño incidente ocurrido en el FOSS4G2007.[Paul Ramsey](http://www.refractions.net/about/index.php?file=220-PaulRamsey.data) es uno de los personajes más relevantes del mundo del software libre para geomática. Como fundador de Refractions Research ha contribuido enormemente con los proyectos PostGIS y uDig.

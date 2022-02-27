@@ -5,6 +5,7 @@ categories:
   - "foss"
   - "ide"
   - "ogc"
+authors: ["jorge-sanz"]
 ---
 
 Me permito difundir [el mensaje](http://lists.osgeo.org/pipermail/spanish/2010-March/003111.html) que Adriâ Mercader ha enviado esta mañana a la lista [OSGeo Spanish](http://lists.osgeo.org/mailman/listinfo/spanish) (y supongo algunas más)

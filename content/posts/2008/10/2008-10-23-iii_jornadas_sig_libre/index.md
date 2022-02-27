@@ -4,6 +4,7 @@ date: "2008-10-23"
 categories: 
   - "events"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 ![3as Jornadas de SIG Libre](images/3jornadasgirona.png "3as Jornadas de SIG Libre")Otra nota que me pasan, esto de hacer de recadero 2.0 se está convirtiendo en costumbre... :P. Los del mundillo ya lo sabréis (perdón por el spam), pero como uno nunca sabe quién puede caer por el blog, dejo la nota de Lluis (SIGTE) acerca de las Jornadas de SIG Libre que por tercer año consecutivo se celebrarán en Girona en marzo del año que viene.

@@ -4,6 +4,7 @@ date: "2008-06-06"
 categories: 
   - "education"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Seguimos hoy de citas. Desde la[UJI](http://www.uji.es/) se promueve unmás que interesante [masterentecnologías geoespaciales](http://mastergeotech.info/) encolaboración con laUniversidad de Münster. De hecho en [Prodevelop](http://www.prodevelop.es)recibiremos a uno de los alumnos de la primera promociónpara hacer su trabajo final de master con nosotros en septiembremás o menos.

@@ -7,6 +7,7 @@ categories:
   - "opinion"
   - "osgeo"
   - "osgeo-es"
+authors: ["jorge-sanz"]
 ---
 
 Vía un [twitt de Álvaro Anguix](http://twitter.com/AlvaroAnguix/status/38154145751900160) rescato este artículo de Víctor Olaya en [Consideraciones sobre el SIG libre en España](http://geofocus.rediris.es/2010/Editorial2_2010.pdf) (PDF),  editorial del [número 10](http://geofocus.rediris.es/articulos2010.html) de la revista _Geofocus:_

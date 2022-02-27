@@ -4,6 +4,7 @@ date: "2010-01-10"
 categories: 
   - "cartography"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 Con ese título: _[Mapas OSM-Garmin: trunk is red](http://lists.openstreetmap.org/pipermail/talk-es/2010-January/004320.html)_,  Carlos Dávila ha posteado hace un par de horas en la lista Talk-ES de [OSM](http://osm.org) un correo comentando sus avances en la generación de archivos de navegación para dispositivos Garmin.

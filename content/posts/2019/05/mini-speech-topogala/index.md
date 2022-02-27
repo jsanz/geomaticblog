@@ -5,6 +5,7 @@ categories:
   - "education"
   - "opinion"
 coverImage: "jacek-dylag-533147-unsplash-1.jpg"
+authors: ["jorge-sanz"]
 ---
 
 Ayer sin avisar me hicieron salir a decir unas palabras en la cena anual de la Escuela Técnica Superior de Ingeniería Cartográfica, Geodésica y Topográfica de la Universidad Politécnica de Valencia. Es una cena que organizan con ilusión los alumnos, a la que también acuden algunos profesores y personal no docente, y se invita a externos de la empresa privada. Esta fue mi tercera cena y se pueden ver fotos y burradas en [#TopoGala](https://twitter.com/search?f=tweets&vertical=default&q=%23TopoGala&src=typd).

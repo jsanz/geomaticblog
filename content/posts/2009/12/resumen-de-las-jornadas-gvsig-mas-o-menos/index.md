@@ -4,6 +4,7 @@ date: "2009-12-08"
 categories: 
   - "events"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 Creo que la mejor forma de contar cómo han ido las [jornadas gvSIG](http://jornadas.gvsig.org) es dejando al amable lector que lea las impresiones en vivo de algunos de los asistentes. Sirva de paso este artículo para recomendar seguir usando lo que se ha venido a conocer como el _[backchannel](http://en.wikipedia.org/wiki/Backchannel)_ como medio de comunicación informal y en directo alrededor de un congreso.

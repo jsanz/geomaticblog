@@ -4,6 +4,7 @@ date: "2008-02-26"
 categories: 
   - "gvsig"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Una vez oí a un geodesta decir que el GPS era cosa de informáticos y telecos, que los geodestas y topógrafos, hacíamos fiestas de números. Pues bien, esto es cierto, pero aplica a otras áreas.

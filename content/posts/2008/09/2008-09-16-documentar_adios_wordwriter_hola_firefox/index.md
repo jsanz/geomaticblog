@@ -3,6 +3,7 @@ title: "Documentar, adiós Word/Writer hola Firefox"
 date: "2008-09-16"
 categories: 
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 A lo largo de los últimos años para la redacción de documentación he utilizado infinidad de sistemas. Entiéndase sistema de documentación por algún _software_ que a partir de un fichero de texto convenientemente redactado genere una salida que sea ya **publicable** bien en Internet (como documento HTML en general), bien para imprimir (por ejemplo en PDF).

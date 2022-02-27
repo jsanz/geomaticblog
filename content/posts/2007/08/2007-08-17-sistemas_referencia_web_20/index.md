@@ -4,6 +4,7 @@ date: "2007-08-17"
 categories: 
   - "development"
   - "geodesy"
+authors: ["jorge-sanz"]
 ---
 
 Seguro que trabajando con Sistemas de InformaciónGeográfica, alguna vez has tenido que lidiar con losSistemas de Referencia (SRS) y los Sistemas de Coordenadas (CRS).Además, casi con total seguridad te sonará labase de datos [EPSG](http://www.epsg.org/),creada por el antes llamado European Petroleum Survey Group ahoraconocido como [OGP](http://www.ogp.org.uk/)(Asociación internacional de productores de Petroleo y Gas).

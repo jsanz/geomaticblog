@@ -5,6 +5,7 @@ categories:
   - "geodata"
   - "hardware"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 [Smart Citizen](http://smartcitizen.me) es un proyecto que apareció en [goteo](http://goteo.org/project/smart-citizen-sensores-ciudadanos) hace un año. Goteo es una web de _crowdfunding_ al estilo de Kickstarter. Apareció poco después del [Air Quality Egg](http://airqualityegg.com/), al cual llegué tarde para participar. Así que nada, cuando vi una idea similar me apunté sin pensármelo mucho. ¿Cuál es la idea? Bien es sencillo, imaginad una red **completamente voluntaria** para la medición de variables medioambientales, sobre todo aquellas relacionadas con la contaminación tanto acústica como de cualquier otro tipo. Esa red no estaría controlada por ningún organismo, realmente es una red porque existe una forma común de acceder a todos los datos, pero los miembros ni se conocen, ni tienen por qué tener los mismos objetivos, ni las mismas motivaciones. ¿A que recuerda a otras actividades similares? Efectivamente, se trata al igual que en [OSM](http://osm.org) por ejemplo, de _«mapear»_ el territorio solo que de una forma diferente, un paso más allá de la representación estática de la realidad, hacia un conocimiento **más profundo** de nuestro entorno al entrar en el mundo de los sensores en tiempo real, de la famosa Internet de las Cosas.

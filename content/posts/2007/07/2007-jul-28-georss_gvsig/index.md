@@ -4,6 +4,7 @@ date: "2007-07-28"
 categories: 
   - "development"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 Hace algún tiempo, vi en el blog de [Meneame](http://blog.meneame.net/2007/07/02/geolocalizacion-de-usuarios-y-noticias/)quepublicaban sus noticias añadiendo informaciónsobre la localización de las noticias gracias alestándar [geoRSS](http://georss.org/).Automáticamente (esdeformación profesional) pensé queestaría bien poder presentar en [gvSIG](http://www.gvsig.gva.es) las noticiascomo side una capa más se tratara. De hecho ya lo habíapensado antes para las fotos de [Panoramio](http://www.panoramio.com)(para el quetambién hay un [API](http://www.panoramio.com/api/)que permite estas cosas) pero en sumomento me dio algo de pereza.

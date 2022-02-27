@@ -4,6 +4,7 @@ date: "2007-10-13"
 categories: 
   - "events"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 [![3as jornadas gvSIG](images/3as_jornadas_cas.jpg)](http://www.jornadasgvsig.gva.es/index.php?id=inicio&L=0&K=1)Pues eso, que ya te puedes [inscribir](http://www.jornadasgvsig.gva.es/index.php?id=inscripcion&L=0&K=1) en las próximas [jornadas](http://www.jornadasgvsig.gva.es/index.php?id=inicio&L=0&K=1) del Software Libre para los Sistemas de Información Geográfica de la Generalitat Valenciana: [gvSIG](http://www.gvsig.gva.es/).

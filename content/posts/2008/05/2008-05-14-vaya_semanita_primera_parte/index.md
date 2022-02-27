@@ -3,6 +3,7 @@ title: "Vaya semanita, primera parte"
 date: "2008-05-13"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 La verdad es que la semana pasada fue bastante moviditaparamí. Tres saraos (eventos) en una semana esmásque suficiente, al menos para un servidor. En este posthablaré de las dos primeras y dejaré laúltima por intensa y más jugosa (porqueduró cuatro días) para un siguiente post. Setrata de las dos presentaciones que hice en el [IGSM](http://www.igsm2008.upv.es/) como yacomenté y una presentación más en la [UPV](http://www.upv.es) sobre la empresa parala que trabajo, [Prodevelop](http://www.prodevelop.es).

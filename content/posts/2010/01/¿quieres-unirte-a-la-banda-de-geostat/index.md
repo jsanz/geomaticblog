@@ -6,6 +6,7 @@ categories:
   - "events"
   - "geostatistics"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/geostat.png "cuestionario de geostat2010")](http://geomaticblog.files.wordpress.com/2010/01/geostat.png)Con ese título se cierra el cuestionario de inscripción a [GEOSTAT](http://geostat2010.info/) 2010, el curso de verano de geoestadística que se está planificando para julio de este año en Plasencia. Y uno puede pensar al ver la pregunta (yo lo hice) ¿¡pero estos de qué van!? y la respuesta es sencilla: este curso se viene realizando desde hace tiempo y da la casualidad de que varios de los profesores son músicos (no sabría decir a qué nivel exactamente) y parece que se ha instituido el hacer algún conciertillo durante el curso.

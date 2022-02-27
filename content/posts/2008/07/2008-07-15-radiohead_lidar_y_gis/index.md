@@ -4,6 +4,7 @@ date: "2008-07-15"
 categories: 
   - "gvsig"
   - "photogrammetry"
+authors: ["jorge-sanz"]
 ---
 
 Radiohead es un grupo ya veterano pero que desde luego nodejan de sorprender. El [últimovídeo](http://code.google.com/creative/radiohead/) en lugar de grabarlo con cámarasde vídeo convencionales ha sido grabado con un láser escáner terrestre.Así, cada fotograma es en realidad un escaneo formando una verdaderacapa 4D. Pero lo mejor es que los [materiales](http://code.google.com/p/radiohead/downloads/list)con los que han generadoel vídeo han sido colgados en la página de este peculiar proyecto conlo que tenemos dos partes del vídeo House of Cards en sendos ficheroscomprimidos con un archivo separado por comas (CSV) por cada frame delvídeo.

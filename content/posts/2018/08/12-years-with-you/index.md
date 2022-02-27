@@ -4,6 +4,7 @@ date: "2018-08-07"
 categories: 
   - "meta"
 coverImage: "audrey-fretz-497611-unsplash.jpg"
+authors: ["jorge-sanz"]
 ---
 
 This blog makes today 12 years old. Yes, we haven't posted that much lately, indeed we are still around, busy with our projects, families, and lives. We keep sharing some content in our twitter and LinkedIn social networks and will maintain this place for sure. 12 years is already a lot, but our passion for geospatial content and sharing it is not less than when we started this space.

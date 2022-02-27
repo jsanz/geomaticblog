@@ -4,6 +4,7 @@ date: "2008-02-06"
 categories: 
   - "foss"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Más del panorama bloggeril, esta vez de uno de los más reputados y visitados, [James Fee](http://www.spatiallyadjusted.com/), que en un párrafo deja más que claro por qué le parece más interesante una aproximación desde el Open Source que desde el software privativo (las negritas las pongo yo):

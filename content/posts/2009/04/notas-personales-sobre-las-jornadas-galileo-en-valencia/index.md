@@ -5,6 +5,7 @@ categories:
   - "events"
   - "gis"
   - "gps"
+authors: ["jorge-sanz"]
 ---
 
 ![](images/GSTB_logo_120x120.jpg "Logotipo de Galileo")Bien aquí añadiré algo a lo comentado en [el blog de Txus](http://txus.cartesianos.com/archives/161) (creo que lo escribió Toni porque es quien contesta a los comentarios). En general simplemente añadiré algunas notas personales. En cualquier caso recomiendo la lectura de su artículo. Lo primero es comentar que este evento fue organizado por el Instituto de Aplicaciones de las Tecnologías de la Información y Comunicaciones Avanzadas ([ITACA](http://www.itaca.upv.es/)) de la UPV. Este evento no fue suficientemente publicitado y yo de hecho me enteré porque [Prodevelop](http://www.prodevelop.es) ha colaborado con el evento, que si no... Así que la asistencia fue más bien floja para la sala en la que se llevó a cabo (nada menos que el Museo Príncipe Felipe de la Ciudad de las Ciencias) y probablemente un poco más de publicidad hubiera llevado a más profesionales. Todo esto suponiendo que la finalidad del evento era publicitar [Galileo](http://www.esa.int/esaNA/galileo.html) y [EGNOS](http://www.esa.int/esaNA/egnos.html) a las empresas que trabajan en temas relacionados con la localización, claro.

@@ -5,6 +5,7 @@ categories:
   - "events"
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Lluís Vicens, del [SIGTE](http://www.sigte.udg.es)acaba de [anunciaroficialmente](http://lists.osgeo.org/pipermail/spanish/2008-June/000849.html) queestán publicados los vídeos de las [II Jornadasde SIG Libre](http://www.sigte.udg.es/jornadassiglibre):

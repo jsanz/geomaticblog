@@ -5,6 +5,7 @@ categories:
   - "events"
   - "gis"
   - "gvsig"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG](images/Logo-gvSIG_150_14.gif)](http://www.gvsig.gva.es)Bueno, mañanaempiezan las [4asjornadas internacionales gvSIG](http://www.jornadasgvsig.gva.es/cas/inicio/), una semana muy larga paraalgunos, como [aquelcómic](http://www.terra.es/personal/fcc00004/semana.htm) de [Superlópez](http://es.wikipedia.org/wiki/Superl%C3%B3pez)(puede que algunos del equipo gvSIG requieran superpoderes para acabarcuerdos esta semanita). Y es que este año vienen **muycargadas**, si ya montar un evento de más de 700 personas(hay unos 1000 asistentes previstos, más o menos) es un reto, hacerloademás coincidiendo en el tiempo y el espacio con una [reunióntécnica para miembros de OGC](http://www.opengeospatial.org/event/0812tc) y a la vez el [Eclipse-Day](http://www.moskitt.org/cas/eclipseday/),es una pequeña **proeza organizativa** (mienhorabuena "_de antebrazo_" para todos losorganizadores).

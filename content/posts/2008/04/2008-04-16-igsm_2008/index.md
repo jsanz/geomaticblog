@@ -5,6 +5,7 @@ categories:
   - "events"
   - "gvsig"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 Siguiendo la sana y universitaria costumbre de **nuncaescribir algo para ser usado una sola vez**, dejo poraquí los resúmenes de dos charlas que voy a daren el encuentro internacional de estudiantes de geodesia que serealizará en mayo en valencia ([IGSM2008](http://www.igsm2008.upv.es/invitation.html "http://www.igsm2008.upv.es/invitation.html")).

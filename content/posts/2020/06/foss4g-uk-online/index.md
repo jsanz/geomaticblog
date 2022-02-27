@@ -6,6 +6,7 @@ categories:
   - "foss4g"
   - "opinion"
 coverImage: "foss4guk.png"
+authors: ["jorge-sanz"]
 ---
 
 Yesterday's [FOSS4G UK Online](https://uk.osgeo.org/foss4gukonline2020/) was the first fully virtual geospatial event I ever attended. Over the previous years I've joined remotely some FOSS4G and SoTM events, like last year excellent [Bucharest 2019 FOSS4G](https://2019.foss4g.org/). Having **everyone** joining remotely makes things quite different, since you don't feel like a _second class_ attendant. The [OSGeo UK Local Chapter](https://uk.osgeo.org/) organized this fantastic conference in just a few weeks, gathering speakers around [three different tracks of talks](https://uk.osgeo.org/foss4gukonline2020/programme.html). There was even a fourth track simulating a coffee corner where you could join and have a chat maybe in the frequent breaks in between talks, what a brilliant idea!

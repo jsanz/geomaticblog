@@ -3,6 +3,7 @@ title: "0,2 milímetros"
 date: "2008-09-07"
 categories: 
   - "geodesy"
+authors: ["jorge-sanz"]
 ---
 
 Este blog suele versar sobre temas más o menos actuales relacionados con la geomática y las Ciencias de la Tierra pero este artículo se sale un poco (probablemente no será el último). Hacía ya tiempo que tenía ganas de empezar un libro que un profesor muy querido por [**Geochente**](/gb2/es/user/geochente) nos recomendó hace ya unos cuantos años en un curso de verano en Reinosa: [**La Medida de Todas las Cosas**](http://www.taurus.santillana.es/ld.php?id=442).

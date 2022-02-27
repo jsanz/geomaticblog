@@ -5,6 +5,7 @@ categories:
   - "cartography"
   - "geodata"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 Tras una semana frenética de actividad en OpenStreetMap para ayudar en todo lo posible en la crisis por el [tifón Haiyan/Yolanda](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan), acabar haciendo una [sesión de formación](https://www.facebook.com/events/539089339508895/) y sobre todo construcción de comunidad en Valencia para mí ha sido toda una experiencia.

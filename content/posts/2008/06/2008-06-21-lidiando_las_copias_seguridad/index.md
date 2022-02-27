@@ -3,6 +3,7 @@ title: "Lidiando con las copias de seguridad"
 date: "2008-06-21"
 categories: 
   - "other"
+authors: ["jorge-sanz"]
 ---
 
 Llevaba ya tiempo teniendo problemas con el equipo desobremesa de casa. Al principio pensé que era un problema de mi [Debian](http://www.debian.org/index.es.html)(sacrílego de mí) y pensé en renovar el sistema poniendo una reciénsaluda [Ubuntu8.04](http://www.ubuntu.com/products/WhatIsUbuntu/desktopedition). Para poder hacer ese cambio debía primero hacer un _backup_de todos nuestros datos, películas, música, etc etc y de paso dejar ese_backup_ por si acaso. Así que lo primero fuecomprar un disco duro externo de 750GB (109 euros en el [Saturn](http://www.saturn.es) deMassalfassar, Valencia).

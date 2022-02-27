@@ -3,6 +3,7 @@ title: "Se buscan colaboradores"
 date: "2008-06-05"
 categories: 
   - "meta"
+authors: ["jorge-sanz"]
 ---
 
 Hola, soy el geoadmin, escribo yo porque es un tema generaldel blog. Estos [bloggers](/es/profile/profile_profile/Blogger)son todos unos mantas y en momentos de necesidad aparezco yo,etéreo, huidizo y siempre en la sombra actualizando ymanteniendo este sitio para que siempre que vengáis todofuncione más o menos decentemente.

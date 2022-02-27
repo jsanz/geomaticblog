@@ -3,6 +3,7 @@ title: "FOSS4G2007"
 date: "2007-09-20"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 ![OSGeo](images/OSGeo-logo.png)Escriboun post rápido, ya que en menos de 6 horas debo estar embarcando... loprimero, que ya ha salido el segundo número de [OSGeo Journal](http://www.osgeo.org/journal)en el que desde el [CapítuloEspañol](http://wiki.osgeo.org/index.php/Espa%C3%B1ol) (que recuerdo que se refiere a la lengua española noa España) hemos hecho un pequeño resumen de las actividades realizadas.

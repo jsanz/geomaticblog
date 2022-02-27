@@ -4,6 +4,7 @@ date: "2009-10-26"
 categories: 
   - "gvsig"
   - "osm"
+authors: ["jorge-sanz"]
 ---
 
 [![gvSIG mini](images/gvsig-mini.png "gvSIG mini")](http://gvsigmini.org)Miguel Montesinos, CTO de [Prodevelop](http://prodevelop.es) y mi jefe para más señas ha posteado por diversas listas este mensaje anunciando el lanzamiento de un  pequeño (o no tanto) proyecto para dispositivos móviles:

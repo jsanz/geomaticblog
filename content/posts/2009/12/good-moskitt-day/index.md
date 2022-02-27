@@ -3,6 +3,7 @@ title: "Good MOSkitt day!"
 date: "2009-12-01"
 categories: 
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 [![MOSkitt](images/moskitt.jpg "moskitt")](http://www.moskitt.org)

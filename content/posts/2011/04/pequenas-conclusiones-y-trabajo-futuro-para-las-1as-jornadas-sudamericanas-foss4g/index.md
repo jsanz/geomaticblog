@@ -4,6 +4,7 @@ date: "2011-04-11"
 categories: 
   - "events"
   - "foss"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/logo_v2.2.png)](http://www.foss4gchile.org/blog/primer-foss4g-sudamericano/)Me permito postear por aquí un mensaje de [Mauricio Miranda](http://twitter.com/maurichemiranda) ([XoomCode](http://www.xoomcode.com/), y miembro de [OSGeo-es](http://es.osgeo.org)) sobre cómo han ido las [1as Jornadas Sudamericanas FOSS4G](http://www.foss4gchile.org/blog/primer-foss4g-sudamericano/) que ha enviado esta mañana a la lista [Spanish](http://www.osgeo.org/mailman/listinfo/spanish) (las negritas y enlaces son cosa mía).

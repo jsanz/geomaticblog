@@ -5,6 +5,7 @@ categories:
   - "osm"
   - "postgis"
 coverImage: "fvp.gif"
+authors: ["jorge-sanz"]
 ---
 
 This article describes how to make a quick map using some nice services we have at our hands. Nowadays almost everyone can create a maps using services like [CartoDB](http://cartodb.com/), [Mapbox](http://mapbox.com/), [uMap](http://umap.openstreetmap.fr/en/) or even [Google My Maps](https://mapsengine.google.com/map/). In this case I'll show how I used the incredible flexibility of CartoDB to combine some Postgres/PostGIS SQL with CartoCSS to animate some dots on top of OSM cartography rendered by Mapbox.

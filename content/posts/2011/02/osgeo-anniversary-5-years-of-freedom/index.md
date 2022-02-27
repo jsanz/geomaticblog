@@ -5,6 +5,7 @@ categories:
   - "gvsig"
   - "osgeo"
   - "osgeo-es"
+authors: ["jorge-sanz"]
 ---
 
 These days OSGeo celebrates it’s 5th birthday, so I’ll try to answer some of the [Tyler’s questions](http://www.osgeo.org/tyler/2011/osgeo-5th-birthday-soon) about where I was five years ago and more ore less what I’ve been doing on OSGeo for this time. It’s funny because it’s also my 5th anniversary at [Prodevelop](http://www.prodevelop.es) and working actively on the [gvSIG](http://www.gvsig.org) project so it’s not just a matter of OSGeo in the end.

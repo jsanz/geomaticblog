@@ -3,6 +3,7 @@ title: "Un regalo inesperado"
 date: "2009-01-25"
 categories: 
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Hace ya unos meses, participé de casualidad (navegando por ahí) en un pequeño juego que se había preparado para el GIS Day en el [SIGTE](http://www.sigte.udg.es). Eran una serie de preguntas más o menos serias acerca de SIG, software libre e IDEs. El caso es que al final del jueguecito dejabas tus datos porque se hacía un sorteo. Hete aquí mi sorpresa al recibir más tarde un correo del SIGTE comunicándome que había salido ganador en el sorteo y por tanto me tocaba un lote de productos [UNIGIS](http://www.unigis.es). Bueno, les pedí por favor que me lo mandaran a la oficina porque no podía esperara verles para las [Jornadas](http://www.sigte.udg.es/jornadassiglibre/).

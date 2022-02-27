@@ -3,6 +3,7 @@ title: "3 añitos"
 date: "2009-08-07"
 categories: 
   - "meta"
+authors: ["jorge-sanz"]
 ---
 
 [![](images/2234406328_35333f62eb_m.jpg "pastel")](http://www.flickr.com/photos/donsolo/2234406328/)

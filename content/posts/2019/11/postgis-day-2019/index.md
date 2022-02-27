@@ -5,6 +5,7 @@ categories:
   - "events"
   - "postgis"
 coverImage: "ejwzpeux0ambkg9.jpeg"
+authors: ["jorge-sanz"]
 ---
 
 This year I was happy to attend the [PostGIS Unconference](https://postgisdag.nl/) organized by the good folks from [Geodan](https://www.geodan.nl/) and [Webmapper](https://webmapper.nl/). The idea for the event was to cover the middle ground between typical introductory activities and developer-oriented ones, targeting then mainly PostGIS power users.

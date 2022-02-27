@@ -4,6 +4,7 @@ date: "2008-06-06"
 categories: 
   - "gvsig"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Toma parrafazo que se ha marcado [Juan Antonio Bermejo](http://www.redidecanarias.com) en lalista de SIG ayer (el formateo en lista y negritas son míos):

@@ -4,6 +4,7 @@ date: "2007-07-28"
 categories: 
   - "foss"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Tras años en la versión 4, sale la primera beta de la versión 5 del popular servidor de mapas [UMN Mapserver](http://mapserver.gis.umn.edu "UM Mapserver website"). Este servidor destaca por su velocidad y calidad en la cartografía que genera. Pero nunca es suficiente y parece que hay novedades justo en el aspecto del renderizdo de la información vectorial ya que parece que van a utilizar una nueva biblioteca llamada [AAG](http://www.antigrain.com/ "AntiGrain") (no la conocía).

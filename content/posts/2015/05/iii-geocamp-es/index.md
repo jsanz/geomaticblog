@@ -4,6 +4,7 @@ date: "2015-05-07"
 categories: 
   - "events"
 coverImage: "sevilla.jpg"
+authors: ["jorge-sanz"]
 ---
 
 _A través de [Geoinquietos Sevilla](http://geoinquietos.blogspot.com.es/)_

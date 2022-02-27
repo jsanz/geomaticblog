@@ -4,6 +4,7 @@ date: "2011-01-02"
 categories: 
   - "meta"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 > Es la primera vez que [wordpress.com](http://www.wordpress.com) nos envía esta información de cómo ha ido el año en el blog y creo que vale la pena compartirla, para que se vea qué ritmo de publicación llevamos, cuántas visitas tenemos al blog (sin contar los planets, claro) y de dónde viene la gente que nos visita (especial mención para [La Cartoteca](http://alpoma.net/carto/), por cierto).

@@ -5,6 +5,7 @@ categories:
   - "events"
   - "gis"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 Ayher comenzaron formalmente las ponencias y laboratorios del FOSS4G2007.  La primera parte de la mañana fue para las ponencias plenarias y las charlas relámpago. Esperemos que cuelguen todos los materiales porque algunos ponentes han estado bastante bien. De las charlas plenarias, con diferencia la de Damian Conway ha sido la mejor, con una presentación sobre cómo los _geeks_ deben presentar a sus jefes (los trajeados, segun Damian) la adopción de software libre en sus proyectos.

@@ -3,6 +3,7 @@ title: "Cartography"
 date: "2010-03-11"
 categories: 
   - "cartography"
+authors: ["jorge-sanz"]
 ---
 
 [![Cartography](images/4424522328_a8df60cc42_o.jpg)](http://www.flickr.com/photos/xurxosanz/4424522328/ "Cartography by XuRxO, on Flickr")

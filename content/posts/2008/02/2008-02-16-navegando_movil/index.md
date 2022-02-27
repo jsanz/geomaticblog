@@ -3,6 +3,7 @@ title: "navegando con el móvil"
 date: "2008-02-16"
 categories: 
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 Esta semana he descubierto un par de desarrollos freeware quepermiten utilizar un móvil más o menos modernocomo un navegador simple. Se trata de [TrekBuddy](http://linuxtechs.net/kruch/tb/forum/index.php)y de [Mobile GMaps](http://www.mgmaps.com/).Ambos se conectan por [_Bluetooth_](http://es.wikipedia.org/wiki/Bluetooth)a un receptor GPS y muestran sobre cartografía laposición actual. Funcionan sobre la plataforma Java paradispositivos móviles: [J2ME](http://java.sun.com/javame/index.jsp)en un perfil que casi todos los móviles modernos cumplen. Esdecir, no es necesario tener un _smartphone_ paranavegar con un GPS.

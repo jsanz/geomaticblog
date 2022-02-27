@@ -4,6 +4,7 @@ date: "2010-01-07"
 categories: 
   - "gvsig"
   - "ide"
+authors: ["jorge-sanz"]
 ---
 
 Un apunte rápido, como el vídeo que [Juan Carlos Cortez](http://blog.pucp.edu.pe) ha preparado para demostrar la agilidad con la que es posible configurar un servicio WMS mediante la extensión de publicación de [gvSIG](http://gvsig.org) y un _script_ desarrollado por él para crear clientes en OpenLayers/Mapfish a partir del propio _mapfile_.

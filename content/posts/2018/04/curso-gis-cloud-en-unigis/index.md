@@ -8,6 +8,7 @@ categories:
   - "gis"
   - "webmapping"
 coverImage: "ce-gis-cloud_llarg.png"
+authors: ["jorge-sanz"]
 ---
 
 Por segundo año tutorizo el curso de [GIS Cloud](http://www.unigis.es/cursos-de-especializacion-sig/gis-cloud/) en el máster a distancia [UNIGS](http://www.unigis.es). El curso se ofrece tanto como módulo para los alumnos del [máster profesional en SIG](http://www.unigis.es/master/) como curso de especialización abierto a cualquiera que quiera profundizar en esta temática.

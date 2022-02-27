@@ -3,6 +3,7 @@ title: "Tiempo"
 date: "2010-12-27"
 categories: 
   - "astronomy"
+authors: ["jorge-sanz"]
 ---
 
 ![](images/952v.jpg "Reloj de Sol")

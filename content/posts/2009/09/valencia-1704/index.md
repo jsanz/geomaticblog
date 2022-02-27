@@ -3,6 +3,7 @@ title: "Valencia 1704"
 date: "2009-09-28"
 categories: 
   - "cartography"
+authors: ["jorge-sanz"]
 ---
 
 \[caption id="attachment\_482" align="aligncenter" width="500" caption="Valencia, 1704"\][![Valencia, 1704](images/tosca.jpg "Mapa de Valencia 1704")](http://www.studiolum.com/wang/tosca-mapa-de-valencia-01-a-28.jpg)\[/caption\]

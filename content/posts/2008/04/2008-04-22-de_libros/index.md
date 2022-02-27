@@ -3,6 +3,7 @@ title: "De libros"
 date: "2008-04-22"
 categories: 
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Como mañana es [eldía del libro](http://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Libro) y hace poco fue elcumpleaños de un amigo, hoy me he tirado como horaymedia buscando un buen libro que regalarle (bueno, tambiénme he comprado uno para mí, aprovechando la coyuntura).Además hace poco entre cuatro colegas (el anterior, uno deellos) hemos hecho un mega-pedido a [Amazon](http://www.amazon.com)aprovechando la fortalezadel euro frente al dólar (0.63 dólares por euro,la locura). Nos ha salido bien porque pagar menos de tres (3) euros porlibro por portes es casi demencial (al menos para mis ahorros).

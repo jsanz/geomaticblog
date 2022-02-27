@@ -4,6 +4,7 @@ date: "2010-09-03"
 categories: 
   - "foss4g"
   - "postgis"
+authors: ["jorge-sanz"]
 ---
 
 If you are interested in [WKT Raster](http://trac.osgeo.org/postgis/wiki/WKTRaster) or «raster-in-databases» in general, you should check the recent posts by [Jorge Arévalo](http://twitter.com/jorgeas80) in his [GIS4Free](http://gis4free.wordpress.com) blog site. I specially love this quote (after a long write about how to add your raster into Oracle):

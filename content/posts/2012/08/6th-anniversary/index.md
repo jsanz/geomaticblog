@@ -4,6 +4,7 @@ date: "2012-08-07"
 categories: 
   - "meta"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 [![all-vegan birthday cake!](images/281716777_eda1ca62ab_m.jpg)](http://www.flickr.com/photos/sharynmorrow/281716777/ "all-vegan birthday cake! by massdistraction, on Flickr")

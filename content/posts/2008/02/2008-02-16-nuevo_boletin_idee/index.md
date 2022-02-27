@@ -3,6 +3,7 @@ title: "Nuevo boletín de la IDEE"
 date: "2008-02-16"
 categories: 
   - "ide"
+authors: ["jorge-sanz"]
 ---
 
 Jesús nos avisa que ya está disponibleun [nuevonúmero](http://www.idee.es/CatalogoServicios/sobreIdes/SobreIDEsFebrero2008.pdf) del boletín [SobreIDEs](http://www.idee.es/show.do?to=Sobre_iDEs.ES),en concreto el quinto número correspondiente al mes defrebrero. Este boletín es una pequeñapublicación que recoje eventos, noticias y notas sobreformación relacionadas con el mundo de las infraestructuarasde datos espaciales.

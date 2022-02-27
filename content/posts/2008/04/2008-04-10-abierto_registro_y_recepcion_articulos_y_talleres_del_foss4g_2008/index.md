@@ -5,6 +5,7 @@ categories:
   - "events"
   - "gis"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 Copio el texto íntegro que he traducido para el [portal de OSGeo](http://www.osgeo.org/node/640 "OSGeo") porque creo que puede ser de interés para todos los lectores y así darle aún mayor difusión. Un [evento](http://www.foss4g2008.org) que desde luego va a valer la pena (otra cosa es tener la oportunidad de asistir, claro).

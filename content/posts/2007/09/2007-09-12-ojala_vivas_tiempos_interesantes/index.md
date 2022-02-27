@@ -6,6 +6,7 @@ categories:
   - "gvsig"
   - "opinion"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 Es una frase varias veces repetida en [un](http://www.elkraken.com/Esp/R-hyperion-esp.htm) [par](http://www.elkraken.com/Esp/R-caida%20de%20hyperion-esp.htm)de novelas que he leído este verano (si te gusta la ciencia ficciónte las recomiendo). Pues bien, esta frase me vino anteayer al terminarla primera fase (el prototipo) de un [proyecto](http://www.foss4g2007.org/presentations/view.php/124)que esperemos podamoscontinuar en breve.

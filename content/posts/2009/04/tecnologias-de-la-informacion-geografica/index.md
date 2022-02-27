@@ -4,6 +4,7 @@ date: "2009-04-19"
 categories: 
   - "geodata"
   - "gis"
+authors: ["jorge-sanz"]
 ---
 
 [![Cuadernos TPH](http://geomaticblog.files.wordpress.com/2009/04/cuadernotph.png?w=235 "Cuadernos TPH")](http://www.cuadernos.tpdh.org/index.php)Tras varios meses "_en la cocina_", han salido por fin publicado hace ya unas semanas un [monográfico sobre Sistemas de Información Geográfica](http://www.cuadernos.tpdh.org/index.php) en los Cuadernos Internacionales de Tecnología para el Desarrollo. Este monográfico editado por [Càrol Puig](https://www.etcg.upc.edu/) y [Alberto Varela](http://cartolab.udc.es) recoge artículos entrevistas y reseñas sobre SIG y su aplicación al Desarrollo. La revista es publicada por [Ingenieros Sin Fronteras](http://www.isf.es/home/index.php) y está disponible en la web por lo que no hay excusa si te interesa el tema.

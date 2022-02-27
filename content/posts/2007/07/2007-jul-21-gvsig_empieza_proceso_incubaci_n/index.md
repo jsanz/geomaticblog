@@ -5,6 +5,7 @@ categories:
   - "gis"
   - "gvsig"
   - "osgeo"
+authors: ["jorge-sanz"]
 ---
 
 Ya es casi casi oficial, gvSIG pasa a formar parte delproyectode incubación de OSGeo, con GabrielCarrión como responsable del proyecto y Jeroen como mentordurante el proceso. ¿Qué es pasar aincubación? Pues empezar un proceso de revisióndel proyecto en todos sus aspectos para pasar los controles de calidadque la fundación establece.

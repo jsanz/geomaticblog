@@ -4,6 +4,7 @@ date: "2009-04-07"
 categories: 
   - "education"
   - "opinion"
+authors: ["jorge-sanz"]
 ---
 
 Otra convocatoria de cursos gratuitos a distancia del IGN y **otro año que se lía parda**. Veamos, una administración pública, el Instituto Geográfico Nacional de España, cuyo cometido no es en absoluto (creo) la formación pero sí (aunque no sé si explícitamente) la difusión de las Ciencias de la Tierra, ofrece de forma gratuita cursos on-line sobre Cartografía Temática e Infraestructuras de Datos Espaciales.

@@ -3,6 +3,7 @@ title: "El láser, ese gran desconocido"
 date: "2007-07-21"
 categories: 
   - "photogrammetry"
+authors: ["jorge-sanz"]
 ---
 
 ![Qué será el láser escáner este](images/vehrkapregunta.jpg)Haceun parde semanas, [Vehrka](http://www.geomaticblog.net/gb2/user/vehrka)y un servidor se pasaron un fin de semana portierras cántabras para dar un par de sesiones en un curso deSistemas de Información Geográfica queimpartía [Geochente](http://www.geomaticblog.net/gb2/user/geochente)y su compañera de viajesempresariales, Elena.. De paso, aprovechamos para visitar la sede de laempresa que han formado, [GIM-Geomatics](http://www.gim-geomatics.com/)y nosenseñó el _juguete_ que sehan comprado para trabajar. Un láser escáner (porcierto, no sabía que ambas palabras forman parte ya denuestro diccionario).

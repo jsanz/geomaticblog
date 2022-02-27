@@ -3,6 +3,7 @@ title: "OSGeo-es ya es oficial"
 date: "2008-11-14"
 categories: 
   - "osgeo-es"
+authors: ["jorge-sanz"]
 ---
 
 [![OSGeo](images/osgeo-logo.png "OSGeo")](http://www.osgeo.org)
