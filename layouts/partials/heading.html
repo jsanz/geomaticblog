@@ -4,7 +4,7 @@
   </h2>
   <p>
     {{- if and (eq .Type "posts") (eq .Kind "page" ) -}}
-        by {{ partial "authors-list.html" .}}
+        by {{ partial "author/list.html" .}}
     {{- end -}}
     {{ with .PublishDate | default nil }}
       on

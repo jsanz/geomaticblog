@@ -1,21 +1,30 @@
 {{ define "main" }}
+<article class="posts-list">
 
-{{ partial "heading.html" . }}
-
-{{ .Content }}
-
-{{ range .Pages.GroupByPublishDate "2006" }}
-<h3>{{ .Key }}</h3>
-<ul>
-  {{ range .Pages }}
-    <li>
-      {{ .PublishDate.Format "2006-01-02" }} – <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ if .Params.authors }}
-      ({{ partial "author/initials-list.html" .}})
-      {{ end}}
-    </li>
+  {{ partial "heading.html" . }}
+  
+  {{ .Content }}
+  
+  {{ range .Pages.GroupByPublishDate "2006" }}
+  <section>
+    <h3>{{ .Key }}</h3>
+    <ul>
+      {{ range .Pages }}
+      <li>
+        {{ .PublishDate.Format "2006-01-02" }} | 
+        <span class="author-initials"> 
+          {{ if .Params.authors }}
+          {{ partial "author/initials-list.html" .}}
+          {{ else }}
+          ??
+          {{ end}}
+        </span>
+        | <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
   {{ end }}
-  </ul>
-{{ end }}
-
+  
+</article>
 {{ end }}
