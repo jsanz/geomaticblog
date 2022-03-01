@@ -95,9 +95,9 @@ La idea es que sustituyamos estos archivos, o su contenido, por los archivos que
 
 Si todo ha ido bien y no se ha roto nada, al volver a abrir TileMill y abrir el proyecto se verá un mapa de España tan mono (o tan feo) como el de las imágenes:
 
-[![](http://geomaticblog.files.wordpress.com/2012/06/tilemill_espanya_desaturado_00.png?w=300 "Mapa rápido desaturado de España")](http://geomaticblog.files.wordpress.com/2012/06/tilemill_espanya_desaturado_00.png)
+[![](/imgs/2012/06/tilemill_espanya_desaturado_00.png?w=300 "Mapa rápido desaturado de España")](/imgs/2012/06/tilemill_espanya_desaturado_00.png)
 
-[![](http://geomaticblog.files.wordpress.com/2012/06/tilemill_espanya_desaturado_01.png?w=300 "Mapa desaturado Valencia")](http://geomaticblog.files.wordpress.com/2012/06/tilemill_espanya_desaturado_01.png)
+[![](/imgs/2012/06/tilemill_espanya_desaturado_01.png?w=300 "Mapa desaturado Valencia")](/imgs/2012/06/tilemill_espanya_desaturado_01.png)
 
 Esta es una receta rápida y sucia, y su estética puede ser mejorada, de hecho DEBE ser mejorada, así que estamos abiertos a colaboraciones para dejar el asunto MUCHO más decente.
 

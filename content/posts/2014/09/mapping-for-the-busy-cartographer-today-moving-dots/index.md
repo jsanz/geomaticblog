@@ -173,7 +173,7 @@ And the CartoCSS is quite simple with the only important trick to use an externa
   marker-file: url(https://raw.githubusercontent.com/mapbox/maki/mb-pages/src/town-hall-24.svg);
 ```
 
-![Fixed info window](http://geomaticblog.files.wordpress.com/2014/09/2014-09-20-193927-seleccic3b3n.png?w=300)
+![Fixed info window](/imgs/2014/09/2014-09-20-193927-seleccic3b3n.png?w=300)
 
 On this layer I've also configured an _infowindow_ so when you click on the town hall icon you get some data about the schedule for the event.
 

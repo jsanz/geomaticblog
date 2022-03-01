@@ -32,7 +32,7 @@ See, maps are an infrastructure. In Spanish GIS circles, specially those around 
 
 During the late 2000's I heard a lot of criticism about OSM. But most of it didn't come from data-collecting companies - it came from public servants. "Volunteers use cheap GPS with low accuracy, OSM will never be accurate", they said. "The OSM data model cannot be loaded into ArcGIS and won't be of any use", they said. "OSM data will never be authoritative", they said. And a few years later, this happened:
 
-\[caption id="" align="alignnone" width="658"\][![](images/Cecorvigmar.jpg)](http://www.diariodenautica.com/los-ministros-del-interior-de-espana-y-francia-visitan-el-cecorvigmar/) http://www.diariodenautica.com/los-ministros-del-interior-de-espana-y-francia-visitan-el-cecorvigmar/\[/caption\]
+[![](images/Cecorvigmar.jpg)](http://www.diariodenautica.com/los-ministros-del-interior-de-espana-y-francia-visitan-el-cecorvigmar/) http://www.diariodenautica.com/los-ministros-del-interior-de-espana-y-francia-visitan-el-cecorvigmar/
 
 That, right there, is the [Guardia Civil](https://en.wikipedia.org/wiki/Civil_Guard_%28Spain%29) (who are public servants) in a freakin' control room using OSM for freakin' [pan-european](http://frontex.europa.eu/partners/national-authorities/) [coastal border patrols](https://plus.google.com/photos/114004268054731700078/albums/5963186334631882449). Which means OSM is a freakin' _de facto_ infrastructure for sovereignty.
 

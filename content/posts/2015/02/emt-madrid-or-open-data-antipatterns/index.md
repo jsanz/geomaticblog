@@ -60,7 +60,7 @@ Think about how WMS interfaces work nowadays: you just publish the WMS endpoint,
 
 From the docs:
 
-[![tempuri](https://geomaticblog.files.wordpress.com/2015/02/tempuri.png?w=625)](https://geomaticblog.files.wordpress.com/2015/02/tempuri.png)
+[![tempuri](/imgs/2015/02/tempuri.png?w=625)](/imgs/2015/02/tempuri.png)
 
 Note «tempuri.org». A quick search will tell you that the system was designed using Visual Studio, and some lazy so-called software engineer didn't bother to change the defaults.
 
@@ -70,7 +70,7 @@ Note to non-spaniard readers: The city of Madrid is located roughly at latitude 
 
 Now look at this example from the EMT docs about how bus coordinates are returned:
 
-[![positionbus](images/positionbus.png)](https://geomaticblog.files.wordpress.com/2015/02/positionbus.png)
+[![positionbus](images/positionbus.png)](/imgs/2015/02/positionbus.png)
 
 ### Antipattern 5: Mix up your coordinate systems
 
@@ -78,13 +78,13 @@ Write things like "UTM" and "geodetic" in your documentation, but do not write w
 
 And for extra fun, have your input coordinate fields accept both of those SRSs as strings with comma-defined decimal point, and then do this in the documentation:
 
-[![coordinateint](https://geomaticblog.files.wordpress.com/2015/02/coordinateint.png?w=625)](https://geomaticblog.files.wordpress.com/2015/02/coordinateint.png)
+[![coordinateint](/imgs/2015/02/coordinateint.png?w=625)](/imgs/2015/02/coordinateint.png)
 
 ### Antipattern 6: Self-signed SSL certificates
 
 Srsly?
 
-[![sslcert](images/sslcert.png)](https://geomaticblog.files.wordpress.com/2015/02/sslcert.png)
+[![sslcert](images/sslcert.png)](/imgs/2015/02/sslcert.png)
 
 ### Antipattern 7: Wrap everything up in HTTP + JSON and call it "REST"
 

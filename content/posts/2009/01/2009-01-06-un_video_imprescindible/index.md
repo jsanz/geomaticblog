@@ -10,7 +10,7 @@ Aunque Paul ya ha escrito una [nota rápida](http://blog.cleverelephant.ca/2009/
 
 Magistralmente explicado, y en el 68.
 
-\[caption id="attachment\_303" align="aligncenter" width="480" caption="Data for decision"\]![Data for decision](images/data_for_decision.jpg "data_for_decision")\[/caption\]
+![Data for decision](images/data_for_decision.jpg "data_for_decision")
 
 Dejo los vídeos fuera de portada (y de los RSS) para no molestar, pero pasen y vean...
 

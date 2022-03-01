@@ -16,7 +16,7 @@ Y por aquí os voy a comentar el _stack_ que usamos para la hazaña...
 
 # OSM
 
-Esto es una opinión personal, pero mira, si tienes que hacer un mapa de una ciudad y sus servicios creo que lo mejor es recurrir a los profesionales y en esto la [OSMF](openstreetmap.org) gana, y punto.
+Esto es una opinión personal, pero mira, si tienes que hacer un mapa de una ciudad y sus servicios creo que lo mejor es recurrir a los profesionales y en esto la [OSMF](https://openstreetmap.org) gana, y punto.
 
 No solo por llevar el _crowdsourcing_ al ámbito cartográfico, sino porque han desarrollado herramientas de tratamiento de datos geográficos de manera distribuida que son la envidia de la industria, como [JOSM](http://josm.openstreetmap.de) o [Potlatch 2](http://wiki.openstreetmap.org/wiki/Potlatch_2).
 
@@ -32,7 +32,7 @@ El único problema que nos encontramos fue que la versión de _Rake_ que hay que
 
 La parte de cómo hemos dibujado _Cunia_ posiblemente la cuente [en otro sitio](http://desdeelsotano.com) aquí me referiré someramente a la herramienta _JOSM_ que es el editor en _Java_ y multiplataforma que se utiliza principalmente para crear información en formato _OSM_.
 
-[![Pantallazo de josm con cunia](http://geomaticblog.files.wordpress.com/2011/06/josm.png?w=300 "Pantallazo de josm con cunia")](http://geomaticblog.files.wordpress.com/2011/06/josm.png)
+[![Pantallazo de josm con cunia](/imgs/2011/06/josm.png?w=300 "Pantallazo de josm con cunia")](/imgs/2011/06/josm.png)
 
 Partiendo de una imagen del mapa actual que se colocó de fondo se han digitalizado todas los ejes de calle y actualmente estamos trabajando en poner los nombres y edificios singulares, dejando para más adelante _las florituras_.
 
@@ -157,7 +157,7 @@ Un ejemplo, tomado de uno de los ejemplos que vienen con la aplicación, sería:
 
 Añadimos dos veces la capa de carreteras, una de ellas le asignamos la categoría _.fill_ y la otra la categoría _.line_. En el ejemplo le estamos asignado el color _@motorway_ que debemos tener ya definido y que oscurecemos para hacer el efecto de caja. El efecto caja solo se verá en niveles de zoom iguales o superiores a 10.
 
-[![El nudo de Cunia con la A3](http://geomaticblog.files.wordpress.com/2011/06/cunia_ejemplo.png?w=300 "El nudo de Cunia con la A3")](http://geomaticblog.files.wordpress.com/2011/06/cunia_ejemplo.png)
+[![El nudo de Cunia con la A3](/imgs/2011/06/cunia_ejemplo.png?w=300 "El nudo de Cunia con la A3")](/imgs/2011/06/cunia_ejemplo.png)
 
 ## Exportación
 

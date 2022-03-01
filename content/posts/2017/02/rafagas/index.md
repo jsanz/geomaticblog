@@ -31,6 +31,6 @@ To conclude I want to post here my daily _Ráfagas_ experience:
 - I commit and Push to the GitHub repo so the website is updated along with the feed.
 - I archive Raf's mail from my inbox.
 
-[![Creating a Ráfaga](https://geomaticblog.files.wordpress.com/2017/02/2017-02-14_222416-selection.png?w=625)](https://geomaticblog.files.wordpress.com/2017/02/2017-02-14_222416-selection.png)
+[![Creating a Ráfaga](/imgs/2017/02/2017-02-14_222416-selection.png?w=625)](/imgs/2017/02/2017-02-14_222416-selection.png)
 
 That's it. Raf you are a formidable example of perseverance and I hope you'll have the energy to keep giving us all those contents for many years. **Thanks mate!**

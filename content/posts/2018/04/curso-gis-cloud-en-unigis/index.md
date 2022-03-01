@@ -26,14 +26,14 @@ El temario es básicamente el mismo del año pasado con las inevitables actualiz
 - Luego seguimos con Mapbox, el mejor servicio (tanto entre los productos libres como privativos) para diseñar mapas vistosos y potencialmente complejos. Mapbox Studio es una herramienta que no te la acabas.
 - Acabamos con CARTO Builder, un completo SIG en la nube con el que hacer análisis y publicar cuadros de mando que van más allá de un simple mapa.
 
-\[caption id="attachment\_1180" align="aligncenter" width="1493"\]![cloud5_20](images/cloud5_20.png) Usando CARTO Builder para ver datos del servicio municipal de alquiler bicicletas de Barcelona\[/caption\]
+![cloud5_20](images/cloud5_20.png) Usando CARTO Builder para ver datos del servicio municipal de alquiler bicicletas de Barcelona
 
 En realidad como en cualquier curso de este tipo, lo importante es **aprender a valorar las herramientas**, encontrar sus puntos fuertes y sus puntos débiles así como desarrollar las capacidades para criticar cualquier otro servicio al que los alumnos se enfrenten en el futuro. Como decía un excompañero de trabajo, _es esto mismo lo que nos hace tecnólogos en lugar de simples operadores de un software concreto_.
 
-\[caption id="attachment\_1181" align="alignnone" width="1495"\]![cloud4_8](images/cloud4_8.png) Mapbox Studio es gloria bendita\[/caption\]
+![cloud4_8](images/cloud4_8.png) Mapbox Studio es gloria bendita
 
 Finalmente comentar que **me encanta** el flujo de trabajo que la gente del SIGTE lleva, usando para el control de la documentación repositorios git con tareas y _pull requests_ asociadas y [Sphinx](http://www.sphinx-doc.org) para la edición de la documentación. Se nota que tienen mucha experiencia y **saben lo que hacen**.
 
-\[caption id="attachment\_1179" align="aligncenter" width="1601"\]![2018-04-24_23:11:22-Selection](images/2018-04-24_231122-selection.png) Poder escribir en restructuredText y mantener un control de cambios "sano" no se paga con dinero\[/caption\]
+![2018-04-24_23:11:22-Selection](images/2018-04-24_231122-selection.png) Poder escribir en restructuredText y mantener un control de cambios "sano" no se paga con dinero
 
 Pues nada, eso es todo, que si lo que he contado te parece interesante y te apetece dedicar unas semanas de esta primavera a aprender más sobre los SIG en la nube, nos vemos en el Moodle de UNIGIS 😉.

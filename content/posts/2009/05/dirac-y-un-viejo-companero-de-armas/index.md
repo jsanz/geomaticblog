@@ -8,7 +8,7 @@ categories:
 authors: [ "pedro-juan-ferrer" ]
 ---
 
-\[caption id="" align="alignleft" width="200" caption="Portada del libro: Dirac La belleza matemática"\]![Portada del libro: Dirac La belleza matemática](images/art_SergioDirac.jpg "Portada del primer libro de Sergio Baselga  ")\[/caption\]
+![Portada del libro: Dirac La belleza matemática](images/art_SergioDirac.jpg "Portada del primer libro de Sergio Baselga  ")
 
 Ayer estuve en la feria del libro de Valencia y me encontré una agradable sorpresa.
 

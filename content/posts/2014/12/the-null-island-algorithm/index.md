@@ -46,7 +46,7 @@ In this particular case, there are only points for (∞, ∞) so the data can be
 
 Then just add a tiny bit of CartoDB magic, and publish a map:
 
-[![nullarchipielago](https://geomaticblog.files.wordpress.com/2014/12/nullarchipielago.png?w=285)](https://geomaticblog.files.wordpress.com/2014/12/nullarchipielago.png)
+[![nullarchipielago](/imgs/2014/12/nullarchipielago.png?w=285)](/imgs/2014/12/nullarchipielago.png)
 
 [https://ivansanchez.cartodb.com/viz/1ac4a786-805a-11e4-bc48-0e853d047bba/public\_map](https://ivansanchez.cartodb.com/viz/1ac4a786-805a-11e4-bc48-0e853d047bba/public_map)
 

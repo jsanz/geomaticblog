@@ -13,7 +13,7 @@ vía [SourceForge.net: Blog](http://sourceforge.net/blog/clarifying-sourceforge
 
 > As one of the first companies to promote the adoption and distribution of free and open source software, and one that still puts open source at the center of its corporate ideals, restrictions on the free flow of information rub us the wrong way. However, in addition to participating in the open source community, we also live in the real world, and are governed by the laws of the country in which we are located. Our need to follow those laws supersedes any wishes we might have to make our community as inclusive as possible. The possible penalties for violating these restrictions include fines and imprisonment. Other hosting companies based in the US have similar legal and technical restrictions in place.
 
-[![](images/forbidden.png "forbidden")](http://geomaticblog.files.wordpress.com/2010/01/forbidden.png)
+[![](images/forbidden.png "forbidden")](/imgs/2010/01/forbidden.png)
 
 Esta situación también la sufren los usuarios de Google Code. Fue de hecho la principal razón para que SEXTANTE [se fuera de Google Code a OSOR.eu](http://listserv.gva.es/pipermail/gvsig_usuarios/2008-May/004954.html).
 

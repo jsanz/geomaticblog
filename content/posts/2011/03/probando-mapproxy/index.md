@@ -17,7 +17,7 @@ MapProxy tecnológicamente hablando es un desarrollo escrito en Python, que perm
 
 Esto abre escenarios muy interesantes, por ejemplo usar nuestras _caches_ con clientes pesados como [gvSIG](http://www.gvsig.org) y no sólo tirando de servicios WMS existentes sino también de otros que únicamente fueran servidos mediante TMS. Es decir, por decirlo de forma sencilla, podemos montar un WMS de [OpenStreetMap](http://www.osm.org). Claro que un origen como OSM no se verá muy bien en las zonas intermedias entre resoluciones de la caché porque las etiquetas y elementos lineales se distorsionarán bastante. Pongo un pequeño ejemplo a una escala bastante grande, de cómo se vería OSM en gvSIG.
 
-[![](http://geomaticblog.files.wordpress.com/2011/03/11-03-14-202311-gvsig1-10untitled.png?w=500 "OSM proxied and viewed on gvSIG")](http://geomaticblog.files.wordpress.com/2011/03/11-03-14-202311-gvsig1-10untitled.png)
+[![](/imgs/2011/03/11-03-14-202311-gvsig1-10untitled.png?w=500 "OSM proxied and viewed on gvSIG")](/imgs/2011/03/11-03-14-202311-gvsig1-10untitled.png)
 
 Más usos: cachear OSM u otros orígenes muy frecuentados en nuestra organización (como por ejemplo el PNOA), permitiendo a nuestros técnicos no sólo consumir estos datos desde clientes ligeros de visores corporativos sino también desde clientes pesados claro. Podríamos limitar esas _caches_ tanto en su extensión geográfica, como en su duración temporal así como en su espacio ocupado en disco porque  MapProxy también añade bastante «azúcar» en la parte de la generación y mantenimiento de sus _caches_, pero esto lo dejaré para otro día.
 
@@ -29,6 +29,6 @@ En este [enlace a pastebin](http://pastebin.com/L3whrJDk) dejo una configuració
 
 A continuación dejo un pantallazo de gvSIG mostrando en dos vistas el PNOA en vivo y el cacheado, se puede ver que no hay diferencia apreciable entre ambos. Lo que se ve por cierto es el [Gulliver](http://www.google.es/images?q=gulliver+valencia&um=1&ie=UTF-8&source=univ&sa=X&ei=kG9-Tc-lCoK6hAfuiqnhBg&ved=0CEMQsAQ&biw=1366&bih=679) de [Valencia](http://www.openstreetmap.org/?lat=39.462215&lon=-0.359902&zoom=18&layers=M), un parque _rompepantalones_ muy popular.
 
-[![](images/11-03-14-195512-gvsig1-10untitled.png "Live and proxied PNOA")](http://geomaticblog.files.wordpress.com/2011/03/11-03-14-195512-gvsig1-10untitled.png)
+[![](images/11-03-14-195512-gvsig1-10untitled.png "Live and proxied PNOA")](/imgs/2011/03/11-03-14-195512-gvsig1-10untitled.png)
 
 Como conclusión a este ¿primer? artículo sobre [MapProxy](http://mapproxy.org) simplemente recomendar su evaluación si se tiene que desplegar un servidor de teselas nuevos y el entorno tecnológico es el adecuado. Servir WMS a partir de _caches_ añade una funcionalidad que en determinados escenarios puede ser más que interesante.

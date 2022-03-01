@@ -7,7 +7,7 @@ categories:
 authors: [ "pedro-juan-ferrer" ]
 ---
 
-\[caption id="" align="aligncenter" width="459" caption="La ciencia en España no necesita tijeras"\]![La ciencia en España no necesita tijeras](images/3973473121_e76fde787c_o.jpg "Nooorl, tijeras NO")\[/caption\]
+![La ciencia en España no necesita tijeras](images/3973473121_e76fde787c_o.jpg "Nooorl, tijeras NO")
 
 Desde geomaticblog también queremos unirnos a la campaña iniciada por Javier Pelaez en su blog [La Aldea Irreductible](http://aldea-irreductible.blogspot.com/2009/10/la-ciencia-en-espana-no-necesita_07.html).
 

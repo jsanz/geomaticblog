@@ -23,7 +23,7 @@ Easy peasy, we have a map with many stacked points. From here you can jump to th
 
 So at this point we have something like this map, no aggregation yet, but using transparency we can see where CARTO has many employees. We could also use a composite operation instead of transparency to modify the color of the stacked points.
 
-\[caption id="attachment\_1111" align="aligncenter" width="625"\][![Stacking points using transparency](https://geomaticblog.files.wordpress.com/2017/02/2017-02-19_200222-selection.png?w=625)](https://geomaticblog.files.wordpress.com/2017/02/2017-02-19_200222-selection.png) Stacking points using transparency\[/caption\]
+[![Stacking points using transparency](/imgs/2017/02/2017-02-19_200222-selection.png?w=625)](/imgs/2017/02/2017-02-19_200222-selection.png) Stacking points using transparency
 
 ### Aggregate and count
 
@@ -31,7 +31,7 @@ OK, let's do a GROUP BY the geometry and an aggregation like counting. At least 
 
 \[code language="sql"\] select l.the\_geom\_webmercator, min(e.cartodb\_id) as cartodb\_id, count(1) as counts from locations l inner join employees e on e.location = l.location group by l.the\_geom\_webmercator \[/code\]
 
-\[caption id="attachment\_1116" align="aligncenter" width="625"\][![Grouping by location and counting](https://geomaticblog.files.wordpress.com/2017/02/2017-02-19_201829-selection.png?w=625)](https://geomaticblog.files.wordpress.com/2017/02/2017-02-19_201829-selection.png) Grouping by location and counting\[/caption\]
+[![Grouping by location and counting](/imgs/2017/02/2017-02-19_201829-selection.png?w=625)](/imgs/2017/02/2017-02-19_201829-selection.png) Grouping by location and counting
 
 ### Aggregate one field
 
@@ -45,7 +45,7 @@ And this bit of HTML and Mustache template to create a list of employees we can 
 
 \[code language="html"\] <ul style="margin:1em;list-style-type: disc;max-height:10em;"> {{#names}}<li class="CDB-infowindow-title">{{.}}</li>{{/names}} </ul> {{^names}}loading...{{/names}} \[/code\]
 
-[![List of employees on the infowindow](images/2017-02-19_205838-selection.png)](https://geomaticblog.files.wordpress.com/2017/02/2017-02-19_205838-selection.png)
+[![List of employees on the infowindow](images/2017-02-19_205838-selection.png)](/imgs/2017/02/2017-02-19_205838-selection.png)
 
 We could do this without JSON types, composing all the markup in the SQL statement but that's generating quite a lot of content to move to the frontend and of course making the whole thing way harder to maintain.
 
@@ -61,7 +61,7 @@ With this query now we have a data field with an array of objects with the displ
 
 {{^data}} loading... {{/data}} \[/code\]
 
-[![Adding pictures and names](images/2017-02-19_221957-selection.png)](https://geomaticblog.files.wordpress.com/2017/02/2017-02-19_221957-selection.png)
+[![Adding pictures and names](images/2017-02-19_221957-selection.png)](/imgs/2017/02/2017-02-19_221957-selection.png)
 
 That's it. You can do even more if you retrieve all the data directly from your database and render on the frontend, for example if you use D3 you probably can do fancy symbolizations and interactions.
 

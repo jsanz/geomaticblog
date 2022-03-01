@@ -18,29 +18,29 @@ Ahora bien, los ordenadores que el HOT va a desplegar en África van con windows
 
 Bueno, pues **no hagáis esto**. Al instalar python desde cero, lo más probable es que os encontréis con problemas a la hora de instalar las librerías necesarias, en concreto PIL (Python Imaging Library). La manera sencilla de instalar Python para hacer funcionar MapProxy encima es [OSGeo4W](http://trac.osgeo.org/osgeo4w/). Así que descargamos el instalador, elegimos una instalación avanzada, y nos aseguramos de que al menos los paquetes para python y python-pil se van a instalar:
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-1.png?w=300 "mapproxy-howto-1")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-1.png)
+[![](/imgs/2012/10/mapproxy-howto-1.png?w=300 "mapproxy-howto-1")](/imgs/2012/10/mapproxy-howto-1.png)
 
 El siguiente paso es descargarse [distribute-setup.py](http://pypi.python.org/pypi/distribute#distribute-setup-py) y ejecutarlo dentro de una shell de OSGeo4W _como administrador_:
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-3.png?w=184 "mapproxy-howto-3")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-3.png)
+[![](/imgs/2012/10/mapproxy-howto-3.png?w=184 "mapproxy-howto-3")](/imgs/2012/10/mapproxy-howto-3.png)
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-2.png?w=300 "mapproxy-howto-2")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-2.png)
+[![](/imgs/2012/10/mapproxy-howto-2.png?w=300 "mapproxy-howto-2")](/imgs/2012/10/mapproxy-howto-2.png)
 
 En esa misma consola, ejecutamos un _easy\_install mapproxy_, y justo después un _easy\_install pyproj_:
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-4.png?w=300 "mapproxy-howto-4")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-4.png)
+[![](/imgs/2012/10/mapproxy-howto-4.png?w=300 "mapproxy-howto-4")](/imgs/2012/10/mapproxy-howto-4.png)
 
 En este punto, los ejecutables de MapProxy ya están instalados. Lo podemos comprobar ejecutando _mapproxy-util_:
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-5.png?w=300 "mapproxy-howto-5")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-5.png)
+[![](/imgs/2012/10/mapproxy-howto-5.png?w=300 "mapproxy-howto-5")](/imgs/2012/10/mapproxy-howto-5.png)
 
 Ahora bien, MapProxy es inútil sin un fichero de configuración que le diga qué servicios tiene que cachear. Así que hacemos copia-pega de una [configuración de MapProxy para OpenStreetMap](https://wiki.openstreetmap.org/wiki/Mappproxy_setup), guardamos el fichero resultante como (por ejemplo) _C:\\OSGeo4W\\mapproxy.yaml_, y lanzamos _mapproxy-util_:
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-6.png?w=300 "mapproxy-howto-6")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-6.png)
+[![](/imgs/2012/10/mapproxy-howto-6.png?w=300 "mapproxy-howto-6")](/imgs/2012/10/mapproxy-howto-6.png)
 
 ¡Et voilà! Nuestro MapProxy está funcionando y respondiendo a peticiones desde localhost:8080, cacheando tiles de OSM para convertirlas en un servicio WMS:
 
-[![](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-7.png?w=293 "mapproxy-howto-7")](http://geomaticblog.files.wordpress.com/2012/10/mapproxy-howto-7.png)
+[![](/imgs/2012/10/mapproxy-howto-7.png?w=293 "mapproxy-howto-7")](/imgs/2012/10/mapproxy-howto-7.png)
 
 El resto de opciones se pueden consultar en el manual de MapProxy, pero hay unas cuantas cosas a tener en cuenta:
 

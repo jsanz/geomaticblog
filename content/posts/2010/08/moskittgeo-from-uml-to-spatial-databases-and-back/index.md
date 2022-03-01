@@ -13,7 +13,7 @@ So, what happens when you want to design a GIS data model? Well, one usually had
 
 Until now, because my smart colleagues at [Prodevelop](http://www.prodevelop.es) have developed an extension to the [MOSKitt](http://www.moskitt.org/) software called [MOSKitt Geo](http://www.prodevelop.es/en/products/MOSKitt/MOSKittGeo) that adds the spatial data type to the UML and Entity-Relationship models so you can perform the regular design process on MOSKitt: you do your UML model, then you convert it to the Entity-Relationship model and then you select your target database and MOSKitt creates the DDL scripts automatically.
 
-[![MOSKitt ER designer](images/moskittgeo.jpg "moskittgeo")](http://geomaticblog.files.wordpress.com/2010/08/moskittgeo.jpg)
+[![MOSKitt ER designer](images/moskittgeo.jpg "moskittgeo")](/imgs/2010/08/moskittgeo.jpg)
 
 Even more, you can also do reverse engineering of your spatial database and redesign or improve you data models using excellent MOSKitt graphical tools!
 

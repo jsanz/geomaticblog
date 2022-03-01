@@ -43,19 +43,19 @@ Nos centraremos en instalar las herramientas en la versión de QGIS [2.0.1-Dufou
     ![images/qgis_2-0_menu_toolbox.png](images/qgis_2-0_menu_toolbox.png)
 8. Cambia el _toolbox_ de _Simplified Interface_ a _Advanced Interface_, imágenes de la izquierda y derecha respectivamente:
     
-    ![http://geomaticblog.files.wordpress.com/2013/10/qgis_2-0_simplified.png](images/qgis_2-0_simplified.png)   ![http://geomaticblog.files.wordpress.com/2013/10/qgis_2-0_advanced.png](images/qgis_2-0_advanced.png)
+    ![/imgs/2013/10/qgis_2-0_simplified.png](images/qgis_2-0_simplified.png)   ![/imgs/2013/10/qgis_2-0_advanced.png](images/qgis_2-0_advanced.png)
 9. Abre el submenú _Options and configurations_ de la pestaña _Processing_ como se muestra a continuación:
     
-    ![http://geomaticblog.files.wordpress.com/2013/10/qgis_2-0_opts-config.png](images/qgis_2-0_opts-config.png)
+    ![/imgs/2013/10/qgis_2-0_opts-config.png](images/qgis_2-0_opts-config.png)
 10. Activa la casilla _Activate_ que se encuentra en _Providers -> Tools for LiDAR data_ como se muestra en la siguiente figura, e introduce la ruta de la carpeta donde estén alojadas las LAStools en _LAStools folder_:
     
-    ![http://geomaticblog.files.wordpress.com/2013/10/qgis_2-0_activate.png](images/qgis_2-0_activate.png)
+    ![/imgs/2013/10/qgis_2-0_activate.png](images/qgis_2-0_activate.png)
 11. Ahora deberías ver el conjunto de herramientas _Tools for LiDAR data_ en el _toolbox_ y todas las LAStools como en esta figura:
     
-    ![http://geomaticblog.files.wordpress.com/2013/10/qgis_2-0_lasinfo.png](images/qgis_2-0_lasinfo.png)
+    ![/imgs/2013/10/qgis_2-0_lasinfo.png](images/qgis_2-0_lasinfo.png)
 12. Inicia cualquier comando mediante un doble click y rellena las opciones. En la siguiente figura se muestra la interfaz de **lasinfo**.
     
-    ![http://geomaticblog.files.wordpress.com/2013/10/qgis_2-0_lasinfo_interface.png](images/qgis_2-0_lasinfo_interface.png)
+    ![/imgs/2013/10/qgis_2-0_lasinfo_interface.png](images/qgis_2-0_lasinfo_interface.png)
 
 Tened en cuenta que, al distrubuirse el código de manera libre sólo de unas pocas herramientas, los usuarios de GNU/Linux tendrán menos funcionalidades disponibles. No así los usuarios de Windows, cuyas herramientas se distribuyen como [shareware](http://es.wikipedia.org/wiki/Shareware).
 
