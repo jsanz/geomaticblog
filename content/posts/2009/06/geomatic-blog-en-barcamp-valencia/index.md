@@ -7,7 +7,7 @@ categories:
 authors: ["jorge-sanz"]
 ---
 
-![](http://barcampvalencia.files.wordpress.com/2009/04/logo1.png?w=350)
+![](/imgs/2009/04/barcampvalencia.png)
 
 [barcamp](http://www.barcamp.org/) es algo así como una red internacional de conferencias (o [desconferencias](http://es.wikipedia.org/wiki/Desconferencia) como se autodenominan) de ámbito técnico, orientadas a la interacción siendo más bien una reunión donde todo el mundo está invitado a participar, es decir uno asiste sabiendo que ha de contar algo a los demás.
 
@@ -23,4 +23,3 @@ _Actualización:_
 
 Han pasado unas horas ya tenemos renderizado la ubicación de la conferencia. Como wordpress.com todavía no deja insertar mapas dinámicos, podéis pinchar en la imagen para ir al mapa de la zona. Por cierto que tenemos una [piscina](http://www.openstreetmap.org/browse/way/36965925) cerquita para ir a darse un chapuzón o tomar una cervecita fresquita.
 
-[![Ubicación de la barcamp (sigue el enlace para ir al mapa)](http://dev.openstreetmap.org/~ojw/GetMap/map.php?permalink=http%3A%2F%2Fwww.openstreetmap.org%2F%3Flat%3D39.54237%26lon%3D-0.38554%26zoom%3D17%26layers%3DB000FTF&w=450&h=450&layer=mapnik&format=png "Ubicación de la barcamp")](http://osm.org/go/b_qP0vbu1==?layers=B000FTFT)
