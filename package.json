@@ -8,8 +8,8 @@
   "license": "CC-BY-SA",
   "private": true,
   "scripts": {
-    "hugo:prd": "hugo -e production -v --i18n-warnings --minify --gc --cleanDestinationDir",
-    "hugo:dev": "hugo -e development --config config.yaml,config.dev.yaml -v --i18n-warnings --gc --cleanDestinationDir --buildDrafts --buildFuture",
-    "hugo:srv": "hugo server -e development -p 8080 --config config.yaml,config.dev.yaml -v --i18n-warnings --buildDrafts --buildFuture --disableFastRender"
+    "hugo:prd": "hugo -e production -v --minify --gc --cleanDestinationDir",
+    "hugo:dev": "hugo -e development --config config.yaml,config.dev.yaml -v --gc --cleanDestinationDir --buildDrafts --buildFuture",
+    "hugo:srv": "hugo server -e development -p 8080 --config config.yaml,config.dev.yaml -v --buildDrafts --buildFuture --disableFastRender"
   }
 }
