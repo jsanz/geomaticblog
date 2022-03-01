@@ -16,7 +16,7 @@ Y por aquí os voy a comentar el _stack_ que usamos para la hazaña...
 
 # OSM
 
-Esto es una opinión personal, pero mira, si tienes que hacer un mapa de una ciudad y sus servicios creo que lo mejor es recurrir a los profesionales y en esto la [OSMF](openstreetmap.org) gana, y punto.
+Esto es una opinión personal, pero mira, si tienes que hacer un mapa de una ciudad y sus servicios creo que lo mejor es recurrir a los profesionales y en esto la [OSMF](https://openstreetmap.org) gana, y punto.
 
 No solo por llevar el _crowdsourcing_ al ámbito cartográfico, sino porque han desarrollado herramientas de tratamiento de datos geográficos de manera distribuida que son la envidia de la industria, como [JOSM](http://josm.openstreetmap.de) o [Potlatch 2](http://wiki.openstreetmap.org/wiki/Potlatch_2).
 
