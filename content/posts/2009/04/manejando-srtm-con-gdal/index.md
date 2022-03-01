@@ -11,7 +11,7 @@ La información proviniente de la [Shuttle Radar Topography Mission (SRTM) de la
 
 La idea es pasar de la imágen de la izquierda (figura 1)  a la imagen de la derecha (figura 2) ... bueno no os lo voy a contar como obtener exactamente la imagen de la derecha, pero sí por lo menos como obtener la información base:
 
-<table border="1" cellspacing="2" cellpadding="2"><tbody><tr><td><a href="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_00.jpg"><img class="aligncenter size-medium wp-image-813" title="srtm_gdal_00" src="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_00.jpg?w=248" alt="" width="248" height="300"></a> Figura 1</td><td><a href="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_01.jpg"><img class="aligncenter size-medium wp-image-814" title="srtm_gdal_01" src="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_01.jpg?w=172" alt="" width="172" height="300"></a> Figura 2</td></tr></tbody></table>
+<table border="1" cellspacing="2" cellpadding="2"><tbody><tr><td><a href="/imgs/2009/04/srtm_gdal_00.jpg"><img class="aligncenter size-medium wp-image-813" title="srtm_gdal_00" src="/imgs/2009/04/srtm_gdal_00.jpg?w=248" alt="" width="248" height="300"></a> Figura 1</td><td><a href="/imgs/2009/04/srtm_gdal_01.jpg"><img class="aligncenter size-medium wp-image-814" title="srtm_gdal_01" src="/imgs/2009/04/srtm_gdal_01.jpg?w=172" alt="" width="172" height="300"></a> Figura 2</td></tr></tbody></table>
 
 ## 1.- Obteniendo los datos.
 
@@ -25,7 +25,7 @@ cada uno con sus pros y sus contras, en el caso del FTP de la NASA, tendrás que
 
 En mi caso, usé la capa de Google Earth, aunque probablemente sea más sencillo usar la página del USGS. En la imagen de la izquierda (figura 3) podéis ver el teselado de la capa de Google Earth, si pincháis en el icono del centro de la tesela, en Google Earth obviamente, obtendréis el diálogo de la derecha (figura 4), dónde está el link a la descarga. Yo me bajé las 4 teselas que conforman la Comunidad Valenciana en formato GeoTiff.
 
-<table border="1" cellspacing="2" cellpadding="2"><tbody><tr><td style="text-align:center;"><a href="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_02.jpg"><img class="aligncenter size-medium wp-image-815" title="srtm_gdal_02" src="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_02.jpg?w=300" alt="" width="300" height="207"></a> Figura 3</td></tr><tr><td><a href="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_03.jpg"><img class="aligncenter size-medium wp-image-816" title="srtm_gdal_03" src="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_03.jpg?w=300" alt="" width="300" height="253"></a> Figura 4</td></tr></tbody></table>
+<table border="1" cellspacing="2" cellpadding="2"><tbody><tr><td style="text-align:center;"><a href="/imgs/2009/04/srtm_gdal_02.jpg"><img class="aligncenter size-medium wp-image-815" title="srtm_gdal_02" src="/imgs/2009/04/srtm_gdal_02.jpg?w=300" alt="" width="300" height="207"></a> Figura 3</td></tr><tr><td><a href="/imgs/2009/04/srtm_gdal_03.jpg"><img class="aligncenter size-medium wp-image-816" title="srtm_gdal_03" src="/imgs/2009/04/srtm_gdal_03.jpg?w=300" alt="" width="300" height="253"></a> Figura 4</td></tr></tbody></table>
 
 Una vez descargados los zip que necesitemos los descomprimiremos todos en un directorio.
 
@@ -116,7 +116,7 @@ La opción -ot permite definir el tipo de dato, en este caso 8 bits (1 byte), de
 
 De esta forma habremos obtenido la imágen que nos puede servir para componer la base del mapa.
 
-<table border="1" cellspacing="2" cellpadding="2"><tbody><tr><td><a href="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_04.jpg"><img class="aligncenter size-medium wp-image-817" title="srtm_gdal_04" src="http://geomaticblog.files.wordpress.com/2009/04/srtm_gdal_04.jpg?w=172" alt="" width="172" height="300"></a><div>Figura 5</div></td></tr></tbody></table>
+<table border="1" cellspacing="2" cellpadding="2"><tbody><tr><td><a href="/imgs/2009/04/srtm_gdal_04.jpg"><img class="aligncenter size-medium wp-image-817" title="srtm_gdal_04" src="/imgs/2009/04/srtm_gdal_04.jpg?w=172" alt="" width="172" height="300"></a><div>Figura 5</div></td></tr></tbody></table>
 
 ## 8.- Enlaces de interés.
 

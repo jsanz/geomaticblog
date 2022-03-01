@@ -23,7 +23,7 @@ El _Blog-Health-o-Meter™_ indica: Wow.
 
 ## Números crujientes
 
-[![Imagen destacada](http://geomaticblog.files.wordpress.com/2010/03/wms-inspector.png?w=288)](http://geomaticblog.files.wordpress.com/2010/03/wms-inspector.png)
+[![Imagen destacada](/imgs/2010/03/wms-inspector.png?w=288)](/imgs/2010/03/wms-inspector.png)
 
 Un barco de contenedores puede llevar a unos 4.500 contenedores. Este blog fue visto cerca de **20,000** veces en 2010. Si cada cada visita fuera un contenedor, tu blog llenaría 4 barcos.
 

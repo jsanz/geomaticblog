@@ -20,11 +20,11 @@ As everything with Amazon, configuration from their website can be _difficult_ a
 
 So to make this as short as possible, I coded a Lambda function that is exposed as a url acting as a proxy to [Flickr API](https://www.flickr.com/services/api/). This proxy will take URL arguments (or use some defaults) to retrieve photos information and will output them as a valid GeoJSON file. This allows me to create a [CARTO Synchronized Table](https://carto.com/docs/carto-engine/import-api/sync-tables) that updates every hour for example and retrieves the last pictures sent to a group (up to 500, as a Flickr API limitation). This dataset can then be used to create a [BUILDER dashboard](https://team.carto.com/u/jsanz/builder/708ca592-ba72-482c-b0a5-fb926364a6e8/embed) to present the pictures as nicely as possible.
 
-\[caption id="attachment\_1076" align="alignnone" width="1385"\]![2016-12-25_225604-selection](images/2016-12-25_225604-selection.png) Map for the last 500 pictures of the "[Your Best Shot of 2016](https://www.flickr.com/groups/yourbestshot2016)" group on Flickr\[/caption\]
+![2016-12-25_225604-selection](images/2016-12-25_225604-selection.png) Map for the last 500 pictures of the "[Your Best Shot of 2016](https://www.flickr.com/groups/yourbestshot2016)" group on Flickr
 
 Additionally, on this map I kind of _reverse geocoded_ image locations using a world borders dataset so I was able to add a country widget. Apart from that and a bit of CartoCSS to reproduce Flickr logo, the dashboard is quite simple. If you click on any of the images the pop up highlights the image (I **love** this feature) and you can go and visit the picture page in Flickr.
 
-\[caption id="attachment\_1077" align="aligncenter" width="501"\]![2016-12-25_225653-selection](images/2016-12-25_225653-selection.png) Pop up with the picture\[/caption\]
+![2016-12-25_225653-selection](images/2016-12-25_225653-selection.png) Pop up with the picture
 
 But there are other methods on Flickr that returns photos, you can create a map of [an account public uploads](https://www.flickr.com/services/api/flickr.people.getPublicPhotos.html), or a map of the most [interesting photos](https://www.flickr.com/services/api/flickr.interestingness.getList.html) of the day, by [photoset](https://www.flickr.com/services/api/flickr.photosets.getPhotos.html), etc. etc. All using the same proxy!!
 

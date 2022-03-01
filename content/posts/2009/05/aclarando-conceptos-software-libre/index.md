@@ -56,7 +56,7 @@ En cambio el software privativo es aquel que te priva de las libertades antes me
 
 ### Resumiendo y más lectura
 
-\[caption id="" align="aligncenter" width="450" caption="Categorías de software (fuente FSF)"\][![Categorías de software (fuente FSF)](images/category.es.jpg "Categorías de software (fuente FSF)")](http://www.gnu.org/philosophy/categories.es.html)\[/caption\]
+[![Categorías de software (fuente FSF)](images/category.es.jpg "Categorías de software (fuente FSF)")](http://www.gnu.org/philosophy/categories.es.html)
 
 Puedes leer mucho más sobre estos temas en [wikipedia](http://es.wikipedia.org/wiki/Software_libre) y en la web de la [Free Software Foundation](http://www.gnu.org/philosophy/categories.es.html).
 

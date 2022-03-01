@@ -23,7 +23,7 @@ Organizada por un grupo de Geoinquietos y apoyados por un conjunto de empresas e
 
 La Geocamp 2015, que viene precedida de sus anteriores ediciones, realizadas en La Coruña y Vigo, respectivamente, se celebrará en el **Parque del Alamillo**, parque metropolitano que discurre entre el municipio de Santiponce y la propia ciudad de Sevilla y es de **acceso libre (previo registro) y gratuito**. Además, se ofrecerá a los asistentes coffe break y almuerzo para reponer fuerzas, regalos, etc., así como alguna sorpresa final. Todo esto gracias a los patrocinadores del evento.
 
-[![Patrocinadores III Geocamp.es](https://geomaticblog.files.wordpress.com/2015/05/2015-05-07-134638-seleccic3b3n.png?w=625)](https://geomaticblog.files.wordpress.com/2015/05/2015-05-07-134638-seleccic3b3n.png)
+[![Patrocinadores III Geocamp.es](/imgs/2015/05/2015-05-07-134638-seleccic3b3n.png?w=625)](/imgs/2015/05/2015-05-07-134638-seleccic3b3n.png)
 
 Para estar atentos a todas las novedades sobre la Geocamp 2015 está disponible su portal web ([http://geocamp.es/](http://geocamp.es/)) y el blog de Geoinquietos ([http://geoinquietos.blogspot.com.es/](http://geoinquietos.blogspot.com.es/)), así como sus perfiles de [Twitter](http://twitter.com/geocampes) y [Facebook](https://www.facebook.com/geocampes).
 

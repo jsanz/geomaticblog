@@ -7,7 +7,7 @@ categories:
 authors: ["juan-guillermo-jordan"]
 ---
 
-\[caption id="attachment\_476" align="aligncenter" width="300" caption="Cualquier ayuda para encontrarlos será remunerada"\]![Cualquier ayuda para encontrarlos será remunerada](images/wanted_gps.jpg "Wanted_gps")\[/caption\]
+![Cualquier ayuda para encontrarlos será remunerada](images/wanted_gps.jpg "Wanted_gps")
 
 Si usted ha visto alguno de estos GPS, comuníquenoslo cuanto antes. Su colaboración ciudadana será remunerada.
 

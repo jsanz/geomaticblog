@@ -7,7 +7,7 @@ categories:
 authors: ["jorge-sanz"]
 ---
 
-\[caption id="" align="alignleft" width="240" caption="Cena previa"\][![Cena al estilo #osm #notlm](images/6837427689_6dde1cf76d_m.jpg)](http://www.flickr.com/photos/xurxosanz/6837427689/ "Cena al estilo #osm #notlm by XuRxO, on Flickr")\[/caption\]
+[![Cena al estilo #osm #notlm](images/6837427689_6dde1cf76d_m.jpg)](http://www.flickr.com/photos/xurxosanz/6837427689/ "Cena al estilo #osm #notlm by XuRxO, on Flickr")
 
 _Este post en el geomatic va a ser un poco diferente. Hace unos días tuvo lugar una especie de Mapping Party global y nocturna, la [Noche de los Mapas Vivientes](http://wiki.openstreetmap.org/wiki/ES:Night_of_the_living_maps) en los que entusiastas de OpenStreetMap de todo el mundo decidieron pasar una noche mapeando o experimentando sobre OSM. En Valencia la noche la pasamos Rafa y yo en su casa, ya que pese a intentarlo en un par de grupos de la comunidad no hubo mucho éxito de convocatoria. He pensado que sería buena idea que este post lo escribiéramos entre los dos, a cuatro manos vaya. Sirva también este post para romper una sequía de casi 5 meses en el blog...._
 
@@ -15,7 +15,7 @@ _¡Allá vamos!_
 
 ### Jorge
 
-Hola Rafa, creo que esta crónica hay que empezarla por una pequeña presentación de quién eres tú. Rafa, así en breve es un geoinquieto muy activo en redes sociales ([@raolbaletco](https://twitter.com/#!/raolbaletco)) y apasionado de la cartografía, el open data y las ciudades sostenibles. Rafa es uno de los principales dinamizadores de [Geoinquietos Valencia](http://wiki.osgeo.org/wiki/Category:Geoinquietos_Valencia) y ha sido clave para que este grupo del que ya hablaremos en otra ocasión arranque con fuerza en nuestra ciuadad. Venga vamos a empezar.[![](http://geomaticblog.files.wordpress.com/2012/02/nightofthelivingmap.png?w=289 "Nightofthelivingmap")](http://geomaticblog.files.wordpress.com/2012/02/nightofthelivingmap.png)
+Hola Rafa, creo que esta crónica hay que empezarla por una pequeña presentación de quién eres tú. Rafa, así en breve es un geoinquieto muy activo en redes sociales ([@raolbaletco](https://twitter.com/#!/raolbaletco)) y apasionado de la cartografía, el open data y las ciudades sostenibles. Rafa es uno de los principales dinamizadores de [Geoinquietos Valencia](http://wiki.osgeo.org/wiki/Category:Geoinquietos_Valencia) y ha sido clave para que este grupo del que ya hablaremos en otra ocasión arranque con fuerza en nuestra ciuadad. Venga vamos a empezar.[![](/imgs/2012/02/nightofthelivingmap.png?w=289 "Nightofthelivingmap")](/imgs/2012/02/nightofthelivingmap.png)
 
 **¿cómo te enteraste de esta iniciativa y qué te pareció en un primer momento?**
 
@@ -31,7 +31,7 @@ Detrás de ese logo de [zombie](http://wiki.openstreetmap.org/wiki/File:Nightoft
 
 Pues tenía varias ideas. Por un lado seguir con la edición de una zona que apenas comencé en una sesión anterior en otro [grupo de inquietos](http://groups.drupal.org/comunidad-valenciana). La reunión se llevó a cabo en [una zona](http://www.openstreetmap.org/?lat=39.58872&lon=-0.52077&zoom=15&layers=M) casi sin cubrir en OSM así que en un hueco de aquel día le dediqué unos minutos. De eso hacía algo más de un mes y me apetecía darle un poco más de cariño a esa zona y así lo hice ([changeset](http://www.openstreetmap.org/browse/changeset/10618727)). Por otro lado me apetecía probar los _scripts_ de conversión de Catastro a OSM aunque al final me emocioné con la edición pura y dura sobre ortofoto y no hice esas pruebas sino que me dediqué a dibujar [las calles de Benifaió](http://www.openstreetmap.org/?lat=39.28522&lon=-0.42625&zoom=16&layers=M) ([changeset](http://www.openstreetmap.org/browse/changeset/10619654)), un pueblo cercano a Valencia que no existía en OSM todavía.
 
-\[caption id="" align="aligncenter" width="500" caption="Antes y después de la zona mapeada en Pobla de Vallbona"\][![NOTLM from Valencia team](images/6840055187_1544aa0761.jpg)](http://www.flickr.com/photos/xurxosanz/6840055187/ "NOTLM from Valencia team by XuRxO, on Flickr")\[/caption\]
+[![NOTLM from Valencia team](images/6840055187_1544aa0761.jpg)](http://www.flickr.com/photos/xurxosanz/6840055187/ "NOTLM from Valencia team by XuRxO, on Flickr")
 
 **¿Y tú, qué tal fue tu noche, a qué dedicaste las horas?**
 
@@ -69,4 +69,4 @@ Desde luego ha sido una buena oportunidad para difundir el proyecto en general y
 
 Es la noche del 7 al 8 de febrero? ¡Apuntada queda! ¡¡Hasta la próxima!!
 
-\[caption id="" align="aligncenter" width="500" caption="Equipos de trabajo para una noche de mapeo"\][![Acabando la noche de los mapas vivientes](images/6839173509_3ea3d9c56f.jpg)](http://www.flickr.com/photos/xurxosanz/6839173509/ "Acabando la noche de los mapas vivientes by XuRxO, on Flickr")\[/caption\]
+[![Acabando la noche de los mapas vivientes](images/6839173509_3ea3d9c56f.jpg)](http://www.flickr.com/photos/xurxosanz/6839173509/ "Acabando la noche de los mapas vivientes by XuRxO, on Flickr")

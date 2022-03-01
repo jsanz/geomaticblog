@@ -13,7 +13,7 @@ Me mandan a campo con un GPS peeeero a la vueltaquieren unos datos en ED50UTM30N
 
 Muy bien, puesto que [gvSIG te permite hacer la conversión usando la _rejilla_en formato NTv2 del IGN](http://www.gvsig.org/web/docusr/userguide-gvsig-1-1/extension-jcrs-gestion-de-sistemas-de-referencia-de-coordenadas/transformaciones-1/transformacion-por-fichero-rejilla/) a priori no hay problema y la cosa queda muy bien, en la imágen podéis ver los datos en azul que son los datos WGS84 (EPSG:4326) reproyectados usando la rejilla y los datos en rojo que son los mismos datos pero en EPSG:23030, coincidencia total, color morado, que es el de la ingeniería.
 
-[![](http://geomaticblog.files.wordpress.com/2009/01/artogr_p001.png?w=300 "Morado, el color de la ingeniería")](http://geomaticblog.files.wordpress.com/2009/01/artogr_p001.png)
+[![](/imgs/2009/01/artogr_p001.png?w=300 "Morado, el color de la ingeniería")](/imgs/2009/01/artogr_p001.png)
 
 Pero a mi me asaltó una duda, ¿y si no tengo gvSIG? ¿con qué lo hago?. Pues como gvSIG usa [proj.4](http://trac.osgeo.org/proj/) para esos menesteres y [GDAL](http://www.gdal.org/)también, y como [ya nos explico Eloi](http://geomaticblog.net/gb2/en/2008-03-28-convers%C3%A3o_formatos_vectoriais) se puede usar GDAL en línea de comandos con OGR, me he decidido a realizar la misma transformación a mano y usando ogr2ogr.
 
@@ -25,7 +25,7 @@ Explico por partes: "\-t\_srs" indica que se deben reproyectar los datos de sali
 
 Voy todo ilusionado, le doy al enter y...
 
-[![](http://geomaticblog.files.wordpress.com/2009/01/artogr_p002.png?w=300 "El viñedo yendose a por uvas")](http://geomaticblog.files.wordpress.com/2009/01/artogr_p002.png)
+[![](/imgs/2009/01/artogr_p002.png?w=300 "El viñedo yendose a por uvas")](/imgs/2009/01/artogr_p002.png)
 
 Para el que no tenga ganas de sacar proporciones de las imágenes, se trata de un desplazamiento de unos 170m en dirección SW.¿Que diablos ha pasado?
 
@@ -41,7 +41,7 @@ Así pues, ni corto ni perezoso incluí el dichoso parámetro en la instrucción
 
 Y de esta manera obtuve la imagen que deseaba:
 
-[![](http://geomaticblog.files.wordpress.com/2009/01/artogr_p003.png?w=300 "Todo en su sito")](http://geomaticblog.files.wordpress.com/2009/01/artogr_p003.png)
+[![](/imgs/2009/01/artogr_p003.png?w=300 "Todo en su sito")](/imgs/2009/01/artogr_p003.png)
 
 Que ustedes lo reproyecten bien.
 

@@ -22,7 +22,7 @@ La web todavía está en desarrollo, bueno **TODO** está aún en desarrollo, in
 
 La red [Smart Citizen](http://smartcitizen.me) está sobre todo (de momento) enfocada en Barcelona, de hecho la mía es la única placa hasta la fecha activada en la provincia de Valencia.
 
-[![Smart CItizen en Barcelona](http://geomaticblog.files.wordpress.com/2013/06/2013-06-16-192707-seleccic3b3n.png?w=300)](http://test.smartcitizen.me/)
+[![Smart CItizen en Barcelona](/imgs/2013/06/2013-06-16-192707-seleccic3b3n.png?w=300)](http://test.smartcitizen.me/)
 
 Por otro lado todavía hay mucho que hacer en cuanto a la presentación de los datos que se van subiendo a su plataforma. Además de [la web del sensor](http://test.smartcitizen.me/devices/view/139) hay algún [punto de acceso](http://data.smartcitizen.me/testjson?device=139) para descargar en formato JSON todos los registros y también [una web](http://data.smartcitizen.me/test?device=139) para ver datos más antiguos que los escasos 20 minutos que se pueden ver desde la web oficial.
 

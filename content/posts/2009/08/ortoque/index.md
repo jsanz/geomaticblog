@@ -23,11 +23,11 @@ Según lo más parecido al estándar que se puede consultar -varias páginas web
 - Altura ortométrica: 72.9m
 - Separación del geoide: 47.2m
 
-\[caption id="" align="aligncenter" width="350" caption="1. Océano - 2. Elipsoide - 3. Desviación local 4. Continente 5. Geoide"\][![1. Océano - 2. Elipsoide - 3. Desviación local 4. Continente 5. Geoide](images/350px-Geoida.svg.png "del geoide")](http://en.wikipedia.org/wiki/Geoid)\[/caption\]
+[![1. Océano - 2. Elipsoide - 3. Desviación local 4. Continente 5. Geoide](images/350px-Geoida.svg.png "del geoide")](http://en.wikipedia.org/wiki/Geoid)
 
 Para no marear demasiado, aclarar que **la altura ortométrica es la altura sobre el nivel medio del mar**, lo que un usuario esperaría que se parezca a 0m cuando se encuentra en la playa, y **la separación del geoide es la diferencia positiva entre el geoide  y el elipsoide**. **El [geoide](http://es.wikipedia.org/wiki/Geoide "Geoide en wikipedia") viene a ser justamente el nivel medio del nivel del mar**, un modelo de la Tierra gravitacional y mesurable mediante equipos, pero muy difícil de expresar en términos matemáticos (parecido a una fea patata) mientras que **el elipsoide es un modelo matemático de la superficie de la Tierra** (un bonito huevo), expresable en forma matemática con sólo unos pocos parámetros.
 
-\[caption id="" align="aligncenter" width="490" caption="El geoide es como una patata"\][![El geoide es como una patata](images/Geoids_sm.jpg "Ondulación del geoide")](http://en.wikipedia.org/wiki/Geoid)\[/caption\]
+[![El geoide es como una patata](images/Geoids_sm.jpg "Ondulación del geoide")](http://en.wikipedia.org/wiki/Geoid)
 
 El elipsoide es el modelo que usan los GPS para calcular la altura elipsoidal, si bien muchos GPS hoy en día tienen un modelo del geoide que usan para calcular la altura sobre el nivel del mar, que es la que le suele interesar al usuario. Por tanto lo que la norma NMEA propone es _"dele usted al usuario la altura sobre el nivel del mar"_ y, para el caso de que el usuario sea un usuario avanzado _"dele la separación del geoide"_ también. Así, si tenemos un modelo del geoide más preciso podemos hacer los cálculos de nuevo.
 
@@ -58,4 +58,4 @@ Así, nuestro sufrido informático siempre podrá excusarse en que **el usuario 
 
 A pesar de todo, siempre existirá el caso de GPS que sólo dan la altura elipsoidal, con lo cual no puedes dar al usuario de a pie la altura sobre el nivel del mar. Aquí la solución sería informar del tipo de altura que está recibiendo, y quizás recomendar que se compre otro GPS.
 
-\[caption id="" align="aligncenter" width="334" caption="Este no leyó la documentación (fuente babasteve)"\][![Este no leyó la documentación (fuente babasteve)](images/3136370471_667ec0bc68.jpg "Este no leyó la documentación")](http://www.flickr.com/photos/babasteve/3136370471/)\[/caption\]
+[![Este no leyó la documentación (fuente babasteve)](images/3136370471_667ec0bc68.jpg "Este no leyó la documentación")](http://www.flickr.com/photos/babasteve/3136370471/)

@@ -15,4 +15,4 @@ Ahí va el enlace con información sobre OSM y los mapas: [Mapas gratuitos de O
 
 Quería poner alguna imagen con los datos pero como no le voy a hacer una foto a la pantalla del GPS, mejor pego una de las capturas de pantalla que ha hecho Carlos;
 
-[![](images/ruta_zaragoza.png "ruta_zaragoza")](http://geomaticblog.files.wordpress.com/2010/01/ruta_zaragoza.png)
+[![](images/ruta_zaragoza.png "ruta_zaragoza")](/imgs/2010/01/ruta_zaragoza.png)

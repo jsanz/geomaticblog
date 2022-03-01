@@ -14,7 +14,7 @@ Desde el equipo de redactores del geomaticblog.net queremos desear a todos nuest
 
 Pues cómo os íbamos a  felicitar sin un mapa...
 
-\[caption id="attachment\_545" align="aligncenter" width="300" caption="La Navidad en Chile"\][![Navidad en Chile](http://geomaticblog.files.wordpress.com/2009/12/pantallazo-cloudmade-maps-chromium.png?w=300 "Pantallazo-CloudMade Maps")](http://geomaticblog.files.wordpress.com/2009/12/pantallazo-cloudmade-maps-chromium.png)\[/caption\]
+[![Navidad en Chile](/imgs/2009/12/pantallazo-cloudmade-maps-chromium.png?w=300 "Pantallazo-CloudMade Maps")](/imgs/2009/12/pantallazo-cloudmade-maps-chromium.png)
 
 En Chile hay una pequeña zona (una comuna) en la provincia de Cardenal Caro que se llama [Navidad](http://es.wikipedia.org/wiki/Navidad_(Chile)) concrétamente en 33º 57' 17'' S, 71º 49' 48'' W.
 

@@ -25,6 +25,6 @@ El viernes por la tarde asistí al taller de Android que impartió [Javier Muño
 
 Por último, el sábado por la tarde di mi charla de [Introduccíon a OSM](http://jorgesanz.net/slides-201204-osm-iparty13/), con una buena asistencia (unas 15 personas) pudimos ver juntos qué es el proyecto, cómo se contribuye, cuál es el flujo de generación de la cartografía así como una breve introducción a [JOSM](http://josm.openstreetmap.de/). La gente estuvo muy participativa y creo que se hicieron una buena idea de qué es OSM, espero que hayamos ganado algún nuevo colaborador!!
 
-[![Portada charla OSM iParty](http://geomaticblog.files.wordpress.com/2012/04/osm-iparty.png?w=500 "osm-iparty")](http://geomaticblog.files.wordpress.com/2012/04/osm-iparty.png)
+[![Portada charla OSM iParty](/imgs/2012/04/osm-iparty.png?w=500 "osm-iparty")](/imgs/2012/04/osm-iparty.png)
 
 En fin poco más, agradecer a la organización y en especial a [Luís](https://twitter.com/#!/ldotlopez) por permitirme pasar unos días con gente tan entusiasta del conocimiento y del software libre, con ganas de aprender de cualquier cosa pero también de divertirse, yo al menos me lo he pasado de fábula con ellos y espero poder **repetir** otro año de una u otra forma.
