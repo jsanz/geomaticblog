@@ -1,5 +1,9 @@
 /* Custom styles */
 
+article {
+    color: rgb(65, 65, 65);
+}
+
 .old-posts {
     padding: 20px 10px;
     background-color: rgb(226, 226, 226);
@@ -74,4 +78,34 @@
 
 .posts-list a {
     text-decoration: none;
+}
+
+.next-post, .previous-post {
+    max-width: 50%;
+}
+
+.next-post {
+    float: right;
+}
+
+
+.previous-post {
+    float: left;
+}
+
+
+.u-clickable, article a {
+    font-weight: inherit;
+    text-decoration: none;
+    color: #4682b4;
+}
+
+.Banner-link, .Tags-link{
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.Banner-item--title a{
+    font-size: 1.7rem;
 }

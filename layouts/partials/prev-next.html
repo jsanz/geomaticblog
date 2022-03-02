@@ -1,0 +1,13 @@
+<div>
+    <div class="previous-post">
+        {{ if .PrevPage }}
+        <a class="u-clickable" href="{{ .PrevPage.Permalink }}?ref=footer">« {{ .PrevPage.Title | truncate 30 "..."}}</a>
+        {{ end }}
+    </div>
+
+    <div class="next-post">
+        {{ if .NextPage }}
+        <a class="u-clickable" href="{{ .NextPage.Permalink }}?ref=footer">{{ .NextPage.Title | truncate 30 "..." }} »</a>
+        {{ end }}
+    </div>
+</div>
