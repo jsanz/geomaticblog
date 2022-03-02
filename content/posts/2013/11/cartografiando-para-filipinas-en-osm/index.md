@@ -14,7 +14,7 @@ Por un lado la [increíble respuesta](http://resultmaps.neis-one.org/osm-typhoon
 
 De hecho se nos desbordó un poco el asunto y tuvimos que prometer que repetiremos la actividad la semana que viene en la universidad con ellos para que no vinieran todos hoy. Y menos mal porque hemos casi llenado las instalaciones que tan amablemente nos han cedido la gente de [beCode](http://becodemyfriend.com/). Creo que vamos a seguir contando con ellos para hacer cosas juntos, ya que casi sin conocernos nos han abierto sus puertas y nos ofrecido de forma desinteresada su local para que hagamos allí lo que se nos ocurra. ¿Mola no?
 
-https://twitter.com/beCodeMyFriend/status/401377619549372416
+{{< twitter user="beCodeMyFriend" id="401377619549372416" >}}
 
 Al final hemos sido algo más de veinte personas, prácticamente todas noveles en OSM. Tras una [charla ultra rápida](http://slid.es/jorgesanz/yolandaph-hotosm) sobre qué es OSM y qué íbamos a hacer hoy, la gente se ha puesto primero a pillarle en tranquillo a [JOSM](http://slid.es/jorgesanz/yolandaph-hotosm), y después ya a trabajar. Y la tarea no era para nada sencilla, ya que había que comparar datos anteriores al tifón (la imagen proporcionada por [Bing](http://binged.it/1jaiIf9)) con la imagen del satélite Pleiades que Esri ha [servido](http://bit.ly/1adric3) para que la comunidad pueda identificar los daños del tifón. Imágenes desplazadas, usuarios que no habían sido muy cuidadosos con la creación de cartografía y algunas nubes más o menos densas han sido los mayores problemas que ha tenido la gente para poder dar de alta nuevos edificios y carreteras y marcar aquellos que han quedado destruidos por el paso de Haiyan.
 

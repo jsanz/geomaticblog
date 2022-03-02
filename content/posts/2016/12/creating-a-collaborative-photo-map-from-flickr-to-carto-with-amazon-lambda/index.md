@@ -24,7 +24,7 @@ So to make this as short as possible, I coded a Lambda function that is exposed 
 
 Additionally, on this map I kind of _reverse geocoded_ image locations using a world borders dataset so I was able to add a country widget. Apart from that and a bit of CartoCSS to reproduce Flickr logo, the dashboard is quite simple. If you click on any of the images the pop up highlights the image (I **love** this feature) and you can go and visit the picture page in Flickr.
 
-![2016-12-25_225653-selection](images/2016-12-25_225653-selection.png) Pop up with the picture
+{{< figure src="images/2016-12-25_225653-selection.png" link="images/2016-12-25_225653-selection.png" caption="Pop up with the picture" class="centered" >}}
 
 But there are other methods on Flickr that returns photos, you can create a map of [an account public uploads](https://www.flickr.com/services/api/flickr.people.getPublicPhotos.html), or a map of the most [interesting photos](https://www.flickr.com/services/api/flickr.interestingness.getList.html) of the day, by [photoset](https://www.flickr.com/services/api/flickr.photosets.getPhotos.html), etc. etc. All using the same proxy!!
 

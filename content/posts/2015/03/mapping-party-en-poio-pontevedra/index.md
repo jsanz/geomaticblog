@@ -8,7 +8,11 @@ authors: [ "micho-garcia" ]
 
 El sábado 11 de abril en el Centro Xaime Illa de Raxó (Poio) llega la fiesta de las fiestas, la Mapping Party Poio’15 con el objetivo de pasarlo bien mientras aumentamos los datos geográficos de la costa de Poio con una licencia libre.
 
-[http://www.openstreetmap.org/export/embed.html?bbox=-8.757382929325104%2C42.403051783861024%2C-8.752903640270233%2C42.40485013856018&layer=mapnik&marker=42.4039509676542%2C-8.755143284797668](http://www.openstreetmap.org/export/embed.html?bbox=-8.757382929325104%2C42.403051783861024%2C-8.752903640270233%2C42.40485013856018&layer=mapnik&marker=42.4039509676542%2C-8.755143284797668)
+{{< osm 
+  bbox="-8.7574,42.4030,-8.7529,42.4048"
+  layer="mapnik"
+  marker="42.4039,-8.7551"
+  hight="400px" >}}
 
 Este taller está organizado por la asociación de software libre Xeopesca y cuenta con la colaboración del Concello de Poio y las asociaciones SCD Raxó y ACDeM Armadiña.
 

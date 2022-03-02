@@ -1,0 +1,17 @@
+{{- $url := "https://www.openstreetmap.org/export/embed.html" -}}
+{{- $params := slice "bbox" (.Get "bbox" ) }}
+{{- if .Get "layer" }}
+	{{- $params = $params |  append "layer" (.Get "layer" ) }}
+{{- end }}
+{{- if .Get "marker" }}
+	{{- $params = $params |  append "marker" (.Get "marker" ) }}
+{{- end }}
+{{ $width := default "100%" (.Get "width") }}
+{{ $height := default "400px" (.Get "height") }}
+{{ $class := default "borderless" (.Get "class") }}
+
+<iframe 
+	src="{{ $url }}?{{ (querify $params) | safeURL }}"
+	width="{{$width}}"
+	height="{{$height}}"
+	class="{{$class}}"></iframe>

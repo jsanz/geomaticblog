@@ -16,8 +16,6 @@ El sector de la geomática y la ingeniería civil no está en su mejor momento; 
 
 Así que con ese contexto, estas serían las frases que les hubiera dicho a esos 100 o 120 estudiantes de grado y máster si me volvieran a dar la oportunidad.
 
-* * *
-
 > Hola muchas gracias por invitarme a la cena del Patrón, me lo he pasado muy bien con vosotros, estoy seguro de que vosotros también. ¿Es así verdad?
 > 
 > \[ovación\]
@@ -32,6 +30,5 @@ Así que con ese contexto, estas serían las frases que les hubiera dicho a esos
 > 
 > \[silencio incómodo\]
 
-* * *
 
 Supongo que se me puede criticar de escribir desde el "[survival bias](https://en.wikipedia.org/wiki/Survivorship_bias)", y que no es tan fácil rechazar un empleador que está dando trabajo a tus egresados aunque su sector no tenga nada que ver con el tuyo, que está todo muy mal y todo eso, pero bueno no podía dejar pasar la ocasión de contarlo por aquí.

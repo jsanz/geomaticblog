@@ -38,7 +38,7 @@ After uploading the [dataset](https://xurxosanz.cartodb.com/tables/paseo/public/
 
 Load the layer `paseo` and customise the SQL. The SQL is quite self-explanatory, first we filter the points over the line and then we use the `ST_MakeLine` aggregated function to rebuild our original line.
 
-```
+{{< highlight sql>}}
 WITH route AS (
   SELECT *
   FROM paseo
@@ -49,11 +49,13 @@ SELECT
   ST_MakeLine(the_geom_webmercator) as the_geom_webmercator
 FROM route
 GROUP BY lap
-```
+{{< /highlight >}}
+
 
 The styling of this layer is a simple CartoCSS rule with the only trick of a heavy blur filter.
 
-```
+
+{{< highlight css>}}
 #paseo[cartodb_id=1]{
     line-color: #A53ED5;
     line-width: 8;
@@ -61,13 +63,14 @@ The styling of this layer is a simple CartoCSS rule with the only trick of a hea
     line-comp-op: lighten;
     image-filters: agg-stack-blur(10,10);
 }
-```
+{{< /highlight >}}
 
 ### Moving dots
 
 This is the most important part of the map, of course. I have a path of points ordered and what I want is to show a more or less crowded ring of people moving. To do it, I've created a UNION of ten SELECTs to the table offsetting the id over the full range of id's. To acieve that I've used this long SQL:
 
-```
+
+{{< highlight sql>}}
 WITH route AS (
     SELECT * FROM paseo WHERE lap>0 AND route = 1
 ),
@@ -116,14 +119,15 @@ laps AS (
 SELECT
     cartodb_id, the_geom_webmercator,
     ((random()*10-10) + id) id
-FROM laps
-```
+FROM laps;
+{{< /highlight >}}
 
 The first with subquery filters the points of the path for this route that feed the next subquery: 10 unions with an `id` offset separation of 25 points. This subquery is passed to the main query that finally randomizes the `id` by +-5 positions, that is the order, so the moving dots are not regular, giving a more interesting (anarchic?) effect.
 
 Using the wizard, the main aspects of the Torque animation are set up. It's important to use a proper resolution, duration and frame count to adjust the rendering to a nice motion. Afterwards some last touches to the CSS to adjust the compositing operation and specially the trails, leaving just one more rendering of a similar point, instead of the default bigger and more transparent feature.
 
-```
+
+{{< highlight css>}}
 Map {
 -torque-frame-count:64;
 -torque-animation-duration:30;
@@ -146,19 +150,21 @@ Map {
 #paseo[frame-offset=2] {
  marker-width:6;
 }
-```
+{{< /highlight >}}
 
 ## Meeting point
 
 To add a feature to the map to render the meeting point, I manually added a new feature to the layer using the CartoDB editor. This feature will have the property `lap=0` so it won't be on the other layers. The SQL for this layer is just a
 
-```
-SELECT * FROM paseo WHERE route = 1 and lap = 0
-```
+{{< highlight sql>}}
+SELECT * 
+  FROM paseo
+ WHERE route = 1 and lap = 0
+{{< /highlight >}}
 
 And the CartoCSS is quite simple with the only important trick to use an external SVG. I've used directly the `town-hall` marker from the [Mapbox Maki repository](https://github.com/mapbox/maki).
 
-```
+{{< highlight css>}}
 #paseo{
   marker-fill-opacity: 0.9;
   marker-line-color: #FFF;
@@ -171,7 +177,7 @@ And the CartoCSS is quite simple with the only important trick to use an externa
   marker-allow-overlap: true;
 
   marker-file: url(https://raw.githubusercontent.com/mapbox/maki/mb-pages/src/town-hall-24.svg);
-```
+{{< /highlight >}}
 
 ![Fixed info window](/imgs/2014/09/2014-09-20-193927-seleccic3b3n.png?w=300)
 
@@ -195,18 +201,22 @@ What do you think about this visualization. What do you like and what do you hat
 
 This morning Pedro-Juan asked my, _why so many UNIONs? why not using just one long CASE?_. After accepting the challenge I did something with CASEs but then realized that I wast just looping over a smaller set of id values, so I could use the modulo function. So the long UNION SQL could be reduced to this easy and simple SQL:
 
-```
-SELECT
-    cartodb_id, the_geom_webmercator, 
-    ((random()*10-10) + id%3) id
-FROM paseo WHERE lap>0 AND route = 1
-```
+
+{{< highlight sql>}}
+SELECT cartodb_id,
+       the_geom_webmercator, 
+       ((random()*10-10) + id%3) id
+   FROM paseo
+  WHERE lap>0
+    AND route = 1;
+{{< /highlight >}}
 
 Wow, that's so concise compared with the huge SQL above!! Using this id%3 I forced all the values to be just 1,2,3 but with the afterwards random the moving effect is achieved.
 
 The CartoCSS would need also some changes to allow to "fill" the rendering over all the animation time. Check the differences with the above code, specially the number of offsets added:
 
-```
+
+{{< highlight css>}}
 Map {
 -torque-frame-count:50;
 -torque-animation-duration:8;
@@ -234,6 +244,6 @@ Map {
 #paseo[frame-offset=18] {}
 #paseo[frame-offset=20] {}
 #paseo[frame-offset=22] {}
-```
+{{< /highlight >}}
 
 The resultant visualization can be accessed [here](http://cdb.io/1ymwAzS). Which one do you like more? Do you think it's worth the simplicity over the (in my opinion) slightly worse effect?

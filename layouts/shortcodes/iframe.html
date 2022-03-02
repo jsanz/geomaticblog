@@ -1,0 +1,9 @@
+{{- $url:= "https://ivansanchez.carto.com/viz"}}
+{{ $width := default "100%" (.Get "width") }}
+{{ $height := default "400px" (.Get "height") }}
+{{ $class := default "borderless" (.Get "class") }}
+<iframe 
+	src="{{$url}}"
+	width="{{$width}}"
+	height="{{$height}}"
+	class="{{$class}}"></iframe>

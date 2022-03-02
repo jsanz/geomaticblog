@@ -19,7 +19,7 @@ The list of ideas exposed at the event was large, but at the end, only three "cl
 - Cloud discussions
 - Large data storage and partitioning
 
-https://twitter.com/stvno/status/1194906030444044289
+{{< twitter user="stvno" id="1194906030444044289" >}}
 
 Then we grouped back to provide some outcomes/conclusions and we head towards the pub (and myself to the airport back to Valencia).
 
@@ -29,6 +29,6 @@ The talks were related to the BoF sessions and covered the following topics:
 - **Marco Slot** from Microsoft exposed how [Citus](https://github.com/citusdata/citus), an extension for enabling sharding for Postgres, can help scale the database to manage large datasets. It's not focused on anything geospatial in particular, but he was looking for use cases where Citus can help to achieve good results. In fact at this moment apparently Citus does not support PostGIS aggregates but you can track [this issue](https://github.com/citusdata/citus/issues/1016) for future developments.
 - I presented the work that my colleague **Yuri** and I are doing to evolve the standard [OpenMapTiles](https://openmaptiles.org/) workflow from generating a static MBTiles asset to serve vector tiles into serving them directly from the database, leveraging the rather recent support for the MVT format just straight from PostGIS. You can find more details about the procedure on [this document](https://docs.google.com/document/d/1Q9qZjSqRN_3HNVgqL3OQKmEG1mh3quigc_wKo2EFwik/edit#) I used as a script for my talk and demos.
 
-https://twitter.com/stvno/status/1194926960692080645
+{{< twitter user="stvno" id="1194926960692080645">}}
 
 As a conclusion, it was nice to attend this unconference, to catch up with some friends from the area, and learn how relevant it is becoming for the Postgres community to respond to big data use cases.

@@ -16,8 +16,6 @@ So I reverse-engineered the protocol (if you call "reading a WSDL document" reve
 
 * * *
 
- 
-
 Fast-forward to the present. EMT had released the API details under the banner of «[Open Data EMT](http://opendata.emtmadrid.es/Home.aspx?lang=en-GB)», I had a saturday to devote to the Open Data Day, and my little web app needed some love after two years of no updates at all.
 
 But, oh boy, every time I try to develop anything with interfaces made by big subcontractors, I cannot stop cringing at the amount of WTF found around.
@@ -96,10 +94,13 @@ So, in a REST interface for bus stops, the stop number 1234 (a resource) would b
 
 Low-level, it should look like:
 
+{{< highlight text >}}
 GET /stops/1234 HTTP/1.1
+{{< /highlight >}}
 
 -----
 
+{{< highlight text >}}
 HTTP/1.1 200 OK
 Content-Type: text/JSON
 
@@ -110,14 +111,18 @@ Content-Type: text/JSON
 "stopName": "Lorep Ipsum Street",
 "lines": \["12", "34"\]
 }
+{{< /highlight >}}
 
 Now compare the theoretical RESTful way to fetch one bus stop with the real-life mess:
 
+{{< highlight text >}}
 POST /emt-proxy-server/last/bus/GetNodesLines.php HTTP/1.1
 idClient=user&passKey=12345678-1234-1234-12345678&Nodes=1234
+{{< /highlight >}}
 
 -----
 
+{{< highlight text >}}
 HTTP/1.1 200 OK
 Content-Type: text/JSON
 
@@ -132,6 +137,7 @@ Content-Type: text/JSON
   "longitude":-3.6608600156554
   }
 }
+{{< /highlight >}}
 
 So, meaningless URI, POST request to fetch a resource, duplicated return status codes (for the HTTP layer and some other underlying layer).
 
