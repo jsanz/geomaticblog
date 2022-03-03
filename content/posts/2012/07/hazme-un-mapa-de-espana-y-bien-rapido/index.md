@@ -37,26 +37,34 @@ Una vez descargados y descomprimidos nos ocuparan unos buenos 5,2 Gigabytes así
 
 O bien tenemos una base de datos PostGIS ya creada o bien nos creamos una nueva usando el script de ImpOSM
 
+{{< highlight text >}}
 $ imposm-psqldb > create-db.sh
+{{< /highlight >}}
 
 Para a continuación editamos el archivo _create-db.sh_ para comprobar si las rutas a los scripts de PostGIS y al archibo _pg\_hba.conf_ son correctas.
 
+{{< highlight text >}}
 $ vi create-db.sh
+{{< /highlight >}}
 
 En una instalación estándar de Ubuntu estos archivos se encuentran en:
 
+{{< highlight text >}}
 /usr/share/postgresql/8.4/contrib/postgis-1.5/postgis.sql
 /usr/share/postgresql/8.4/contrib/postgis-1.5/spatial\_ref\_sys.sql
 /etc/postgresql/8.4/main/pg\_hba.conf
+{{< /highlight >}}
 
 Guardamos el archivo y salimos de vi. \[para los legos _:wq_\]
 
 A continuación ejecutamos el script _crate-db.sh_, pero hay que hacerlo como usuario postgres por lo que teclearemos las instrucciones siguientes:
 
+{{< highlight text >}}
 $ sudo su postgres
 $ bash create-db.sh
 $ exit
 $ sudo service postgres restart
+{{< /highlight >}}
 
 A partir de este momento contamos con una base de datos PostgresSQL con la extensión PostGIS llamada **osm** y que tiene un usuario que se llama **osm** y cuya contraseña es **osm**.
 
@@ -64,7 +72,9 @@ A partir de este momento contamos con una base de datos PostgresSQL con la exten
 
 Los datos los vamos a importar usando el comando de una línea que lo hace todo chachiguay:
 
+{{< highlight text >}}
 $ imposm --read spain.osm --write --database osm --host localhost --user osm --optimize --overwrite-cache --deploy-production-tables
+{{< /highlight >}}
 
 La gente que ha usado ImOSM antes apreciará que vamos a usar el _mapping_ por defecto, es parte de la gracia y la desgracia del asunto... como lo que queremos es un mapa rápido y sucio... es lo que vamos a tener, España tal como lo ve el ImpOSM por defecto... con sus miserias y sus grandezas.
 
@@ -80,7 +90,9 @@ Nos apuntamos el nombre del proyecto y cerramos TileMill.
 
 Ahora nos vamos a la carpeta _Documents_ de nuestro usuario, fijaos bien que NO es la carpeta Document**O**s y en ella veremos una estructura de directorios parecida si no igual a esta:
 
+{{< highlight text >}}
 /home/TuUsuario/Documents/MapBox/project/NombreDeTuProyecto/
+{{< /highlight >}}
 
 **Nota:** amigo windowsero o maquero... NO sé donde está esta carpeta en tu sistema, pero estás buscando un archivo llamado _project.mml_ y por ese nombre deberían aparecer varios en tu sistema. Sería de agradecer un comentario explicando cómo se hace en tu SO, gracias.
 

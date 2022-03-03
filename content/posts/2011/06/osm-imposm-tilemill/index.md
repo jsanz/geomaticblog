@@ -6,6 +6,7 @@ categories:
   - "osm"
   - "postgis"
 authors: [ "pedro-juan-ferrer" ]
+coverImage: cunia_ejemplo.png
 ---
 
 # Hacía tiempo que no le dedicaba un ratillo a los temas geofrikis, no por falta de ganas, sino porque soy disperso, muy muy muy disperso, pero se cruzó la posibilidad de mezclar cartografía y juegos de rol y ...
@@ -32,7 +33,12 @@ El único problema que nos encontramos fue que la versión de _Rake_ que hay que
 
 La parte de cómo hemos dibujado _Cunia_ posiblemente la cuente [en otro sitio](http://desdeelsotano.com) aquí me referiré someramente a la herramienta _JOSM_ que es el editor en _Java_ y multiplataforma que se utiliza principalmente para crear información en formato _OSM_.
 
-[![Pantallazo de josm con cunia](/imgs/2011/06/josm.png?w=300 "Pantallazo de josm con cunia")](/imgs/2011/06/josm.png)
+{{< figure
+  src="images/josm.png"
+  link="images/josm.png"
+  caption="Pantallazo de josm con cunia"
+>}}
+
 
 Partiendo de una imagen del mapa actual que se colocó de fondo se han digitalizado todas los ejes de calle y actualmente estamos trabajando en poner los nombres y edificios singulares, dejando para más adelante _las florituras_.
 
@@ -72,7 +78,10 @@ Si todo ha ido bien tendréis una base de datos _PostGIS_ monda y lironda en vue
 
 Os aconsejo en este punto que al menos la primera vez sigáis el tutorial donde se leen, optimizan y escriben los datos en tres pasos, más que nada porque a base de _C&P_ no os va a costar mucho... yo directamente le voy a dar el comando todo-en-uno:
 
-> imposm --read --write --optimize -d osm cunia20110608.osm
+
+{{< highlight text >}}
+$ imposm --read --write --optimize -d osm cunia20110608.osm
+{{< /highlight >}}
 
 Dependiendo de vuestro juego de datos esto tardará más o menos... en este caso unos segundillos. El proceso va mostrando información en pantalla de los pasos que va dando.
 
@@ -100,17 +109,24 @@ La importación de datos se hace sobre tablas a las que se le añade el prefijo 
 
 Para trabajar sobre las tablas se debería hacer un _despliegue_ de las mismas, con _ImpOSM_ basta con ejecutar el comando:
 
-> imposm -d osm --deploy-production-tables
+
+{{< highlight text >}}
+$ imposm -d osm --deploy-production-tables
+{{< /highlight >}}
 
 Para que cambie el prefijo a _osm\__. Si ya hubieramos hecho otro despliegue las actuales tablas _osm\__ se renombran automáticamente a _osm\_old\__. Cada vez que se hace un despliegue se borrarán primero las _osm\_old\__.
 
 Para revertir el despliegue se puede ejecutar el comando:
 
-> imposm -d osm --recover-production-tables
+{{< highlight text >}}
+$ imposm -d osm --recover-production-tables
+{{< /highlight >}}
 
 Y para borrar las _old_
 
-> imposm -d osm --remove-backup-tables
+{{< highlight text >}}
+$ imposm -d osm --remove-backup-tables
+{{< /highlight >}}
 
 # TileMill
 
@@ -142,6 +158,8 @@ El lenguaje permite crear distintas simbologías en función de niveles de zoom,
 
 Un ejemplo, tomado de uno de los ejemplos que vienen con la aplicación, sería:
 
+
+{{< highlight css >}}
 .highway\[type='motorway'\] {
   .line\[zoom>=7\]  {
     line-color:spin(darken(@motorway,36),-10);
@@ -154,10 +172,15 @@ Un ejemplo, tomado de uno de los ejemplos que vienen con la aplicación, sería:
     line-join:round;
   }
 }
+{{< /highlight >}}
 
 Añadimos dos veces la capa de carreteras, una de ellas le asignamos la categoría _.fill_ y la otra la categoría _.line_. En el ejemplo le estamos asignado el color _@motorway_ que debemos tener ya definido y que oscurecemos para hacer el efecto de caja. El efecto caja solo se verá en niveles de zoom iguales o superiores a 10.
 
-[![El nudo de Cunia con la A3](/imgs/2011/06/cunia_ejemplo.png?w=300 "El nudo de Cunia con la A3")](/imgs/2011/06/cunia_ejemplo.png)
+{{< figure
+  src="images/cunia_ejemplo.png"
+  link="images/cunia_ejemplo.png"
+  caption="El nudo de Cunia con la A3"
+>}}
 
 ## Exportación
 

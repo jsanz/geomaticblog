@@ -8,6 +8,45 @@ article {
     color: rgb(65, 65, 65);
 }
 
+.cover-image-container img {
+    object-fit: cover;
+    object-position: center;
+    height: 300px;
+    width: 100%;
+}
+
+.home-summary .cover-image-container img {
+    height: 80px;
+    width: 25%;
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .home-summary .cover-image-container img {
+        height: 100px;
+        width: 100%;
+        display: block;
+        margin: 0 auto 20px;
+    }
+  }
+
+.read-more {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .read-more {
+        margin-bottom: 0.5rem;
+    }
+  }
+
+.Tags {
+    margin: 0rem 0 1.5rem 0;
+}
+
+
+
 figure.centered {
     margin:  0 auto;
     text-align: center;
