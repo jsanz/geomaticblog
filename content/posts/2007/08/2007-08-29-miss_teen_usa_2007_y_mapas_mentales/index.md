@@ -17,8 +17,6 @@ La [transcripción](http://www.usatoday.com/life/people/2007-08-28-miss-south-ca
 
 Por otro lado, en el blog de [JamesFee](http://www.spatiallyadjusted.com/2007/08/28/us-americans-and-no-maps/) se publica el mapamental (o del metro) de su razonamiento:
 
-![](http://zhun.pair.com/spatiall/gallery2/main.php?g2_view=core.DownloadItem&g2_itemId=858&g2_serialNumber=2 "Miss Map")
-
 La verdad es que yo en su día en el instituto (2º o 3º delantiguo [BUP](http://es.wikipedia.org/wiki/Ley_General_de_Educaci%C3%B3n_de_1970),wow) aprendí todos los países ycapitales del mundo (de mediados de los noventa) pero si me pides que ponga a [Latvia](http://es.wikipedia.org/wiki/Latvia)(por ejemplo) en un mapa fijo que la cago. Menos mal que a nuestro rescate vienen juegos como esta especie de [geo-tetris](http://www.mapmsg.com/games/statetris/europe/) para ayudarnos.
 
 ¿Creéis que en vuestra educación se dio suficiente importanciaa la geografía? Personalmente creo que en España si le preguntas a unapersona con educación media sería difícil que no fuera capaz de ubicarla mayor parte de los países relevantes en el mundo, no digoubicar [Uzbekistán](http://es.wikipedia.org/wiki/Uzbekist%C3%A1n)claro, pero al menos los más importantes yo diría que sí (y desde luegono saber ubicar España en un mapamundi ni me planteo). Aunque tal vezsea demasiado optimista no lo sé, cuando vea a mi padre le pongo en unaprieto... en fin, chorradas de final de verano.
