@@ -1,5 +1,14 @@
 {{ if .Params.coverImage }}
 <div class="cover-image-container">
-    <img src="{{ .RelPermalink }}/images/{{.Params.coverImage}}">
+    <figure>
+        <img src="{{ .RelPermalink }}/images/{{.Params.coverImage}}">
+        {{- with .Params.coverCaption }}
+        <figcaption>
+            <p>
+              {{ . | safeHTML }}
+            </p>
+        </figcaption>
+        {{- end }}
+    </figure>
 </div>
 {{ end }}

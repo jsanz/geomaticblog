@@ -4,7 +4,7 @@ date: "2022-03-07"
 categories:
   - "opinion"
 coverImage: "olga-subach-BRHVnm1SPWA-unsplash.jpg"
-coverAttribution: Photo by <a href="https://unsplash.com/@create4eyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olga Subach</a> on <a href="https://unsplash.com/s/photos/ukraine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+coverCaption: Photo by <a href="https://unsplash.com/@create4eyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olga Subach</a> on <a href="https://unsplash.com/s/photos/ukraine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 authors: ["jorge-sanz"]
 ---
 
