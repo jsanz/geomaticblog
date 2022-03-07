@@ -1,7 +1,19 @@
 /* Custom styles */
 
 :root {
-  --primary-color: #4682b4;
+    --base-color: #4682b4;
+    --ukraine-blue: #0959B8;
+    --ukraine-yellow: #FED62E;
+
+    --primary-color: var(--ukraine-blue);
+}
+
+.u-background {
+    background-color: var(--ukraine-blue);
+}
+
+nav.u-background{
+    border-bottom: 15px solid var(--ukraine-yellow);
 }
 
 article {
