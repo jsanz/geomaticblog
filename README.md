@@ -4,8 +4,6 @@ This is the content repository for <https://geomaticblog.net>, a blog about geos
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e4449a72-d055-448a-8bc6-505619f5509d/deploy-status)](https://app.netlify.com/sites/geomaticblog/deploys)
 
-> **Note**: This is still a Work in Progress, but soon this repo will be displayed at `geomaticblog.net`. Until then, you can browse this content at <https://geomaticblog.netlify.app>.
-
 Some details:
 
 * Since the migration was not completely clean, every old posnt offers a link to the Wayback Machine for convenience. Also old comments were not migrated and will only be accessible from the wayback machine.
