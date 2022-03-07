@@ -1,6 +1,6 @@
-{{ range $i, $author := .Params.authors -}}
+{{- range $i, $author := .Params.authors -}}
     {{- if $i -}}, {{ end -}}
     {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize $author )) }}
     <a class="u-clickable" href='/authors/{{ .Params.name | urlize }}'>{{ .Params.name }}</a>
-    {{ end }}
+    {{- end }}
 {{- end -}}
