@@ -1,53 +1,48 @@
-{{ define "load_page_assets" }}
-
-  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-
-  {{ $paginator := .Paginate $pages }}
-
-  {{ range $paginator.Pages }}
-    {{ with .Content }}{{ end }}
-    {{ $page_css := .Scratch.Get "css" }}
-    {{ with $page_css }}
-      {{ $css_list := $.Scratch.Get "css" }}
-      {{ . | merge $css_list | $.Scratch.Set "css" }}
-    {{ end }}
-    {{ $page_js := .Scratch.Get "js" }}
-    {{ with $page_js }}
-      {{ $js_list := $.Scratch.Get "js" }}
-      {{ . | merge $js_list | $.Scratch.Set "js" }}
-    {{ end }}
-  {{ end }}
-
-  {{ $paginator | .Scratch.Set "paginator" }}
-
-{{ end }}
-
-{{ define "main" }}
-
-  {{ $paginator := .Scratch.Get "paginator" }}
-
-  {{ range $paginator.Pages }}
+{{- define "load_page_assets" }}
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $paginator := .Paginate $pages }}
+  {{- range $paginator.Pages }}
+    {{- with .Content }}{{ end }}
+    {{- $page_css := .Scratch.Get "css" }}
+    {{- with $page_css }}
+      {{- $css_list := $.Scratch.Get "css" }}
+      {{- . | merge $css_list | $.Scratch.Set "css" }}
+    {{- end }}
+    {{- $page_js := .Scratch.Get "js" }}
+    {{- with $page_js }}
+      {{- $js_list := $.Scratch.Get "js" }}
+      {{- . | merge $js_list | $.Scratch.Set "js" }}
+    {{- end }}
+  {{- end }}
+  {{- $paginator | .Scratch.Set "paginator" }}
+{{- end }}
+{{- define "main" }}
+  {{- $paginator := .Scratch.Get "paginator" }}
+  {{- range $paginator.Pages }}
     <article class="home-summary">
-      {{ partial "heading.html" . }}
-      {{ partial "cover-image.html" .}}
-
-      {{ if site.Params.summaries }}
-        {{ .Summary }}
-        {{ if .Truncated }}
-          <p class="read-more">
-            <a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a>
+      {{- partial "heading.html" . }}
+      <div>
+        {{- if site.Params.summaries }}
+          <span class="cover-image-container">
+            {{- partial "cover-image.html" .}}
+          </span>
+          <p>
+            {{- .Summary }}
           </p>
-        {{ end }}
-      {{ else }}
-        {{ .Content }}
-      {{ end }}
-      {{ partial "tags.html" . }}
+          {{- if .Truncated }}
+            <p class="read-more">
+              <a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a>
+            </p>
+          {{- end }}
+        {{- else }}
+          {{- .Content }}
+        {{- end }}
+      </div>
+      {{- partial "tags.html" . }}
     </article>
-    {{ with site.Params.divider }}
+    {{- with site.Params.divider }}
       <div class="Divider"></div>
-    {{ end }}
-  {{ end }}
-
-  {{ partial "pagination.html" . }}
-
-{{ end }}
+    {{- end }}
+  {{- end }}
+  {{- partial "pagination.html" . }}
+{{- end }}

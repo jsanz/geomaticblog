@@ -1,14 +1,15 @@
-{{ define "main" }}
+{{- define "main" }}
 
   <article class="posts-single">
-    {{ partial "heading.html" . }}
-    {{ partial "old-posts.html" .}}
-    {{ partial "cover-image.html" .}}
-    {{ .Content }}
-    {{ partial "github.html" . }}
-    {{ partial "tags.html" . }}
-    {{ partial "comments.html" . }}
-    {{ partial "prev-next.html" . }}
+    {{- partial "heading.html" . }}
+    {{- partial "old-posts.html" .}}
+    <div class="cover-image-container">
+      {{- partial "cover-image.html" .}}
+    </div>
+    {{- .Content }}
+    {{- partial "github.html" . }}
+    {{- partial "tags.html" . }}
+    {{- partial "comments.html" . }}
+    {{- partial "prev-next.html" . }}
   </article>
-
-{{ end }}
+{{- end }}

@@ -4,13 +4,10 @@
   </h2>
   <p>
     {{- if and (eq .Type "posts") (eq .Kind "page" ) -}}
-        by {{ partial "author/list.html" .}}
+        by {{- partial "author/list.html" .}}
     {{- end -}}
-    {{ with .PublishDate | default nil }}
-      on
-      <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
-        {{- .Format "2 January, 2006" -}}
-      </time>
-    {{ end }}
+    {{- with .PublishDate | default nil }}
+      on <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}"> {{- .Format "2 January, 2006" -}} </time>
+    {{- end }}
   </p>
 </header>

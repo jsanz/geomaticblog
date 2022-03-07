@@ -1,11 +1,11 @@
-{{ range $i, $author := .Params.authors -}}
+{{- range $i, $author := .Params.authors -}}
     {{- if $i -}}, {{ end -}}
     {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize $author )) }}
-        {{ $initials := delimit ( apply  (split .Params.name " ") "substr" "." "0" "1" ) "" }}
+        {{- $initials := delimit ( apply  (split .Params.name " ") "substr" "." "0" "1" ) "" }}
         <span class="author-{{ $initials }}">
             <a href='/authors/{{ (default (.Params.name | urlize ) .Params.url_name) }}' title="{{.Params.name}}">
-                {{ $initials }}
+                {{- $initials }}
             </a>
         </span>
-    {{ end }}
+    {{- end }}
 {{- end -}}
