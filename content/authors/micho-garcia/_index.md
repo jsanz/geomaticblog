@@ -2,6 +2,6 @@
 name: Micho García
 url_name: micho-garcia
 short_name: Micho
-twitter: "@michogar"
-avatar: https://pbs.twimg.com/profile_images/2673025106/8052b148e8ddc9fbb19d3ed007d392b3_400x400.png
+linkedin: https://www.linkedin.com/in/miguelgc/
+avatar: https://media.licdn.com/dms/image/D4D03AQHLUnyjRegswg/profile-displayphoto-shrink_800_800/0/1669458101170?e=1694044800&v=beta&t=aR1LFrTr3LvwqM262Ch9tM-tet2Xy751qIcPtZlbgbI
 ---

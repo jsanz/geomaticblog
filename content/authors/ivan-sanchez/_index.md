@@ -2,6 +2,6 @@
 name: Iván Sánchez
 url_name: ivan-sanchez
 short_name: Iván
-twitter: "@RealIvanSanchez"
-avatar: https://pbs.twimg.com/profile_images/1444251366050893826/yxGh1hS-_400x400.png
+linkedin: https://www.linkedin.com/in/ivansanchezortega/
+avatar: https://media.licdn.com/dms/image/C4D03AQGmUdRJdU3cxQ/profile-displayphoto-shrink_800_800/0/1516632971279?e=1694044800&v=beta&t=a01Ie8yePUCVKy77tfVnZc4O_six-rZA35sG0AJlpKM
 ---

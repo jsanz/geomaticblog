@@ -2,6 +2,6 @@
 name: Roberto Antolín
 url_name: roberto-antolin
 short_name: Roberto
-twitter: "@tolanss"
-avatar: https://pbs.twimg.com/profile_images/1215420724120313857/QGyrYCif_400x400.jpg
+linkedin: https://www.linkedin.com/in/roberto-antolin-sanchez/
+avatar: https://media.licdn.com/dms/image/C5103AQH7ngz0DTFI4Q/profile-displayphoto-shrink_800_800/0/1516765324180?e=1694044800&v=beta&t=0hyuEFDqHZqyBBdUfGQcKsWUL_ftk_5ulVqcHfrcBEI
 ---
