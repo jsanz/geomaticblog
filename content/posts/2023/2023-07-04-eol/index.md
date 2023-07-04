@@ -3,7 +3,7 @@ title: "Retiring geomaticblog.net"
 date: "2023-07-04"
 categories:
   - "meta"
-coverImage: "end.jpg"
+coverImage: "patrick-perkins-Pg44v2M2S6k-unsplash.jpg"
 coverCaption: Photo by <a href="https://unsplash.com/@patrickperkins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Perkins</a> on <a href="https://unsplash.com/photos/Pg44v2M2S6k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 authors: ["jorge-sanz"]
 ---
