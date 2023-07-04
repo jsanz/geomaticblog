@@ -8,10 +8,10 @@
   <!-- 
   <h2>Bio</h2>
   {{ .Content }} -->
-  {{ with .Params.twitter }}
+  {{ with .Params.linkedin }}
     <p>
-      <a href="https://twitter.com/{{ substr . 1 }}">
-        Follow {{ $.Params.short_name }} ({{ $.Params.linkedin }}) on Linkedin
+      <a href="{{.}}">
+        Follow {{ $.Params.short_name }} on Linkedin
       </a>
     </p>
   {{ end }}
