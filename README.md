@@ -7,7 +7,7 @@ This is the content repository for <https://geomaticblog.net>, a blog about geos
 Some details:
 
 * Since the migration was not completely clean, every old posnt offers a link to the Wayback Machine for convenience. Also old comments were not migrated and will only be accessible from the wayback machine.
-* From now on, the website uses [utterances](https://utteranc.es/) to host blogpost comments as issues on the Github repository.
+* ~~From now on, the website uses [utterances](https://utteranc.es/) to host blogpost comments as issues on the Github repository.~~
 * To support multiple authors, a taxonomy has been implemented allowing to assign multiple authors to a single post, and group them altogether at the `/authors`  taxonomy page.
 * Deploy previews are enabled for Pull Requests, allowing to inspect new features, fixes, and even blog drafts and reviews.
 

@@ -1,6 +1,6 @@
 ---
 name: Vicente Bayarri
 short_name: Vicente
-twitter: "@geochente"
-avatar: https://pbs.twimg.com/profile_images/1214413973/DSC08761_2_400x400.jpg
+linkedin: https://www.linkedin.com/in/vicente-bayarri-86b0b08/
+avatar: vicente-bayarri.jpg
 ---
