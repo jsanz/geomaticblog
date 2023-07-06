@@ -1,6 +1,6 @@
 ---
 title: "Retiring geomaticblog.net"
-date: "2023-07-04"
+date: "2023-07-06"
 categories:
   - "meta"
 coverImage: "patrick-perkins-Pg44v2M2S6k-unsplash.jpg"
